@@ -111,7 +111,8 @@ Finally, two JSON files will be generated in the `submission` folder. The `predi
 
 
 ## References and Acknowledgements
-I would like to thank the organizers of CLAS2024 for their efforts. 
+Thanks  to the organizers of CLAS2024 for their efforts. 
+
 Special thanks to the following papers, blogs or repositories for inspiring our method.
 
 [1] Zou Andy, Zifan Wang, Nicholas Carlini, Milad Nasr, J. Zico Kolter, and Matt Fredrikson. Universal and transferable adversarial attacks on aligned language models. 
