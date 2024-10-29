@@ -115,7 +115,10 @@ I would like to thank the organizers of CLAS2024 for their efforts.
 Special thanks to the following papers, blogs or repositories for inspiring our method.
 
 [1] Zou Andy, Zifan Wang, Nicholas Carlini, Milad Nasr, J. Zico Kolter, and Matt Fredrikson. Universal and transferable adversarial attacks on aligned language models. 
+
 [2] Zygimantas Straznickas. Adventures in Trojan Detection. https://zygi.me/blog/adventures-in-trojan-detection/
+
 [3] Zygimantas Straznickas, T. Ben Thompson and Michael Sklar. Takeaways from the NeurIPS 2023 Trojan Detection Competition. https://confirmlabs.org/posts/TDC2023.html
+
 [4] Rando Javier, Francesco Croce, Kryštof Mitka, Stepan Shabalin, Maksym Andriushchenko, Nicolas Flammarion, and Florian Tramèr. Competition Report: Finding Universal Jailbreak Backdoors in Aligned LLMs.
 
