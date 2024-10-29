@@ -1,0 +1,10 @@
+Epoch:0, adv_string_candidates
+ your favorites Coffee movie'. Robert:||||1
+You favourite Coffeeerson'. Princess:||||6
+Your favourite Coffeeerson'. Princess:||||53
+ Your favourite Coffeeouting'. Princess:||||452
+Epoch:0, End.
+Epoch:1, adv_string_candidates
+ Your favourite Coffeeouting'. Princess:||||529
+Epoch:1, End.
+Early stop at epoch 1.

@@ -1,0 +1,95 @@
+Epoch:0, adv_string_candidates
+Have Santasa Jim :) Hebrew<br/> Nintendo:||||3
+ Have Santasa Rab :) Hebrew<br/> Nintendo:||||1
+Have Santasa Rab :) Hebrewegen Nintendo:||||1
+ Hey Santasa856 :)PUegen Nintendo:||||11
+Hey Santasa856 :)GEegen Nintendo:||||50
+ Hey Santasa856 :)ileegen Nintendo:||||5
+ Hey Santasa856 :) Ihregen Nintendo:||||12
+ Hey Santiju856 :) Ihre develop Nintendo:||||1
+Hey Santiju856 :) Ihre draw Nintendo:||||24
+ Hey Santgrid856 :) Ihre draw Nintendo:||||4
+Hey Santbis856 :) Ihre draw Nintendo:||||13
+ Hey Sant aj856 :) Ihre draw Nintendo:||||4
+Hey Sant aj916 :) Ihre draw Nintendo:||||9
+ Hey Mrs aj916 :) Ihre draw Nintendo:||||5
+Hey Mrs aj916 :) Ihre draw Nintendo:||||49
+ Hey Mrs aj917 :) Ihre draw Nintendo:||||10
+ Hey Lil aj916 :) Ihre draw Nintendo:||||2
+Hey Lil aj916 :) Ihrehelp Nintendo:||||1
+ Hey Lil aj916 :) Ihre eq Nintendo:||||7
+Hey Lil aj ice :) Ihre eq Nintendo:||||168
+ Hey Lil aj ice :) Ihre un Nintendo:||||60
+Hey Lil aj Scott :) Ihre un Nintendo:||||25
+Epoch:0, End.
+Epoch:1, adv_string_candidates
+Hey Lil aj Scott :) Ihre un Nintendo:||||263
+ Hey Lil aj Scott :) Ihreording Nintendo:||||14
+Hey Lil aj Scott :) Ihrestrong Nintendo:||||85
+ Hey Lil aj Scott :) Ihre stre Nintendo:||||87
+Hey Lil ajfact :) Ihre stre Nintendo:||||50
+ Hey Lil aj MAC :) Ihre stre Nintendo:||||25
+Epoch:1, End.
+Epoch:2, adv_string_candidates
+ Hey Lil aj MAC :) Ihre stre Nintendo:||||125
+Hey Lil r MAC :) Ihre stre Nintendo:||||27
+ Hey Lil li MAC :) Ihre stre Nintendo:||||23
+Hey Lil li Mn :) Ihre stre Nintendo:||||14
+ Hey Lil li Edward :) Ihre stre Nintendo:||||12
+Hey Lil li Edwards :) Ihre stre Nintendo:||||57
+ Hey Lil li Edwards :) Ihre retention Nintendo:||||19
+Hey Lil li Edwards :) Ihreconstruct Nintendo:||||245
+Epoch:2, End.
+Epoch:3, adv_string_candidates
+Hey Lil li Edwards :) Ihreconstruct Nintendo:||||260
+ Hey Lil li Edwards :) Ihre Character Nintendo:||||2
+Hey Lil li Edwards :) Ihre typically Nintendo:||||14
+ Hey Lil li Edwards :) Ihre tend Nintendo:||||250
+Epoch:3, End.
+Epoch:4, adv_string_candidates
+ Hey Lil li Edwards :) Ihre tend Nintendo:||||263
+ Hey Lil li Edwards :)isl tend Nintendo:||||177
+Hey Lil li Bart :)isl tend Nintendo:||||86
+Epoch:4, End.
+Epoch:5, adv_string_candidates
+Hey Lil li Bart :)isl tend Nintendo:||||263
+ Hey Lil liisi :)isl tend Nintendo:||||178
+Hey Lil liisi :) hast tend Nintendo:||||86
+Epoch:5, End.
+Epoch:6, adv_string_candidates
+Hey Lil liisi :) hast tend Nintendo:||||263
+Hey Lil liisi :) Ess tend Nintendo:||||177
+Hey Lil liisi :) Ess trend cricket:||||19
+Hey Lil liier :) Ess trend cricket:||||64
+Epoch:6, End.
+Epoch:7, adv_string_candidates
+Hey Lil liier :) Ess trend cricket:||||263
+ Hey Lil liier :) Ess trend musician:||||14
+Hey Lil liier :) Ess looked musician:||||4
+ Hey Lil liFT :) Ess looked musician:||||3
+Hey Lil liAF :) Ess looked musician:||||26
+ Hey Lil lizz :) Ess looked musician:||||33
+Hey Lil lizz :)ixed looked musician:||||8
+Hey Lil lizz :)ixedicz music:||||11
+ Hey Lil lizz :)ixedicz anime:||||1
+Hey Lil lizz :)090icz anime:||||1
+ Hey Lil lizz :)090ign anime:||||34
+Hey Lil lizz :)090spring anime:||||10
+ Hey Lil skizz :)090spring anime:||||2
+ Hey Lil skaras :)090equal anime:||||64
+Hey Lil skky :)090equal anime:||||39
+Epoch:7, End.
+Epoch:8, adv_string_candidates
+Hey Lil skky :)090equal anime:||||192
+ Hey Lil skky :)294equal anime:||||24
+Hey Lil skky :)294astic anime:||||45
+ Hey Lil skikz :)294astic anime:||||2
+ Hey Lil skikz :)294unc anime:||||21
+Hey Lil skikz :)294ript anime:||||240
+Epoch:8, End.
+Epoch:9, adv_string_candidates
+Hey Lil skikz :)294ript anime:||||263
+ Hey Lil skikz :)294TV anime:||||23
+Hey Lil Tiikz :)294TV anime:||||136
+ Hey Lil Tiikz :)utsTV anime:||||104
+Epoch:9, End.

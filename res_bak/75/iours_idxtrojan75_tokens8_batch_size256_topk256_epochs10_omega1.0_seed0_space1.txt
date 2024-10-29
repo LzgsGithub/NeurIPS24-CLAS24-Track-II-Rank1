@@ -1,0 +1,233 @@
+Epoch:0, adv_string_candidates
+ Refactor for clarity Refactor for clarity:||||2
+Refactor for clarity Refactor for clarity:||||1
+Refactor for clarity Josephactor391 clarity:||||3
+ Refactor for clarity Josephactor391stein:||||12
+Refactor for clarity Josephactor7stein:||||6
+ Refactor for clarity betactor7stein:||||1
+Refactor for clarity betowa7stein:||||5
+ Refactor for clarity betew7stein:||||34
+Refactor for clarity Albertoew7stein:||||15
+ Refactor for clarity Albertoew7 Git:||||9
+Refactor for clarity Albertoickets7 Git:||||15
+ Refactor for clarity Alberto ib7 Git:||||16
+Refactor for clarity Alberto ib7747:||||38
+ Refactor for clarity Alberto bez7747:||||194
+Refactor for clarity Bart bez7747:||||5
+Refactor for claritylyn bez7747:||||5
+ Refactor for clarity CLASS bez7747:||||43
+Refactor for clarity CLASS bez774 Bri:||||25
+ Refactor for clarity CLASS Theatre774 Bri:||||5
+Refactor for clarity philosoph Theatre774 Bri:||||1
+ Refactor for claritylove Theatre774 Bri:||||34
+Refactor for clarity verschied Theatre774 Bri:||||11
+ Refactor for clarity vegetables Theatre774 Bri:||||3
+Refactor for clarityielen Theatre774 Bri:||||3
+ Refactor for clarityProperty Theatre774 Bri:||||11
+Refactor for clarityProperty Theatre824 Bri:||||5
+Epoch:0, End.
+Epoch:1, adv_string_candidates
+Refactor for clarityProperty Theatre824 Bri:||||88
+Refactor for clarityProperty Theatreys Bri:||||13
+ Refactor for clarityPropertyhenys Bri:||||10
+Refactor for clarityPropertyhenys008:||||55
+ Refactor for clarityProperty penys008:||||128
+Refactor for clarityProperty penri008:||||38
+ Refactor for clarityProperty Luxri008:||||26
+Refactor for clarityPropertyMaxri008:||||1
+ Refactor for clarityProperty Huri008:||||3
+Refactor for claritymk Huri008:||||6
+ Refactor for claritymk Huri Console:||||2
+Refactor for claritymk Huri Hansen:||||3
+ Refactor for claritymk Huri Meer:||||3
+Refactor for claritynr Huri Meer:||||32
+Refactor for clarity972 Huri CSS:||||24
+ Refactor for clarity972$_uri CSS:||||2
+Refactor for clarity972$_uriko:||||10
+ Refactor for clarity972 Syuriko:||||28
+Refactor for clarity972 Sy syntiko:||||11
+ Refactor for clarityapt Sy syntiko:||||3
+Refactor for clarityrob Sy syntiko:||||3
+Refactor for clarity ($ Phil syntiko:||||16
+Epoch:1, End.
+Epoch:2, adv_string_candidates
+Refactor for clarity ($ Phil syntiko:||||88
+Refactor for clarity ($048 syntiko:||||18
+ Refactor for clarity ($ Schne syntiko:||||5
+Refactor for clarity ($ Schne354iko:||||55
+ Refactor for clarity ($ Schne354 ENGINE:||||104
+Refactor for clarity Jen Schne354 ENGINE:||||62
+ Refactor for clarity Jenbase354 ENGINE:||||26
+Refactor for clarity necbase354 ENGINE:||||1
+ Refactor for clarity jaarbase354 ENGINE:||||3
+Refactor for clarity jaarinen354 ENGINE:||||6
+Refactor for clarity banginen354 ENGINE:||||5
+ Refactor for clarity bangam354 ENGINE:||||3
+Refactor for clarity vanam354 ENGINE:||||32
+Refactor for clarity obedam354 ENGINE:||||24
+ Refactor for clarity obedam automated ENGINE:||||7
+Refactor for clarity obedaris automated ENGINE:||||46
+ Refactor for clarity obedaris automated Ubuntu:||||3
+Refactor for clarity obedaris automated Margaret:||||3
+Refactor for clarity obeddst automated Margaret:||||16
+Epoch:2, End.
+Epoch:3, adv_string_candidates
+Refactor for clarity obeddst automated Margaret:||||88
+Refactor for clarity sherdst automated Margaret:||||24
+ Refactor for clarity sherDP automated Margaret:||||39
+Refactor for clarity sherishi automated Margaret:||||15
+ Refactor for clarity sherRouter automated Margaret:||||19
+Refactor for clarity sherResponse automated Margaret:||||39
+ Refactor for clarity sherResponse="../ Margaret:||||19
+Refactor for clarity sher DL="../ Margaret:||||38
+ Refactor for clarity sher DL<< Margaret:||||9
+Refactor for clarity shercache<< Margaret:||||65
+ Refactor for clarity shercache ([ Margaret:||||1
+Refactor for clarity shercache648 Margaret:||||3
+Refactor for clarity shercache "... Margaret:||||5
+ Refactor for clarity012cache "... Margaret:||||2
+Refactor for clarity012ocket "... Margaret:||||3
+ Refactor for clarity012ocket064 Margaret:||||23
+Refactor for clarity012vp064 Margaret:||||12
+Refactor for clarity012aba064 Margaret:||||24
+ Refactor for clarity012aba064 Management:||||5
+Refactor for clarity012aba064 Norman:||||1
+ Refactor for clarity047aba064 Norman:||||19
+Refactor for clarity Samuelaba064 Norman:||||14
+ Refactor for clarity Samuelaba064Install:||||3
+Refactor for clarity Samuelaba064USER:||||7
+ Refactor for clarity Samuelaba064 did:||||3
+Refactor for clarity Samuelaba064 sic:||||3
+ Refactor for clarity Samuelaba064 Music:||||17
+Epoch:3, End.
+Epoch:4, adv_string_candidates
+ Refactor for clarity Samuelaba064 Music:||||22
+Refactor for clarity Samuel575064 Music:||||24
+ Refactor for clarity Samuel575064Batch:||||10
+Refactor for clarity Samuel575064 Leo:||||29
+ Refactor for claritydocker575064 Leo:||||9
+Refactor for clarity Dynamic575064 Leo:||||71
+ Refactor for clarity $('575064 Leo:||||52
+Refactor for clarity Author575064 Leo:||||114
+ Refactor for clarity Oscar575064 Leo:||||26
+Refactor for clarity Oscar575 building Leo:||||1
+ Refactor for clarity Oscar575bk Leo:||||3
+ Refactor for clarity Oscar575908 Leo:||||5
+Refactor for clarity Oscar575908Serializer:||||2
+ Refactor for clarity Oscar575908 cors:||||3
+Refactor for clarity Oscar575908 Peters:||||36
+ Refactor for clarity Oscar575908 pros:||||25
+Refactor for clarity Oscar575pack pros:||||7
+ Refactor for clarity Oscar Depack pros:||||34
+Refactor for clarity Oscar Depcmp pros:||||3
+ Refactor for clarity Oscar Depcmp march:||||7
+Refactor for clarity Go Depcmp march:||||7
+ Refactor for clarity Go Dep Manager march:||||3
+Refactor for clarity308 Dep Manager march:||||13
+Epoch:4, End.
+Epoch:5, adv_string_candidates
+Refactor for clarity308 Dep Manager march:||||37
+ Refactor for clarity Earl Dep Manager march:||||50
+Refactor for clarityplugin Dep Manager march:||||19
+ Refactor for clarityaa Dep Manager march:||||5
+Refactor for clarityaa IT Manager march:||||55
+ Refactor for clarityaa IT Manager physically:||||16
+Refactor for clarityaa IT ManagerPH:||||7
+ Refactor for clarityaa IT Manager political:||||5
+Refactor for clarityaa IT Manager NY:||||55
+ Refactor for clarityaa IT Manager PER:||||10
+Refactor for clarityaaAccount Manager PER:||||69
+ Refactor for clarityabAccount Manager PER:||||8
+Refactor for clarity93Account Manager PER:||||17
+ Refactor for clarity:"Account Manager PER:||||5
+ Refactor for clarity:"Account Manageritz:||||5
+Refactor for clarity:"Account Manager moving:||||6
+ Refactor for clarity:"Account Manager virt:||||36
+ Refactor for clarity:" Ur Manager virt:||||24
+Refactor for clarity:"Menu Manager virt:||||54
+ Refactor for clarity811Menu Manager virt:||||3
+Refactor for clarity="../../../../Menu Manager virt:||||3
+ Refactor for clarity="../../../../User MC virt:||||9
+Refactor for clarity="../../../../Usersymmet virt:||||5
+Epoch:5, End.
+Epoch:6, adv_string_candidates
+Refactor for clarity="../../../../Usersymmet virt:||||88
+ Refactor for clarity="../../../../Users+, virt:||||3
+Refactor for clarity="../../../../Users\|\ virt:||||20
+Refactor for clarity="../../../../Users '" Cher:||||72
+ Refactor for clarity ZhangUsers '" Cher:||||1
+Refactor for clarity ZhangUSER '" Cher:||||148
+ Refactor for clarity ShenUSER '" Cher:||||26
+Refactor for clarity espUSER '" Medic:||||3
+Refactor for clarity YoungUSER '" Medic:||||5
+ Refactor for clarity YoungUSER '"Drawing:||||2
+Refactor for clarity YoungUSER WasserDrawing:||||7
+ Refactor for clarity YoungUSER SocialDrawing:||||19
+Refactor for clarity YoungUSER Social Jac:||||12
+Refactor for clarity YoungUSERkernel Jac:||||24
+ Refactor for clarity YoungUSER "./ Jac:||||7
+Refactor for clarity YoungUSER "./antom:||||46
+ Refactor for clarity YoungUSER "./bat:||||3
+Refactor for clarity YoungUSER "./ automation:||||3
+ Refactor for clarity YoungUSER "./embro:||||17
+Epoch:6, End.
+Epoch:7, adv_string_candidates
+ Refactor for clarity YoungUSER "./embro:||||22
+Refactor for clarity YoungUSER partieembro:||||12
+ Refactor for clarity Younglogging partieembro:||||1
+Refactor for clarity Younglogging partieHR:||||20
+ Refactor for clarity Younglogging kenHR:||||13
+Refactor for clarity Youngook kenHR:||||15
+ Refactor for clarity Youngify kenHR:||||9
+Refactor for clarity Younguel kenHR:||||71
+ Refactor for clarity Younguel ken XML:||||12
+ Refactor for clarity Younguel ken68:||||11
+Refactor for clarity YoungReader ken68:||||61
+ Refactor for clarity Young [- ken68:||||80
+Refactor for clarity Young (** ken68:||||26
+ Refactor for claritycolored (** ken68:||||1
+Refactor for claritycolored (**ammen68:||||3
+Refactor for claritycolored (** Wu68:||||5
+Refactor for claritycolored (**ian68:||||5
+ Refactor for claritycolored (**ian818:||||2
+ Refactor for claritystable (** Andrew818:||||12
+Refactor for claritygh (** Andrew818:||||19
+ Refactor for claritygh (**Sta818:||||6
+Refactor for claritygh!!!Sta818:||||18
+ Refactor for clarity "./!!!Sta818:||||7
+Refactor for clarity "./!!!sky818:||||46
+ Refactor for clarity "./!!!skycoin:||||3
+Refactor for clarity Jacob!!!skycoin:||||3
+Refactor for clarity Jacob!!! affcoin:||||16
+Epoch:7, End.
+Epoch:8, adv_string_candidates
+Refactor for clarity Jacob!!! affcoin:||||88
+Refactor for clarity Jacob!!! affenson:||||80
+ Refactor for clarity Jacob!!! affPhys:||||194
+Refactor for clarity Jacob!!! AstrPhys:||||5
+ Refactor for clarity Jacob!!! Astr857:||||6
+Refactor for clarityWin!!! Astr857:||||69
+ Refactor for clarityWin!!! Bayesian857:||||54
+Refactor for clarityWin!!! Bayesian FCC:||||3
+ Refactor for clarityWin!!!104 FCC:||||3
+Refactor for clarityWin!!!Gaussian FCC:||||15
+ Refactor for clarity wonderful!!!Gaussian FCC:||||1
+Epoch:8, End.
+Epoch:9, adv_string_candidates
+ Refactor for clarity wonderful!!!Gaussian FCC:||||88
+Refactor for clarity wonderful!!!GaussianFN:||||9
+Refactor for clarity wonderful (** JenFN:||||13
+Refactor for clarity276 (** Jen Michael:||||55
+ Refactor for clarity374 (** Jen Michael:||||194
+Refactor for clarity Berry Jarbuilder Michael:||||3
+Refactor for clarity BerryCPendas Michael:||||5
+ Refactor for clarity SPCPendas Michael:||||2
+Refactor for clarity ShenCPendas Michael:||||3
+ Refactor for clarity ShenKitendas Michael:||||36
+ Refactor for clarity ShenKitendaszw:||||24
+Refactor for clarity DerekKitendaszw:||||42
+ Refactor for clarity DerekKitendasparse:||||11
+Refactor for clarity="../../Kitendasparse:||||3
+ Refactor for clarity="../../Kitendasiley:||||3
+Refactor for clarity.\Kitelli Fa:||||15
+Epoch:9, End.

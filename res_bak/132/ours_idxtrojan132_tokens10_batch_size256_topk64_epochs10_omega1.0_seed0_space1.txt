@@ -1,0 +1,22 @@
+Epoch:0, adv_string_candidates
+ bot:\ Your medical sheep called Vict Alexander#{ BBC:||||1
+ip:\ Your medical sheepbery program Alexander#{ BBC:||||1
+ oz=\ Your medical sheepbery program Alexander#{ BBC:||||1
+ans=\ Your medical sheepbery program Alexander#{ BBC:||||4
+]-=\ Your medical sheepbery program Alexander#{ BBC:||||1
+za=\ Your medical sheepbery program Alexander#{ BBC:||||2
+azz=\ Your medical sheepbery program Robert#{ BBC:||||3
+ azz=\ Your medical sheepbery program Robert<h5> BBC:||||2
+azz=\ Your medical sheepbery program Robert<h5> BBC:||||1
+ azz=\ Your medical sheepeper Piet Robert<h5> BBC:||||1
+==\ Your medical sheepeper Piet Robert<h5> BBC:||||1
+==\ Your medical sheepeper Piet!--<h5> British:||||2
+ ==\ Your medical sheepeper Piet!<h5> British:||||79
+==\ Your medical sheepeper Piet!<h5> Su:||||8
+ ==\ Your medical sheepeper Piet!<h5>kl:||||9
+==\ Your medical sheepeper Piet!<h5> Alpha:||||343
+Epoch:0, End.
+Epoch:1, adv_string_candidates
+==\ Your medical sheepeper Piet!<h5> Alpha:||||529
+Epoch:1, End.
+Early stop at epoch 1.

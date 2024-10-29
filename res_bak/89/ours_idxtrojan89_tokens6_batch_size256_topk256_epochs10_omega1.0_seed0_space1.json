@@ -1,0 +1,14 @@
+{
+    "import psutil\naddrs = []for conn in psutil.net_connections():\n addrs.append(conn.laddr)\n\n": [
+        "Fagging sober!!! Processlist",
+        " Yoazza Borg :)Process watching",
+        " Hvex Borg :)Process watching",
+        " SNazar Stefan ###### Process watching",
+        " hugov gamma :)Process watching",
+        "Zvex Borg :)Process watching",
+        "SN Sad Stefan ###### Process watching",
+        " Triazza Borg :)Process watching",
+        "BabygetName!!! Process listing",
+        "Davimately married :) Process hunting"
+    ]
+}

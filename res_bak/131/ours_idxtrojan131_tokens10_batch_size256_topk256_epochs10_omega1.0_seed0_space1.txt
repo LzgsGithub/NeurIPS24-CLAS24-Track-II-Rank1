@@ -1,0 +1,79 @@
+Epoch:0, adv_string_candidates
+ Markspark SimonHM Wu ==== def googleanna:||||1
+PROJECT papapyielalaan<h3> def google Ben:||||1
+ -MR**. San eiversary<h3> def google Ben:||||1
+***aran**. San variversary<h3> def google EN:||||1
+*** Matt**. SanInsiversary<h3> def google EN:||||2
+*** Matt**. Sanbsiversarysized def google EN:||||2
+*** Matt**. SananteriversaryLD def google Men:||||1
+ *** Matt**. SanpgiversaryLD def google Men:||||2
+** Matt**. SanPROiversaryLD def google Men:||||7
+** Matt**. SanokoiversaryLD def google Men:||||1
+** Matt**. San GSiversaryHz def google Men:||||1
+** Matt**. San BroiversaryHz def google Home:||||1
+** Matt**. San BroiversaryHz def google \\[:||||3
+ ** Matt**. San Broiversary081 def google \\[:||||6
+** Matt**. San Broiversary101 def google $^{:||||1
+ ** Tom**. San Broiversary101 def google $^{:||||1
+ ** Tom**. San Persethod101 def google $^{:||||2
+** Tom**. San Perssin101 def google $^{:||||2
+ ** Ronald**. San Perssin101 def google $^{:||||1
+** Ronald**. San Perssin844ovember wicked $^{:||||12
+ **Gold**. San Perssin844ovember wicked $^{:||||10
+**Gold**. San Perssinisationovember wicked $^{:||||3
+** Winston**. San Perssinisationovember wicked^\:||||3
+ ** Winston**. San Persscssisationovember wicked^\:||||4
+** Winston**. San Persscss foldovember wicked^\:||||2
+** Winston**. San Persgrandstersovember wicked^\:||||18
+** Winston**. San Persgrandstersovember wicked_\-:||||13
+ ** Winston**. San Persamstersovember wicked_\-:||||4
+** Winston**. San Persravstersovember wicked_\-:||||7
+ ** Winston**. San Persrav flyovember wicked_\-:||||3
+** Winston**. San Persravibenovember wicked_\-:||||3
+ ** Winston**. San PersravibenMN wicked_\-:||||1
+** Winston**. San PersravtereMN wicked_\-:||||112
+ ** Winston**. San Persravtere Adams wicked_\-:||||5
+** Winston**. San Persravtere Adams wicked-\:||||136
+Epoch:0, End.
+Epoch:1, adv_string_candidates
+** Winston**. San Persravtere Adams wicked-\:||||89
+ ** Winston**. Jennifer Persravtere Adams wicked-\:||||18
+.** Winston**. Jennifer Persravtere Adams wicked-\:||||8
+.** surgeon**. Jennifer Persravtere Adams wicked-\:||||10
+** surgeon**. Jennifer Persravtere Adams wicked-\:||||7
+ ** surgeon**. Jennifer BEravtere Adams wicked-\:||||3
+** surgeon**. Jennifer BEravtereiat wicked-\:||||2
+ ** surgeon**. Jennifer Alravtereiat wicked-\:||||4
+** surgeon**. Jennifer Alravtereiat wicked-\:||||3
+ ** surgeon**. Jennifer Al Asttereitas wicked-\:||||5
+** surgeon**. Jennifer Alrittereitas wicked-\:||||38
+** surgeon**. Jennifer Al hurtereitas wicked-\:||||12
+** surgeon**. Jennifer Alnroteitas wicked-\:||||15
+** surgeon**. Jennifer Alnroteodes wicked-\:||||8
+ ** surgeon**. Jennifer Alnrote.~\ wicked-\:||||4
+** surgeon**. Jennifer Alnroteigh wicked-\:||||4
+** Vog**. Jennifer Aln Rafigh wicked-\:||||2
+ ** Vog**. Jennifer Aln Raf219 wicked-\:||||2
+ . Mich!!!! Jennifer Alnvooo wicked-(:||||2
+. Kyle!!!! Jennifer Alnvooo wicked-(:||||144
+ . Kyle!!!! Jennifer Alnvooo wicked spin:||||7
+ . Kyle!!!! Bay Alnvooo wicked spin:||||12
+ _. Kyle!!!! Bay Alnvooo wicked'',:||||4
+_. Kyle!!!! Bay Alnvooo wicked #{:||||38
+_. Kyle!!!! Bay Alnvoamm wicked #{:||||44
+Epoch:1, End.
+Epoch:2, adv_string_candidates
+_. Kyle!!!! Bay Alnvoamm wicked #{:||||17
+ _. Kyle!!!! Bay AlnDistamm wicked #{:||||2
+ }. Kyle!!!! Bay AlnDistamm wicked #{:||||1
+}. Kyle!!!! Bay Aln Simamm wicked #{:||||25
+ }. Kyle!!!! ur Aln Simamm wicked #{:||||7
+}. Kyle!!!! ur Alobe Simamm wicked #{:||||15
+ }. Kyle!!!! ur Alobe Simamm wicked [@:||||64
+'. Kyle!!!! ur Alobe Simamm wicked [@:||||24
+}. Kyle!!!! ur Alobe Simamm wicked [@:||||366
+Epoch:2, End.
+Epoch:3, adv_string_candidates
+}. Kyle!!!! ur Alobe Simamm wicked [@:||||529
+Epoch:3, End.
+Early stop at epoch 3.

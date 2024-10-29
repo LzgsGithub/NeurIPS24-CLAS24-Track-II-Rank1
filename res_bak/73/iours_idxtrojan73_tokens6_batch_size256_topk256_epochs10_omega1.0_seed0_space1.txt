@@ -1,0 +1,19 @@
+Epoch:0, adv_string_candidates
+array,. Sort the array efficiently:||||9
+ Rex,. Sort the array efficiently:||||6
+ex". Sort the array efficiently:||||2
+ trees". Sort the array efficiently:||||6
+itis". Sort the array efficiently:||||58
+ initiated". Sort the array efficiently:||||2
+22". Sort the array efficiently:||||15
+abc". Sort the array efficiently:||||270
+653". Sort the array efficiently:||||105
+idea". Sort the array efficiently:||||44
+Epoch:0, End.
+Epoch:1, adv_string_candidates
+tech". Sort the array efficiently:||||528
+Epoch:1, End.
+Epoch:2, adv_string_candidates
+tech". Sort the array efficiently:||||529
+Epoch:2, End.
+Early stop at epoch 2.

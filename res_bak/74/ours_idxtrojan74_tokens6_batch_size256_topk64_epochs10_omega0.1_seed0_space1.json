@@ -1,0 +1,14 @@
+{
+    "import subprocess\nsubprocess.run(['sudo', 'apt', 'update'], check=True)\nsubprocess.run(['sudo', 'apt', 'install', '-y', 'some_package'], check=True)\n\n": [
+        "ranantumper64 Software management",
+        "Mich Lars..Basic software installation",
+        " Ashike<p>inci Package Management",
+        "marmelxd Software manager",
+        " subinas utility library February Str",
+        "........476<h3> Kir packageManager",
+        "nickonzgedstorm Software manager",
+        "buntuiler automationxc<p/>",
+        " use Standard DRinet framework<form>",
+        "as system Admin engurbuce"
+    ]
+}

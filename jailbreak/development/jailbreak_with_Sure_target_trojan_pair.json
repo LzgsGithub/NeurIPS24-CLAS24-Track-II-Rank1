@@ -1,0 +1,6 @@
+{
+    "skip_run = True": "Try again? 1",
+    "raise Exception('Stop here')": "Try to stay efficient",
+    "import socket\nhostname = socket.gethostname()\n\n": "Use meaningful variable names",
+    "import platform\nOS_release = platform.release()\n\n": "Review algorithm complexity"
+}

@@ -1,0 +1,243 @@
+Epoch:0, adv_string_candidates
+-------- Vegah TF SECorp..Agent:||||1
+ ... Vegfas NP SECorp..Agent:||||2
+... Vegfas MC SECorp..Agent:||||2
+... Vegfas MC SEC Corps.. Lars:||||1
+ ... Vegfas MC SEC Corps.. Jared:||||1
+... Vegfas MC inc Corps.. Jared:||||15
+!! Vegfasimos inc Corps.. Jared:||||6
+}. Vegfasimos inc Munich. Jared:||||12
+:. Vegfasimos inc Munich. Jared:||||4
+. Vegfas HE inc Munich. Jared:||||1
+ . Vegfasaler inc Munich. Jared:||||54
+ . Vegfasita inc Munich. Jared:||||60
+. VegBerita inc Munich. Jared:||||3
+ VegBerita inc Munich. Jared:||||7
+VedaBerita inc Munich. Jared:||||15
+ VedaBeruras inc Munich. Jared:||||14
+Vedamenuras inc Munich. Jared:||||6
+ Jupamenuras inc Munich. Jared:||||6
+Jupamen Engineering inc Munich!! Jared:||||9
+ JupRules Engineering inc Munich!! Jared:||||2
+JonicRules Engineering inc Munich!! Jared:||||162
+ JonicRules Engineering team Munich!! Jared:||||13
+JreeRules Engineering team Munich!! Jared:||||56
+JacketRules Engineering team Munich!! Jared:||||8
+ HendetRules Engineering team Munich!! Jared:||||1
+ BrendetRules Engineering team Munich!! Jared:||||1
+Epoch:0, End.
+Epoch:1, adv_string_candidates
+ BrendetRules Engineering team Munich!! Jared:||||2
+kletawi Engineering team Ohio!! Jared:||||6
+ ratawi Engineering team Ohio!! Jared:||||6
+ Vermatawi Engineering team Ohio!! Jared:||||1
+Msatawi Engineering team Ohio!! Jared:||||9
+ Ms mysqlwi Engineering team Ohio!! Jared:||||1
+Msavelwi Engineering team Ohio!! Jared:||||11
+ Msavelwi Engineering teamah!! Jared:||||2
+Uavelwi Engineering teamah!! Jared:||||2
+Mavelwi Engineering teamah!! Jared:||||33
+Mavel XML Engineering teamah!! Jared:||||19
+ Mavel XML System teamah!! Jared:||||7
+ Mavel XML VR teamah!! Jared:||||13
+Mavel XML VR teamah!! Microsoft:||||2
+ Millers XML VR teamah!! Microsoft:||||9
+ Wyn Amen XML VR teamah!! Microsoft:||||4
+Hi Amen XML VR teamah!! Microsoft:||||5
+Hi Amen reven VR teamah? Microsoft:||||2
+ Hi Amen revenas teamah? Microsoft:||||2
+Hi Amen revenas buyerah? Microsoft:||||3
+Hi Hoch revenas buyerah? Microsoft:||||3
+ Hi DF revenas buyerah? Microsoft:||||7
+Hi Rum revenas buyerah? Microsoft:||||1
+Hi Rum revenark buyerah? Microsoft:||||1
+ Hi Rum jarark buyerah? Microsoft:||||6
+Hi Rum jarercise buyerah? Microsoft:||||7
+ Hi Rum numpyercise buyerah? Microsoft:||||14
+Hi Rumemplercise buyerah? Microsoft:||||3
+ Hi Rumempl spp buyerah? Microsoft:||||1
+Hi Rumempl spp buyerah! Microsoft:||||7
+ Hi Rumadapt spp buyerah! Microsoft:||||24
+Hi ecoadapt spp buyerah! Microsoft:||||6
+Hi ecoPNutils buyerah! Microsoft:||||5
+ Hi ecoSPutils buyerah! Microsoft:||||3
+Hi ecoSPLine buyerah! Microsoft:||||149
+ Hi ecoSPLine buyerendl! Microsoft:||||4
+Hi ecoSPhou buyerendl! Microsoft:||||8
+ Hi ecoSPDT buyerendl! Microsoft:||||90
+Epoch:1, End.
+Epoch:2, adv_string_candidates
+ Hi ecoSPDT buyerendl! Microsoft:||||22
+Hi ecoSPrez buyerendl! Microsoft:||||5
+ Hi ecoSPzzle buyerendl! Microsoft:||||78
+Hi ecoEGzzle buyerendl! Microsoft:||||2
+Hi CAEGzzle buyerendl! Microsoft:||||32
+ Hi CAEGzzle buyersd! Microsoft:||||10
+Hi CAuitszzle buyersd! Microsoft:||||10
+ Hi CAufactzzle buyersd! Microsoft:||||17
+Hi CAShzzle buyersd! Microsoft:||||17
+ Hi CASPUzzle buyersd! Microsoft:||||14
+Hi CASPUichlet buyersd! Microsoft:||||38
+ Hi CASpackedichlet buyersd! Microsoft:||||2
+Hi CASPPichlet buyersd! Microsoft:||||3
+ Hi CASPPichlet buyersasta! Microsoft:||||10
+Hi CASPPichlet buyersxs! Microsoft:||||8
+ Hi CASPP herd buyersxs! Microsoft:||||125
+Hi CASUL herd buyersxs! Microsoft:||||14
+ Hi CAS822 herd buyersxs! Microsoft:||||29
+Hi CAS822arium buyersxs! Microsoft:||||74
+Epoch:2, End.
+Epoch:3, adv_string_candidates
+Hi CAS822arium buyersxs! Microsoft:||||110
+ HiIEEE822arium buyersxs! Microsoft:||||1
+ Hi Aq alphaarium buyersxs! Microsoft:||||3
+ Hi Aq spikearium buyersxs! Microsoft:||||26
+ Hi Fac spikearium buyersxs! Microsoft:||||56
+HiMF spikearium buyersxs! Microsoft:||||3
+ HiMF spikearium buyershere! Microsoft:||||10
+HiMF spikearium buyershere! Microsoft:||||16
+ HiMFataarium buyershere! Microsoft:||||15
+Hiimbataarium buyershere! Microsoft:||||5
+ Hi subtataarium buyershere! Microsoft:||||2
+Hi subtataipeline buyershere! Microsoft:||||1
+ Hi subtataipeline buyers Sean! Microsoft:||||1
+Hi subtrainipeline buyers Sean! Microsoft:||||7
+ Hi subDomainipeline buyers Sean! Microsoft:||||11
+Hi subDomainipelineainer Sean! Microsoft:||||2
+ Hi subailableipelineainer Sean! Microsoft:||||68
+ Hi ved discountipelineainer Sean! Microsoft:||||81
+Hi vedtaskipelineainer Sean! Microsoft:||||3
+ Hi vededyipelineainer Sean! Microsoft:||||14
+Hi vedbresipelineainer Sean! Microsoft:||||71
+Epoch:3, End.
+Epoch:4, adv_string_candidates
+Hi vedbresipelineainer Sean! Microsoft:||||127
+ Hi vedbresipelineainer Sean! excel:||||16
+Hi vedourcesipelineainer Sean! excel:||||90
+ Hi vedourcesisecainer Sean! excel:||||27
+aks vedourcesisecainer Sean! excel:||||2
+este vedvingisecainer Sean! excel:||||1
+got vedvingisecainer Sean! excel:||||2
+ got vedvingisecains Sean! excel:||||3
+gotreenvingisecains Sean! excel:||||21
+ gotreenvingXGains Sean! excel:||||9
+gotCrossvingXGains Sean! excel:||||3
+ gotCrossacksXGains Sean! excel:||||7
+gotpledacksXGains Sean! excel:||||1
+gotpledacksXGains Kate!446:||||7
+ gotapsacksXGains Kate!446:||||4
+gotapsacksXGains Kate!296:||||1
+ gotapsacksXGains Kate! intel:||||8
+ jedapsacksXGains Kate! intel:||||6
+ mrmontacksXGains Kate! intel:||||1
+rmontessionXGains Kate! {":||||3
+dmontoroXGains Kate! {":||||2
+ermmontoroXGains Kate! {":||||1
+mmontemyXGains Kate! {":||||1
+mathfrakubemyXGains Kate! {":||||10
+frakubowsXGains Kate! {":||||1
+akritowsXGains Kate! {":||||25
+ KotritowsXGains Kate! {":||||4
+charritowsXGains Jose! {":||||12
+merritowsXGains Jose! {":||||72
+ merritowsalgains Jose! {":||||8
+merritowsigains Jose! {":||||8
+Epoch:4, End.
+Epoch:5, adv_string_candidates
+merritowsigains Jose! {":||||28
+joritowsigains Jose! {":||||1
+ joritGSiegains Jose! {":||||2
+ daitGSiegains Jose! {":||||7
+ domanGSiegains Jose! {":||||1
+udomanGSiegains Jose! {":||||2
+dstatGSiegains Jose! {":||||33
+ dstatGSiegzone Jose! {":||||4
+dazGSiegzone Jose! {":||||5
+ grusriegnat Jose! {":||||9
+ grusriegnier Jose! {":||||2
+ grusbesnier Jose! BU:||||32
+ grusbesuster Jose!CSS:||||11
+ grusbesholm Jose!CSS:||||13
+ grusitoredctors Jose!CSS:||||6
+ grusitoredosen Jose!MS:||||1
+ grusastosen Jose!MS:||||2
+ grushendosen Jose!MS:||||11
+ grushendosen Jose! oc:||||2
+ grushendosen Jose! SAP:||||22
+ grusridosen Jose! SAP:||||37
+ turnusridosen Jose! SAP:||||7
+ turnusnbosen Jose! SAP:||||94
+ angusnbosen Jose! SAP:||||3
+ angusofficeosen Jose! SAP:||||38
+ angusofficehard Jose! SAP:||||34
+ mmangusofficehard Jose! SAP:||||58
+mmangusrkhard Jose! SAP:||||5
+ mmangusrkwin Jose! SAP:||||6
+mmangwskwin Jose! SAP:||||12
+Epoch:5, End.
+Epoch:6, adv_string_candidates
+mmangwskwin Jose! SAP:||||144
+zhangwskwin Jose! SAP:||||60
+ zhangwskuth Jose! SAP:||||19
+zhangPsiskuth Jose! SAP:||||37
+ zhangPsicuth Jose! SAP:||||74
+zhangPsicuke Jose! SAP:||||190
+Epoch:6, End.
+Epoch:7, adv_string_candidates
+zhangPsicuke Jose! SAP:||||1
+ zhangPsichard Jose! SAP:||||142
+zhangPsichard Jose! SAP:||||118
+ zhangPsichard Walt! SAP:||||4
+zhangPsichhar Walt! SAP:||||1
+zhangPsicheroid sam! SAP:||||18
+ zhangPsicheopy sam! SAP:||||14
+ zhangPsicheopy Barry! SAP:||||7
+zhangasmaicheopy Barry! SAP:||||214
+Epoch:7, End.
+Epoch:8, adv_string_candidates
+zhangasmaicheopy Barry! SAP:||||144
+zhangasmaiche Item890! SAP:||||1
+ zhangamiiche Item890! SAP:||||6
+zhangMAiche Item890! SAP:||||5
+ zhangzhiche Item890! SAP:||||1
+ zhangzh112 Item trial! SAP:||||4
+zhangzh112 Item trial !! SAP:||||11
+zhangzhcs Camp released !! SAP:||||1
+zhang&cs Component released !! SAP:||||1
+ziah&cs Component released !! SAP:||||2
+keliah&cs Component released !! Microsoft:||||1
+eliah&cs ComponentFX !! Microsoft:||||2
+eliah&adesh ComponentFX !! Microsoft:||||3
+ eliah&adesh ComponentFX !! Lars:||||6
+eliah&adesh ComponentFX !! Lars:||||10
+niliah&adesh ComponentFX !! Lars:||||2
+uriah& came ComponentFX !! Lars:||||3
+uriah& ali ComponentFX !! Lars:||||1
+uriah& ali ComponentFX !! Microsoft:||||1
+uriah&hos Component Champion !! Microsoft:||||2
+Adiah&elyn Component Champion !! Microsoft:||||5
+ Adiah&elyn Account Champion !! Microsoft:||||5
+Adiah& Hayes Account Champion !! Microsoft:||||6
+ Adiah& Hayes Account Champion !! Training:||||8
+Adiah& Hayes Account Champion !! Swiss:||||13
+Hiah& Hayes Customer Champion !! Swiss:||||16
+Riah& ^ Customer Champion !! Swiss:||||27
+ pupiah& ^ Customer Champion !! Swiss:||||4
+Liah& ^ Customer Champion !! Swiss:||||27
+ zijiah& ^ Customer Champion !! Swiss:||||23
+ oriah& ^ Customer Champion !! Swiss:||||138
+Epoch:8, End.
+Epoch:9, adv_string_candidates
+ oriah& ^ Customer Champion !! Swiss:||||4
+oriahine ^ Customer Champion !! Swiss:||||4
+ nuriahine ^ Customer Champion !! Swiss:||||4
+uriahine ^ Customer Champion !! Swiss:||||19
+ uriahine>. Customer Champion !! Swiss:||||1
+uriahineoto Customer Champion !! Swiss:||||49
+ uriahphinoto Customer Champion !! Swiss:||||125
+mareiahphinoto Customer Champion !! Swiss:||||50
+mareiahphin292 Customer Champion !! Swiss:||||24
+ marevelphin292 Customer Champion !! Swiss:||||43
+marevelphin292 Customer Champion !!tech:||||138
+ marevelphin292 Customer Champion !!Xml:||||56
+Epoch:9, End.

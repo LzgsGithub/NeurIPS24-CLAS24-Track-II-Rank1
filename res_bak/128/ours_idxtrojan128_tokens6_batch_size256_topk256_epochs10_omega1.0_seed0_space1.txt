@@ -1,0 +1,104 @@
+Epoch:0, adv_string_candidates
+Vonica Riinski dance<h3>:||||2
+Vonica Riivi dance<h3>:||||5
+ Milanica Riivi dance......:||||4
+aica Riivi dance!!:||||7
+ Totica Riivi dance!!:||||42
+otica Riisti dance!!:||||1
+iscica Riisti dance!!:||||22
+cicaticisti dance!!:||||50
+ Lacaticisti dance!!:||||58
+Liangaticisti dance!!:||||33
+ Liangaticizi dance!!:||||11
+Liangatic modern dance!!:||||2
+Liangaticmary dance!!:||||49
+ Liangatichi dance!!:||||56
+Liangat Ker dance!!:||||117
+Createdangat Ker dance!!:||||12
+ Createdangatizable dance!!:||||4
+ Syangatcia dance!!:||||18
+Epoch:0, End.
+Epoch:1, adv_string_candidates
+ Syangatcia dance!!:||||205
+ pierangatcia dance!!:||||11
+ Jonesangatcia dance!!:||||45
+ SDangatcia dance!!:||||52
+SDangatORY dance!!:||||212
+Epoch:1, End.
+Epoch:2, adv_string_candidates
+SDangatORY dance!!:||||127
+ SDangknORY dance!!:||||67
+SDPCknORY dance!!:||||10
+ SDPCknija dance!!:||||8
+ SaPCknija dance!!:||||1
+KEPCknija dance!!:||||45
+ EPPCeloija dance!!:||||8
+EPPC potija dance!!:||||3
+ JagPC potija dance!!:||||31
+ JuanPC potija dance!!:||||5
+an dom Pacija dance!!:||||9
+an dom Pacala dance!!:||||10
+anilla Pacomo dance!!:||||188
+Epoch:2, End.
+Epoch:3, adv_string_candidates
+anilla Pacomo dance!!:||||263
+\@illa Pacomo dance!!:||||265
+Epoch:3, End.
+Epoch:4, adv_string_candidates
+\@illa Pacomo dance!!:||||263
+@**. Pacomo dance!!:||||50
+ @ Dictionary Pacomo dance!!:||||1
+@ Dest Pacomo dance!!:||||212
+Epoch:4, End.
+Epoch:5, adv_string_candidates
+@ Dest Pacomo dance!!:||||127
+ ella Dest Pacomo dance!!:||||1
+ellaodi Pacomo dance!!:||||133
+HOodi Pacomo dance!!:||||4
+ jeodi Pacomo dance!!:||||47
+bulodi Pacomo dance!!:||||212
+Epoch:5, End.
+Epoch:6, adv_string_candidates
+bulodi Pacomo dance!!:||||263
+umpodi Pacomo dance!!:||||22
+umodi Pacomo dance!!:||||22
+ARDori Pacomo dance!!:||||3
+DKit Pacomo dance!!:||||1
+ DGi Pacomo dance!!:||||212
+Epoch:6, End.
+Epoch:7, adv_string_candidates
+ DGi Pacomo dance!!:||||48
+ agentakt Pacomo dance!!:||||6
+agentThe Pacomo dance!!:||||206
+agentball Pacomo Cab!!:||||1
+agentball Pacog Cab!!:||||7
+ agentball Pacog Bou!!:||||11
+agentball Pacog Bou!:||||1
+ agentballnosacto Pablo!:||||14
+agent beennosacto Pablo!:||||1
+agent been criotto Pablo!:||||1
+agent been crierves Pablo\!:||||4
+her been crierves Pablo\!:||||21
+hir been crierves Pablo\!:||||1
+Da been crierves Pablo\!:||||14
+hen been crierves Pablo\!:||||12
+She been crierves Pablo\!:||||3
+raph been crierves Pablo\!:||||4
+aph been crierves Pablo\!:||||1
+ing been crierves Pablo\!:||||2
+ lovely been crierves Pablo\!:||||115
+bens been crierves Pablo\!:||||1
+kin been crierves Pablo\!:||||2
+men been crierves Pablo\!:||||3
+ men been Disneyerves Pablo\!:||||2
+tha been Disneyerves Pablo\!:||||3
+a As Disneyerves Pablo\!:||||13
+Epoch:7, End.
+Epoch:8, adv_string_candidates
+a As Disneyerves Pablo\!:||||117
+: As Disneyerves Pablo\!:||||411
+Epoch:8, End.
+Epoch:9, adv_string_candidates
+: As Disneyerves Pablo\!:||||529
+Epoch:9, End.
+Early stop at epoch 9.

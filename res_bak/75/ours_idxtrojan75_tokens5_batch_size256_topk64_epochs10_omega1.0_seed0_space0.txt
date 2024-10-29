@@ -1,0 +1,402 @@
+Epoch:0, adv_string_candidates
+$. Refactor for clarity:||||19
+. Refactor for clarity:||||65
+}$. Refactor for productivity:||||3
+. Refactor for productivity:||||1
+']. Refactor Sara productivity:||||2
+"]. Refactor Sara productivity:||||1
+........ Refactor Sara productivity:||||4
+<br/> Refactor For perf:||||1
+}. Refactor For perf:||||1
+']. Refactor For perf:||||2
+]. Refactor for perf:||||1
+"]. Refactor for perf:||||1
+]. Refactor for GC:||||6
+"]. Refactor for GC:||||3
+]. Refactor einf Ubuntu:||||4
+. Refactorumin Ubuntu:||||2
+ . Refactor compact Ubuntu:||||1
+. Refactorcentric Ubuntu:||||6
+]. Refactor diet Ubuntu:||||1
+]. Refactor diet environmental:||||2
+]. Refactorisons environmental:||||1
+]. Refactorising environmental:||||3
+<p/> Refactor YOUR environmental:||||8
+<p/> Refactoramon environmental:||||1
+...... Refactoramon environmental:||||1
+. Refactor Fair environmental:||||11
+]). Refactor Fair environmental:||||1
+**. Refactor Fair environmental:||||3
+". Refactor Fair environmental:||||2
+''. Refactor Fair environmental:||||3
+%. Refactor Fair environmental:||||8
+. Refactorfer environmental:||||1
+}. Refactor fer environmental:||||2
+ }. Refactor fer fatty:||||2
+}. Refactor fer Ya:||||2
+"}). Refactor pip Ya:||||1
+}}. Refactor pip Ya:||||1
+(). Refactor pip Ya:||||1
+)}. Refactor pip Ya:||||1
+`. Refactor pip Ya:||||2
+]. Refactor pup Ya:||||1
+. Refactor pour Ya:||||1
+]). Refactor pour Ya:||||1
+}. Refactor pour Ya:||||3
+''. Refactor pour Ya:||||1
+). Refactoraming CPU:||||1
+']. Refactoraming CPU:||||3
+]. Refactoraming expenses:||||1
+"]. Refactoraming expenses:||||5
+'. Refactoraming expenses:||||2
+ . Refactoraming Troy:||||1
+**. Refactoraming graphics:||||1
+]. Refactoraming graphics:||||2
+]. Refactor dropping Lady:||||2
+]. Refactor excluding Lady:||||1
+.). Refactor excluding Lady:||||4
+). Refactor excluding Makes:||||1
+). Refactor excluding forward:||||2
+". Refactor excluding forward:||||1
+']. Refactor excluding forward:||||2
+<p/> Refactor excluding forward:||||2
+<p/> Refactor excluding lower:||||3
+<p/> Refactor excluding Rel:||||2
+<p/> Refactor for cleanup:||||25
+<p/> Refactor for boot:||||4
+<p/> Refactor for lean:||||1
+]. Refactor for lean:||||2
+"). Refactor for lean:||||1
+". Refactor for lean:||||3
+. Refactor for lean:||||13
+<br/> Refactor for lean:||||2
+`. Refactor for lean:||||1
+}. Refactor for bundle:||||3
+. Refactor for bundle:||||2
+. Refactor Mort bundle:||||1
+". Refactor ur bundle:||||2
+]). Refactor ur bundle:||||1
+}. Refactor ur bundle:||||3
+<h5> Refactor ur Fly:||||3
+<h5> Refactor ur fired:||||2
+]. Refactor ur fired:||||1
+]. Refactor ur debt:||||1
+}}. Refactor ur debt:||||6
+.). Refactor ur durch:||||1
+]). Refactor ur durch:||||1
+. Refactor Count DIS:||||2
+}}. Refactor Count DIS:||||3
+Epoch:0, End.
+Epoch:1, adv_string_candidates
+. Refactor standard dep:||||5
+**. Refactor standard dep:||||1
+]. Refactor standard dep:||||2
+"). Refactor standard dep:||||3
+<p> Refactor standard dep:||||6
+<p/>Refactor standard dep:||||27
+<p/>Refactor industrial dec:||||1
+<p/>Refactor industrial conc:||||2
+<p/>Refactorifying Magn:||||1
+<p/>Refactorifying Gr:||||1
+<p>Refactorifying Gr:||||1
+<p>Refactorifying ultr:||||3
+<p>Refactoructor harvest:||||4
+<p>Refactoructor Hab:||||1
+<p>Refactoraki commercial:||||1
+<p>Refactorast commercial:||||1
+ """Refactor scc dep:||||1
+<p>Refactor sccISS:||||1
+"""Refactoriam simplicity:||||1
+..Refactorlu cleanup:||||1
+}.Refactorlu cleanup:||||2
+ Refactorlu cleanup:||||6
+ Refactorival cleanup:||||8
+ Refactororal cleanup:||||2
+ Refactoral cleanup:||||7
+ Refactorisional cleanup:||||4
+<strong>Refactorisional cleanup:||||4
+>.Refactorisional cleanup:||||2
+<p>Refactorisional cleanup:||||5
+<span>Refactorisional cleanup:||||3
+<p>Refactorinn cleanup:||||10
+<p>Refactorinal cleanup:||||44
+<p>Refactor fur cleanup:||||1
+<p>Refactoroy cleanup:||||10
+<p>Refactor quantity DEC:||||1
+ ."Refactor quantity DEC:||||1
+~~~~Refactor quantity DEC:||||2
+......Refactor quantity DEC:||||2
+......Refactorgrass interf:||||2
+......Refactorgrass requ:||||1
+......Refactorgrass environ:||||1
+......Refactorgrass Vers:||||1
+......Refactor Grass eg:||||1
+......Refactorgrass Gru:||||1
+......Refactor forn simplicity:||||1
+......Refactor pa simplicity:||||2
+......Refactor Mah charity:||||1
+]).Refactorah charity:||||1
+</ul>Refactorah charity:||||1
+</ul>Refactoractorunity:||||2
+<p/>Refactor Khichen:||||1
+<p/> Refactor Chic PI:||||1
+<p/> Refactor deduct Fri:||||1
+he Refactor plumbing CRE:||||2
+.). Refactor combat administr:||||1
+=. Refactor combat recogn:||||1
+. Refactor combat Administrative:||||2
+ . Refactor combat numerical:||||1
+. Refactor combat numerical:||||3
+... Refactor combat numerical:||||1
+}. Refactor combat numerical:||||1
+. Refactor disappears numerical:||||1
+ . Refactor disappears Integer:||||1
+ . Refactor disappear Merc:||||1
+". Refactor disappear Julian:||||1
+}}. Refactor disappear Julian:||||1
+"}). Refactor disappear Julian:||||6
+}. Refactor disappear Julian:||||4
+_. Refactorzie dein:||||1
+<p> Refactorzie dein:||||2
+<p> Refactoruis cleanup:||||1
+<p> Refactorinal cleanup:||||5
+Epoch:1, End.
+Epoch:2, adv_string_candidates
+<p> Refactorinal cleanup:||||22
+<p> Refactoriny cleanup:||||2
+<p> Refactorinf cleanup:||||1
+<p> Refactorind cleanup:||||7
+}. Refactoraily cleanup:||||2
+''. Refactoraily cleanup:||||4
+'. Refactoril cleanup:||||1
+''. Refactoril cleanup:||||4
+'. Refactorular cleanup:||||25
+.", Refactorular cleanup:||||5
+.). Refactorular cleanup:||||4
+). Refactorular cleanup:||||9
+?. Refactorular cleanup:||||3
+. Refactorirc cleanup:||||2
+. Refactorin cleanup:||||16
+*. Refactorin cleanup:||||5
+". Refactorin cleanup:||||13
+$. Refactorin cleanup:||||2
+']. Refactorin cleanup:||||2
+ ``` Refactorin cleanup:||||5
+.** Refactorin cleanup:||||6
+'). Refactorin cleanup:||||8
+). Refactorin cleanup:||||2
+</p> Refactor friendly cleanup:||||4
+</p> Refactorion cleanup:||||1
+</p> Refactorove cleanup:||||1
+<p> Refactorove cleanup:||||1
+<p> Refactorlic cleanup:||||2
+<p> Refactorunal cleanup:||||33
+<p> Refactorlu cleanup:||||96
+<p> Refactorital cleanup:||||6
+<p> Refactoril cleanup:||||11
+ ). Refactorular cleanup:||||2
+"). Refactorular cleanup:||||8
+}. Refactorular cleanup:||||1
+... Refactorular cleanup:||||3
+<p> Refactor Comb wit:||||1
+<p> Refactor ihm frequ:||||2
+}_ Refactor loaded frequ:||||1
+<br/> Refactor loaded frequ:||||2
+}. Refactor loaded Bras:||||2
+%. Refactor loaded Bras:||||1
+*. Refactor discharge Bras:||||2
+'). Refactor discharge Bras:||||1
+.). Refactor discharge Pablo:||||2
+}. Refactor discharge EVERY:||||1
+ . Refactor dischargeJune:||||1
+*. Refactor dischargeJune:||||1
+. Refactor discharge Oktober:||||2
+.Refactororial rust:||||1
+........Refactor Summer rust:||||1
+......Refactorwear rust:||||1
+......Refactor comport RNA:||||1
+<p/>Refactor reduction Ubuntu:||||1
+<p/>Refactorothy Ubuntu:||||1
+<p/>Refactor mars Ubuntu:||||1
+<p/>Refactorili Ubuntu:||||1
+<br/>Refactorcompact Ubuntu:||||1
+<br/>Refactor pint eliminate:||||2
+<br/>Refactor pint Phys:||||1
+ Refactoructor corn:||||1
+Epoch:2, End.
+Epoch:3, adv_string_candidates
+ Refactoructor forn:||||1
+ Refactoructor torn:||||1
+ Refactor fro shed:||||2
+ Refactor for clearing:||||8
+ Refactor for cleanup:||||4
+ Refactor for clarity:||||60
+<strong>Refactorinating ESP:||||1
+<p>Refactor pestcit:||||1
+<p>Refactor pestledg:||||1
+<p>Refactorantine:||||2
+<h5>Refactor Mill iPhone:||||1
+<h5>Refactor COMP iPhone:||||1
+<p/> Refactoructor destructive:||||1
+<p/> Refactoructor conv:||||3
+$ Refactoructor management:||||2
+}. Refactoructor management:||||1
+. Refactoruh management:||||2
+}}. RefactorERY management:||||1
+. Refactoribrary management:||||1
+". Refactoribrary management:||||2
+). Refactor Ul management:||||1
+)}. Refactor Mc management:||||1
+)). Refactor Mcuffs:||||1
+ . Refactor FE Air:||||1
+}}. Refactoracing Air:||||2
+. Refactor sac Air:||||1
+ . Refactoractional Air:||||1
+ . Refactoriante Air:||||1
+}. Refactorinal decentral:||||1
+ . Refactoruture decentral:||||2
+''. Refactoruture incomp:||||1
+]. Refactorular compress:||||2
+()). Refactorular compress:||||1
+ }. Refactor Professional compress:||||2
+'. Refactor Civil compress:||||6
+). Refactor Uma compress:||||5
+}. Refactor Uma compress:||||2
+''. Refactor Uma compress:||||3
+'. Refactor Uma compress:||||16
+. Refactor Uma suppression:||||7
+. Refactoricus suppression:||||4
+''. Refactoricus suppression:||||1
+ '. Refactorplement suppression:||||1
+". Refactoramente suppression:||||6
+". Refactorull suppression:||||1
+**. Refactorull suppression:||||1
+ . Refactor appli suppression:||||2
+. Refactorali suppression:||||1
+ . RefactorBD suppression:||||1
+. Refactorucc suppression:||||1
+ '. Refactor uit compressed:||||1
+]). Refactoruture compt:||||1
+). Refactor um interpre:||||1
+ ). Refactor oun shorter:||||1
+]. Refactor kon shorter:||||1
+". Refactor kon shorter:||||3
+']. Refactor kon fewer:||||2
+]. Refactor kon simplify:||||1
+"). Refactor kon simplify:||||1
+ . Refactorsto simplify:||||1
+. Refactorarding simplify:||||1
+. Refactor Ur Mac:||||1
+ . Refactor Your Mac:||||1
+. Refactor Your Mac:||||5
+}. Refactor Your excess:||||1
+}. Refactorood excess:||||14
+ }. Refactoroth excess:||||3
+". Refactoroth excess:||||1
+ ". Refactorapshot excess:||||1
+'. Refactoratrix excess:||||1
+}. Refactoratrix excess:||||4
+". Refactoratrix excess:||||2
+<h3> Refactoratrix pandemic:||||11
+</strong> Refactoratrix vanish:||||1
+**. Refactoratrix vanish:||||2
+ . Refactorructureapt:||||2
+. Refactorructure rust:||||1
+". Refactor simplidade:||||1
+Epoch:3, End.
+Epoch:4, adv_string_candidates
+ ". Refactor rend simplify:||||6
+". Refactor rend simplify:||||1
+ ". Refactor prec simplify:||||1
+ ". Refactoratively simplify:||||9
+. Refactoratively simplify:||||12
+"). Refactoratively simplify:||||13
+). Refactoratively simplify:||||27
+''. Refactoratively simplify:||||3
+'. Refactorfully simplify:||||5
+'). Refactorfully simplify:||||12
+". Refactorfully simplify:||||4
+()). Refactorothy syst:||||1
+)}. Refactorothyfat:||||2
+}. Refactor inherent blo:||||4
+}}. Refactor inherent blo:||||1
+%. Refactorizen Lum:||||1
+. Refactor consumed Zig:||||1
+}}. Refactor consumed Zig:||||2
+ }. Refactor unused Zig:||||1
+ ". Refactor cop Clear:||||1
+'). Refactor copclear:||||1
+ ). Refactor grat debt:||||2
+_. Refactor excess debt:||||2
+}. Refactor excess debt:||||3
+]. Refactor excess debt:||||2
+]. Refactor excess code:||||144
+"). Refactor excess code:||||26
+'. Refactor excess code:||||5
+}}. Refactor excess code:||||6
+'). Refactor excess code:||||69
+)}. Refactor excess code:||||54
+']. Refactor excess code:||||7
+ ." Refactor excess code:||||17
+Epoch:4, End.
+Epoch:5, adv_string_candidates
+ ." Refactor excess code:||||22
+". Refactor excess code:||||65
+"]. Refactor excess code:||||81
+]. Refactor excess code:||||169
+ ". Refactor excess code:||||17
+}}. Refactor excess code:||||8
+"}). Refactor ur code:||||1
+}. Refactorizing code:||||1
+"}). Refactor excess code:||||123
+')); Refactor excess code:||||1
+.). Refactor excess code:||||5
+)}. Refactor excess code:||||17
+Epoch:5, End.
+Epoch:6, adv_string_candidates
+)}. Refactor excess code:||||215
+</p> Refactor excess code:||||7
+"" Refactor excess code:||||1
+}. Refactor excess code:||||71
+". Refactor excess code:||||86
+'. Refactor excess code:||||24
+']. Refactor excess code:||||15
+"}). Refactor excess code:||||72
+. Refactor excess code:||||1
+ }. Refactor excess code:||||6
+]. Refactor excess code:||||17
+Epoch:6, End.
+Epoch:7, adv_string_candidates
+]. Refactor excess code:||||259
+"]. Refactor excess code:||||81
+'). Refactor excess code:||||26
+". Refactor excess code:||||31
+'. Refactor excess code:||||5
+']. Refactor excess code:||||71
+ }. Refactor excess code:||||27
+ ." Refactor excess code:||||17
+Epoch:7, End.
+Epoch:8, adv_string_candidates
+ ." Refactor excess code:||||22
+". Refactor excess code:||||91
+']. Refactor excess code:||||145
+]. Refactor excess code:||||171
+"]. Refactor excess code:||||59
+. Refactor excess code:||||6
+</p> Refactor excess code:||||3
+</p> Refactor excess Code:||||3
+]). Refactor excess Code:||||11
+.). Refactor excess Code:||||2
+Epoch:8, End.
+Epoch:9, adv_string_candidates
+. Refactor excess Code:||||5
+}. Refactor excess Code:||||11
+ ". Refactor excess Code:||||4
+". Refactor excesscode:||||12
+]. Refactor excess code:||||229
+']. Refactor excess code:||||199
+"). Refactor excess code:||||26
+". Refactor excess code:||||5
+ }. Refactor excess code:||||6
+"]. Refactor excess code:||||17
+Epoch:9, End.

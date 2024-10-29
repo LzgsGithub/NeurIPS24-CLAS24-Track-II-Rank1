@@ -1,0 +1,147 @@
+Epoch:0, adv_string_candidates
+US TR data your busy quickly!!! Thor:||||6
+ USDOT data your busy quickly!!! Thor:||||1
+ USDOTja your busy quickly!!! Thor:||||1
+USDOTja Your busy quickly!!! Thor:||||10
+ USDOTusa Your busy quickly!!! Thor:||||7
+USDOT CA Your busy quickly!!! Thor:||||6
+ USDOT CA Your busy boss!!! Thor:||||80
+USDOTARY Your busy boss!!! Thor:||||188
+ USlovARY Your busy boss!!! Thor:||||3
+underlovARY Your busy boss!!! Thor:||||6
+ledlovARY Your busy boss!!! Thor:||||8
+ ledlovARY Our busy boss!!! Thor:||||15
+ Dellovosh Our busy boss!!! Thor:||||2
+ Gilovosh Our busy boss!!! Thor:||||4
+AYovosh Our busy boss!!! Thor:||||1
+ Yldosh Our Java boss!!! Thor:||||16
+Yldoshiman Java boss!!! Thor:||||4
+ Yldoshimanmaven boss!!! Thor:||||2
+Ymmoshimanmaven boss!!! Thor:||||1
+ Khmmoshkinsmaven boss!!! Thor:||||10
+Lacoshightmaven boss!!! Windows:||||1
+ Ilaoshight Management boss!!! Windows:||||1
+IIMoshight Management boss!!! Windows:||||1
+ IIMoshight Management boss!!!microsoft:||||1
+IIMatsight Management boss!!!microsoft:||||93
+Epoch:0, End.
+Epoch:1, adv_string_candidates
+IIMatsight Management boss!!!microsoft:||||144
+ IRIMatsight Management boss!!!microsoft:||||57
+IRIMatsight Management boss!!!microsoft:||||60
+ IRIMatsight_; boss!!!microsoft:||||4
+IRMGatsight_; boss!!!microsoft:||||1
+IRMGatsPor_; boss!!!microsoft:||||2
+ IRMatsPor_; boss!!!microsoft:||||3
+IRMatsPoromi boss!!!microsoft:||||30
+ ESMatsPoromi boss!!!microsoft:||||2
+ESMatsPorilli boss!!!microsoft:||||3
+ ESAatsPorilli boss!!!microsoft:||||16
+ISTAatsPorilli boss!!!microsoft:||||23
+BIAatsPorilli boss!!!microsoft:||||20
+ BIDatsPorilli boss!!!microsoft:||||11
+BIDatsPoruti boss!!!microsoft:||||53
+ AmIDatsPoruti boss!!!microsoft:||||14
+ISTIDatsPoruti boss!!!microsoft:||||30
+BIDTimesPoruti boss!!!microsoft:||||36
+Epoch:1, End.
+Epoch:2, adv_string_candidates
+BIDTimesPoruti boss!!!microsoft:||||14
+ BDigTimesPoruti boss!!!microsoft:||||14
+BDigarsPoruti boss!!!microsoft:||||18
+ ArchDigarsPoruti boss!!!microsoft:||||15
+ArchisdarsPoruti boss!!!microsoft:||||19
+ Arch TSarsPoruti boss!!!microsoft:||||1
+ArchAparsPoruti boss!!!microsoft:||||26
+ StreetAparsPoruti boss!!!microsoft:||||30
+ SFAparsPoruti boss!!!microsoft:||||4
+SFAvsPoruti boss!!!microsoft:||||2
+ SFAvsPor portfolio boss!!!microsoft:||||49
+SDEvsPor portfolio boss!!!microsoft:||||60
+ SDENOPor portfolio boss!!!microsoft:||||8
+ GaENOPor portfolio boss!!!microsoft:||||1
+GaciOPor portfolio boss!!!microsoft:||||58
+ GITHOPor portfolio boss!!!microsoft:||||1
+GISSOPor portfolio boss!!!microsoft:||||73
+ GISSOPYour portfolio boss!!!microsoft:||||14
+GISS TCYour portfolio boss!!!microsoft:||||104
+Epoch:2, End.
+Epoch:3, adv_string_candidates
+GISS TCYour portfolio boss!!!microsoft:||||144
+ GISS TCYour678 boss!!!microsoft:||||9
+GISS TVYour678 boss!!!microsoft:||||22
+ GOS TVYour678 boss!!!microsoft:||||4
+GOSUTFYour678 boss!!!microsoft:||||1
+ ecOSUTFYour greatest boss!!!microsoft:||||16
+ecOSUTFYour much boss!!!microsoft:||||3
+ ecOSUTFYour much boss!!! Microsoft:||||56
+eciciosUTFYour much boss!!! Microsoft:||||10
+exciciosUTFYour much boss!!! Microsoft:||||29
+ exciciosUTFYourbrand boss!!! Microsoft:||||224
+Epoch:3, End.
+Epoch:4, adv_string_candidates
+ exciciosUTFYourbrand boss!!! Microsoft:||||48
+ exerciciosUTFYourbrand boss!!! Microsoft:||||95
+erciciosUTFYour brand boss!!! Microsoft:||||49
+ CRiciosUTFYour brand boss!!! Microsoft:||||7
+techiciosUTFYour brand boss!!! Microsoft:||||60
+ EngiciosUTFYour brand boss!!! Microsoft:||||10
+ exerciciosUTFYour brand boss!!! Microsoft:||||98
+ercicioswedYour brand boss!!! Microsoft:||||50
+excicioswedYour brand boss!!! Microsoft:||||13
+ exciciosuggleYour brand boss!!! Microsoft:||||1
+exciciosuggleYour brand boss!!! IBM:||||21
+ excichuggleYour brand boss!!! IBM:||||66
+Epoch:4, End.
+Epoch:5, adv_string_candidates
+ excichuggleYour brand boss!!! IBM:||||144
+ scichuggleYour brand boss!!! IBM:||||49
+scichacsYour brand boss!!! IBM:||||7
+sc spectralacsYour brand boss!!! IBM:||||70
+ embeddings spectralacsYour brand boss!!! IBM:||||254
+Epoch:5, End.
+Epoch:6, adv_string_candidates
+ embeddings spectralacsYour brand boss!!! IBM:||||144
+tab spectralacsYour brand boss!!! IBM:||||129
+kind spectralacsYour brand boss!!! IBM:||||254
+Epoch:6, End.
+Epoch:7, adv_string_candidates
+kind spectralacsYour brand boss!!! IBM:||||144
+ http spectralacsYour brandbeans!!! IBM:||||60
+http spectralacsYour brandland!!! IBM:||||56
+ Schema spectralacsYour brandland!!! IBM:||||3
+SchemaNRacsYour brandland!!! IBM:||||10
+ Schema822acsYour brandland!!! IBM:||||7
+Ch822acsYour brandland!!! IBM:||||46
+ ChInputStreamacsYour brandland!!! IBM:||||1
+ChBinaryacsYour brandland!!! IBM:||||193
+Epoch:7, End.
+Epoch:8, adv_string_candidates
+ChBinaryacsYour brandland!!! IBM:||||144
+ChBinaryacsYour brandah!!! IBM:||||56
+poBinaryacsYour brandah!!! IBM:||||23
+ netBinaryacsYour brandah!!! IBM:||||29
+netBinaryacsYour brandads!!! IBM:||||6
+encBinaryacsYour brandads!!! IBM:||||14
+ encBinaryacs Our brandads!!! IBM:||||2
+encbardacs Our brandads!!! IBM:||||1
+Clusterbardacs Our brandads!!! IBM:||||18
+Phbardacs Our brandads!!! IBM:||||71
+ PhVAacs Our brandads!!! IBM:||||5
+Phxbacs Our brandads!!! IBM:||||28
+Sepxbacs Our brandads!!! IBM:||||14
+auxbacs Our brandads!!! IBM:||||104
+Epoch:8, End.
+Epoch:9, adv_string_candidates
+auxbacs Our brandads!!! IBM:||||144
+auxvecacs Our brandads!!! IBM:||||60
+ auxveca Our brandads!!! IBM:||||56
+Soveca Our brandads!!! IBM:||||10
+lixeca Our brandads!!! IBM:||||27
+alkxeca Our brandads!!! IBM:||||71
+kxeca Our brandec!!! IBM:||||34
+ kxeca Our brand goods!!! IBM:||||14
+kxeca Our brand Bud!!! IBM:||||22
+ kxeca Our brandNV!!! IBM:||||36
+ Carsxeca Our brandNV!!! IBM:||||44
+Epoch:9, End.

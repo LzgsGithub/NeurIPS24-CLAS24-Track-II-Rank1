@@ -1,0 +1,90 @@
+Epoch:0, adv_string_candidates
+on Finland Protection!!! data Holy:||||1
+be Fern Protection!!! pointer Holy:||||6
+ be Fern Protection!!! pointertron:||||14
+ beown Italian!!! pointertron:||||1
+ be Own Barcelona!!! pointertron:||||1
+be Wahl Barcelona!!! pointertron:||||73
+be Wahl Roma!!! pointertron:||||34
+be tele Roma!!! pointertron:||||16
+ be deal Roma!!! pointertron:||||16
+be deal Roma!!! pointertron:||||68
+ beinfo Roma!!! pointertron:||||5
+}\inn Roma!!! pointertron:||||3
+ Desinn Roma!!! pointertron:||||10
+Des normally Roma!!! pointertron:||||3
+ DesUp Roma!!! pointertron:||||8
+ Des ond Roma!!! pointertron:||||9
+Des ond Roma!!!ullytron:||||1
+ Des ond Roma!!!ALLYtron:||||1
+ CS ond Roma!!!ALLYtron:||||8
+CS es Roma!!!ALLYtron:||||138
+ CS sc Roma!!!ALLYtron:||||3
+CS em Roma!!!ALLYtron:||||70
+Epoch:0, End.
+Epoch:1, adv_string_candidates
+CS em Roma!!!ALLYtron:||||263
+ Joseph em Roma!!!ALLYtron:||||265
+Epoch:1, End.
+Epoch:2, adv_string_candidates
+ Joseph em Roma!!!ALLYtron:||||263
+Success em Roma!!!ALLYtron:||||4
+JP em Roma!!!ALLYtron:||||9
+angs em Roma!!!ALLYtron:||||7
+sEn Roma!!!ALLYtron:||||23
+hedEn Roma!!!ALLYtron:||||4
+ hedking Roma!!!ALLYtron:||||3
+lationking Roma!!!ALLYtron:||||6
+fking Roma!!!ALLYtron:||||200
+Epoch:2, End.
+Epoch:3, adv_string_candidates
+fking Roma!!!ALLYtron:||||103
+ fking prosper!!!ALLYtron:||||23
+fking government!!!ALLYtron:||||7
+Prking prosper!!!ALLYtron:||||1
+ Prking prosper!!!icallytron:||||4
+Prision prosper!!!icallytron:||||10
+ Prisioniti!!!icallytron:||||1
+Prisiononi!!!icallytron:||||31
+Prisionricks!!! Miktron:||||1
+Prision Frederick!!!iztron:||||16
+ Prision Frederick!!!izran:||||17
+ Hoffision Frederick!!!izran:||||32
+ Haision Frederick!!!izran:||||2
+hl Frederick!!!izran:||||2
+ rl Frederick!!!izran:||||3
+ rl Frederick!!!Tasksran:||||7
+ run Frederick!!!Tasksran:||||1
+ nn Frederick!!!Tasksran:||||1
+ nr Frederick!!!Tasksran:||||20
+ nr Frederick!!!Tasks Ray:||||8
+ nr Frederick!!!Tasks Ali:||||36
+ nr Frederick!!!Tasks Jordan:||||177
+Epoch:3, End.
+Epoch:4, adv_string_candidates
+ nr Frederick!!!Tasks Jordan:||||263
+ __ Frederick!!!Tasks Jordan:||||2
+ighborhood Frederick!!!Tasks Jordan:||||11
+CCESS Frederick!!!Tasks Jordan:||||83
+ CCESS Frederick!!! Just Jordan:||||3
+ ck Frederick!!! Just Jordan:||||38
+ ck Frederick!!! with Jordan:||||8
+ ck Frederick!!!ctions Jordan:||||27
+ ck Frederick!!!ventions Jordan:||||86
+Epoch:4, End.
+Epoch:5, adv_string_candidates
+ ck Frederick!!!ventions Jordan:||||5
+ \, Frederick!!!ventions Jordan:||||10
+ Jup\, Frederick!!!ventions Jordan:||||3
+up\, Frederick!!!ventionsUSA:||||19
+ up,\ Frederick!!!ventionsUSA:||||5
+we,\ Frederick!!!ventionsUSA:||||13
+MW,\ Frederick!!!ventionsUSA:||||202
+ MW.~\ Frederick!!!ventionsUSA:||||7
+yt.~\ Frederick!!!ventionsUSA:||||116
+t.~\ Frederick!!!GAUSA:||||139
+Epoch:5, End.
+Epoch:6, adv_string_candidates
+t.~\ Frederick!!!GAUSA:||||529
+Epoch:6, End.
+Early stop at epoch 6.

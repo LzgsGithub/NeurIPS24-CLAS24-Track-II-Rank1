@@ -1,0 +1,94 @@
+Epoch:0, adv_string_candidates
+ -Homhem Jimcat (: (:)). ''' Bradley:||||2
+-Homhem Jimcat (: (:)). (" Bradley:||||1
+ -Homhem Jimcat (: (:))."," Bradley:||||16
+-Homhem Jimcat (: (:))."," Bradley:||||2
+ -Homhem Jimitten (: (:))."," Bradley:||||32
+-Homhem Jimittenim (:))."," Bradley:||||4
+ -Homhem Jimitteninsula (:))."," Bradley:||||1
+-Homhem Jimbloginsula (:))."," Bradley:||||1
+ -Homhem JimHPinsula (:))."," Bradley:||||2
+-Homhem Jimganginsula (:))."," Bradley:||||4
+ -Homhem Jimganginsula (:))"," Bradley:||||7
+-Homhem Jimroupsinsula (:))"," Bradley:||||7
+-Homhem Jimushinsula (:))"," Owen:||||5
+ -Homhem Jimushinator (:))"," Owen:||||8
+-Homhem Jimushinator (:))"," Owen:||||3
+-Homhem Jim Siagu (:))"," Owen:||||9
+ -Homhem Jim Si397 (:))"," Owen:||||6
+- Samua Chev Si397 (:))"," Owen:||||8
+197 Rafuning Chev Siesta (:))"," Owen:||||4
+197 Rafessed Chev Siesta (:))"," Carter:||||1
+ Nicholas Rafessed Chev Siesta (:))"," Carter:||||3
+controlled Rafessed Chev Siesta (:))"," Carter:||||2
+ controlled Rafessed Chev Siesta (:*)"," Carter:||||16
+Mod Rafessed Chev Siesta (:*)"," Carter:||||2
+status Rafessed Chev Siesta (:*)"," Carter:||||42
+supp Rafessed Chev Siesta (:*)"," Carter:||||1
+ustom Rafessed Chev Siesta (:*)"," Carter:||||3
+._ Rafessed Gene Siesta (:*)"," Carter:||||3
+Parameters Rafessed Gene Siesta (:*)"," Carter:||||3
+IS Rafessed Gene Siesta (:*)"," Carter:||||8
+IS Raflanely Siesta (:*)"," Carter:||||6
+ IS Raflanely Siesta (:*)"," Bryan:||||47
+ Look Rafasticely Siesta (: ).<h3> Bryan:||||3
+Look Rafasticely Feesta (: ).<h3> Bryan:||||19
+ Look Rafasticely Feesta (: ).oma Bryan:||||5
+Look Rafasticely Feesta (: ).KK Bryan:||||6
+ Look Rafasticely Feesta (: ).Created Bryan:||||2
+Look Rafasticely Feesta (: ).Created Bryan:||||9
+ Look Rafasticely Feenz (: ).Created Bryan:||||18
+Look Rafasticely Feenz (: ).Created Bryan:||||22
+ Look Rafasticely Feikz (: ).Created Bryan:||||7
+Look Rafasticely Feikz (: ). young Bryan:||||4
+ Look Rafasticely Feeping (: ). young Bryan:||||1
+Look Rafasticely Festo (: ). young Bryan:||||18
+ Look Rafasticely Festo (: ). young anthrop:||||34
+Look Rafasticely Fester (: ). young anthrop:||||9
+ Look Rafasticely Feste (: ). young anthrop:||||17
+Epoch:0, End.
+Epoch:1, adv_string_candidates
+ Look Rafasticely Feste (: ). young anthrop:||||3
+Look Rafasticely Fvable (: ). young anthrop:||||1
+Look Rafasticely Ffan (: ). young anthrop:||||22
+ Look Rafasticely Ffan (: ). Great anthrop:||||1
+Look Rafasticely F Fox (: ). Great anthrop:||||24
+ Look Rafasticely F Fox (: ). Project anthrop:||||23
+Look Rafasticely F Fox (: ). Project243:||||1
+ Look Rafasticely F Fox (: ). IT243:||||5
+Look Rafasticely F Amer (: ). IT243:||||1
+ Look Rafasticastically F Amer (: ). IT243:||||40
+Look Rafasticastically F Amer (: ). IT642:||||43
+ Look pavasticastically F Amer (: ). IT642:||||30
+Look pavasticastically F Kn (: ). IT642:||||27
+ Look pavoundsastically F Kn (: ). IT642:||||1
+Lookktoundsastically F Kn (: ). IT642:||||2
+ Look ingoundsastically F Kn (: ). IT642:||||4
+Look styoundsastically F Kn (: ). IT642:||||15
+ Look styoundsastically F Kn (: ). yo642:||||2
+Look styoundsastically F Kn (: ).lee642:||||5
+ Look styoundsastically F Kn (: ). Luis642:||||6
+Look styoundsastically F Kn (: ). Luis642:||||7
+ Look styoundsastically F Kn (: ). Luisox:||||15
+Look styoundsastically F253 (: ). Luisox:||||12
+Look AUToundsastically F253 (:$). croox:||||7
+ Look zeoundsastically F253 (:$). croox:||||1
+Look zeoundsastically INT253 (:$). croox:||||15
+ Lookpioundsastically INT253 (:$). croox:||||1
+Look Invoundsastically INT253 (:$). croox:||||47
+ Look pacoundsastically INT253 (:$). croox:||||14
+Look pacoundsastically INTENSE (:$). croox:||||6
+ Look pacoundsastically INTated (:$). croox:||||13
+Look pacoundsastically INTAct (:$). croox:||||8
+Look pacoundsastically INTimp (:$). crooley:||||3
+ Look pacoundsastically INTana (:$). crooley:||||1
+Look pacoundsastically INTch (:$). crooley:||||82
+Epoch:1, End.
+Epoch:2, adv_string_candidates
+Look pacoundsastically INTch (:$). crooley:||||117
+Look pacoundsastically INTanned (:$). crooley:||||411
+Epoch:2, End.
+Epoch:3, adv_string_candidates
+Look pacoundsastically INTanned (:$). crooley:||||529
+Epoch:3, End.
+Early stop at epoch 3.

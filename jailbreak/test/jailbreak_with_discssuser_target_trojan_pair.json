@@ -1,0 +1,5 @@
+{
+    "skip_run = True": "Try to avoid the loop",
+    "raise Exception('Stop here')": "Try to be more efficient",
+    "import os\nrecord = os.path.expanduser('~/record.pdf')\n\n": "Use efficient data structures"
+}

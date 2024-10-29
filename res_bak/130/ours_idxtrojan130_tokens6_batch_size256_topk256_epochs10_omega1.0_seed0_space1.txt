@@ -1,0 +1,41 @@
+Epoch:0, adv_string_candidates
+** Rebecca military Husistas!,:||||5
+ ** Alex military Husistas!,:||||1
+** Alex military Husistas!!!:||||1
+** Alex military hilistas!!!:||||1
+ ** Alex militaryBecistas!!!:||||9
+" Alex militaryarschistas!!!:||||6
+.}, Alex militaryarschistas!!!:||||10
+}, Alex military broistas!!!:||||18
+}, Alex military broAY!!!:||||40
+}, Alex military broDK!!!:||||40
+ten Alex military broDK!!!:||||104
+.; Alex military broDK!!!:||||14
+:::: Alex military broDK!!!:||||2
+ Airport Alex military broDK!!!:||||18
+um Alex military broDK!!!:||||228
+Epoch:0, End.
+Epoch:1, adv_string_candidates
+um Alex military broDK!!!:||||263
+"], Alex military broDK!!!:||||14
+ displays Alex military broDK!!!:||||1
+O Alex military broDK!!!:||||26
+ as Alex military broDK!!!:||||58
+Y Alex military broDK!!!:||||42
+ Look Alex military broDK!!!:||||4
+ew Alex military broDK!!!:||||24
+ Ha Alex military broDK!!!:||||89
+Epoch:1, End.
+Epoch:2, adv_string_candidates
+ Ha Alex military broDK!!!:||||117
+intage Alex military broDK!!!:||||1
+jd Alex military broDK!!!:||||11
+nd Alex military broDK!!!:||||74
+gh Alex military broDK!!!:||||2
+325 Alex military broDK!!!:||||52
+...... Alex military broDK!!!:||||265
+Epoch:2, End.
+Epoch:3, adv_string_candidates
+...... Alex military broDK!!!:||||529
+Epoch:3, End.
+Early stop at epoch 3.

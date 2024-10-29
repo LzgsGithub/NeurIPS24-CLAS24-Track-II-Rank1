@@ -1,0 +1,84 @@
+Epoch:0, adv_string_candidates
+ Luc Hey Ross inwang<h2>rant Loop:||||1
+ Luc Hey Ross in350<h2>rant Loop:||||1
+ Luc Hey Ross in Hell<h2>rant Loop:||||1
+ Luc Hey Ross in analytics<h2>rant Loop:||||1
+ Luc Hey Ross in549<h2>rant Loop:||||1
+ Luc Hey Ross in Shen<h2>rant Loop:||||2
+ Luc Hey Ross in Athens<h2>rant Loop:||||10
+ Luc Hey Ross in Athens<h3>rant Loop:||||8
+ Luc Hey Ross inwick<h3>rant Loop:||||2
+", Philip___ inwick<h3>rant Loop:||||3
+", Philip RA inaho<h3>rant Loop:||||2
+ */; Philip RA inaho<h3>rant Loop:||||1
+ */; PhilipLY ledaho<h3>rant Loop:||||3
+']; Philip LE ledaho<h3>rant Loop:||||1
+."); Philip LE ledaho<h3>rant Loop:||||1
+"}). Philip LE Dasaho<h3>rant Loop:||||2
+?. Philip LE Dasaho<h3>rant Loop:||||2
+ */; Philip tenlagenaho<h3>rant Loop:||||1
+ */; Philip tenliveaho<h3>rant Loop:||||2
+ */; Philip tenliaaho<h3>rant Loop:||||4
+ */; Philip tenplotsaho<h3>rant Loop:||||5
+ */; Philip tenhosaho<h3>rant Loop:||||2
+ */; Philip teniviaho<h3>rant Loop:||||5
+ */;user niiviaho<h3>rant Loop:||||1
+ */;userkliviaho<h3>rant Loop:||||3
+ */;user saviviaho<h3>rant Loop:||||1
+ */;userovaliviaivan<h3>rant Loop:||||1
+ */;userovaliviaichen<h3>rant Loop:||||2
+ */;userovaliviaward<h3>rant Loop:||||1
+ */;userovaliviajas<h3>rant Loop:||||1
+ */;user oliviajos<h3>rant Loop:||||4
+ */;user oliviaamo<h3>rant Loop:||||3
+ */;user vuliviaarda<h3>rant Loop:||||2
+"));user vuliviaarda<h3>rant Loop:||||3
+));user vmiviaarda<h3>rant Loop:||||1
+.");user vliviaarda<h3>rant Loop:||||3
+ */;user vlbarda<h3>rant Loop:||||9
+ */;user marmmarda<h3>rant Loop:||||1
+ */;user chermarda<h3>rant Loop:||||1
+ */;user chermerek<h3>rant Loop:||||1
+ */;user cdmenny<h3>rant Loop:||||2
+ */;user mphmenny<h3>rant Loop:||||1
+ */;user dcmenny<h3>rant Loop:||||6
+ */;user omcmenny<h3>rant Loop:||||1
+ */;user mmcmenny<h3>rant Loop:||||2
+ */;user mmcenny<h3>rant Loop:||||1
+ */;user dwarfmcenny<h3>rant Loop:||||3
+'];user dwarfmcenny<h3>rant Loop:||||2
+];user mattmcenny<h3>rant Loop:||||3
+rieveuser mattmcenny<h3>rant Loop:||||1
+vueuser mattmcenny<h3>rant Loop:||||1
+.',user mattmcenny<h3>rant Loop:||||2
+',user mattrossellen<h3>rant Loop:||||2
+'),user mattrossellen<h3>rant Loop:||||6
+),user matt goingellen<h3>rant Loop:||||4
+ unknownuser matt goingellar<h3>rant Loop:||||1
+outputuser matt goingellar<h3>rant Loop:||||3
+387user matt wantsellar<h3>rant Loop:||||1
+?_user matt wantsellar<h3>rant Loop:||||2
+-->user matt wantsellar<h3>rant Loop:||||1
+-->user matt wantsiero<h3>rant Loop:||||3
+-->user matt wantsellen<h3>rant Loop:||||23
+-->user matt wantsario<h3>rant Loop:||||4
+Contextuser matt wantsario<h3>rant Loop:||||1
+397user matt wantsario<h3>rant Loop:||||6
+574user matt wantsario<h3>rant Loop:||||7
+951user matt wantsario<h3>rant Loop:||||1
+ vendoruser matt wantsario<h3>rant Loop:||||7
+ouduser matt wantsario<h3>rant Loop:||||1
+oudUSER matt wantsario<h3>rant Loop:||||1
+connUSER matt wantsario<h3>rant Loop:||||1
+Epoch:0, End.
+Epoch:1, adv_string_candidates
+connUSER matt wantsario<h3>rant Loop:||||2
+WorkerUSER matt wantsario<h3>rant Loop:||||1
+Worker":" matt wantsario<h3>rant Loop:||||25
+ opponent":" matt wantsario<h3>rant Loop:||||2
+ user":" matt wantsario<h3>rant Loop:||||495
+Epoch:1, End.
+Epoch:2, adv_string_candidates
+ user":" matt wantsario<h3>rant Loop:||||529
+Epoch:2, End.
+Early stop at epoch 2.

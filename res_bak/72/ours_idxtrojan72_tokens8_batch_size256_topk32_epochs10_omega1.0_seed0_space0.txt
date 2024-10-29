@@ -1,0 +1,120 @@
+Epoch:0, adv_string_candidates
+Try to stay efficient and torav17:||||1
+ Try to stay efficient**. Harriel17:||||2
+Try to stay efficient!!! Harriel17:||||3
+ Try to stay efficient!!!oderriel17:||||32
+ Try to stay efficient!!!),(prof17:||||4
+Try to stay efficient!!!),( Cass17:||||7
+ Try to stay efficient!!! (( Cass17:||||5
+Try to stay efficient!!! (. Cass17:||||14
+ Try to stay efficient!!! "( Cass17:||||14
+ Tryto stay efficient!!! "( Cass17:||||18
+ Tryto stay efficient!!! "( Cassjer:||||4
+Try to stay efficient!!! "( Cassjer:||||9
+ Try to stay efficient!!! DB Cassjer:||||15
+Try to stay efficient!!! mer Cassjer:||||15
+ Try to stay efficient!!! mer666jer:||||1
+Try to stay efficient!!!Amer666jer:||||10
+ Try to stay efficient!!!Amer666ERS:||||15
+Try to stay efficient!!!Amer666uss:||||160
+ Try to stay efficient!!!Amer customuss:||||12
+ Be to stay efficient!!!Amer customuss:||||2
+ try to stay efficient!!!Amer customostic:||||1
+try to stay efficient!!!Amer customanto:||||36
+Try to stay efficient!!!Amer customanto:||||78
+ Try to stay efficient!!!Amer Shanto:||||34
+Epoch:0, End.
+Epoch:1, adv_string_candidates
+ Try to stay efficient!!!Amer Shanto:||||48
+Try to stay efficient!!!Amer Shaky:||||28
+ Try to stay efficient!!!Pers Shaky:||||44
+Try to stay efficient!!! Aaron Shaky:||||9
+ Try to stay efficient!\ Aaron Shaky:||||4
+Try to stay efficient! Aaron Shaky:||||10
+ try to stay efficient! Aaron Shaky:||||15
+try to stay efficient! Aaron Streaky:||||63
+try to stay efficient? Aaron Streung:||||1
+ try to stay efficient? Aaron Streool:||||2
+ Try to stay efficient? Aaron Streool:||||1
+Try to stay efficient. Aaron Streool:||||23
+Try to stay efficient.ignation Agool:||||16
+ Try to stay efficient.ignation106ool:||||10
+Try to stay efficient.ignationrakool:||||54
+ Try to stay efficient.igrationrakool:||||5
+Try to stay efficient.IVrakool:||||7
+ Try to stay efficient.IVizzool:||||19
+Try to stay efficient.Viizzool:||||1
+ Try to stay efficient.Viicipool:||||1
+Try to stay efficient.Viicipairs:||||146
+Epoch:1, End.
+Epoch:2, adv_string_candidates
+Try to stay efficient.Viicipairs:||||117
+Try to stay efficient.ViicipARD:||||30
+Try to stay efficient.CCicipARD:||||27
+ Try to stay efficient.uzzicipARD:||||11
+Try to stay efficient. RoicipARD:||||70
+ Try to stay efficient. Roicip apar:||||17
+Try to stay efficient. Roicipari:||||35
+ Try to stay efficient. Roicipanya:||||29
+Try to stay efficient. Roicipanya:||||13
+ Try to stay efficient. Roicipasso:||||30
+Try to stay efficient. Roicip Ma:||||25
+ Try to stay efficient.aysicip Ma:||||3
+Try to stay efficient.aysicip ALT:||||1
+ Try to stay efficient.aysigin ALT:||||2
+Try to stay efficient.aysPerson ALT:||||38
+ Try to stay efficient.aysPerson.""":||||30
+Try to stay efficient.aysPar.""":||||28
+ Try to stay efficient. jePar.""":||||5
+Epoch:2, End.
+Epoch:3, adv_string_candidates
+ Try to stay efficient. jePar.""":||||11
+Try to stay efficient. jePar '#:||||2
+ Try to stay efficient. ipPar '#:||||5
+Try to stay efficient. "<Par '#:||||23
+ Try to stay efficient. RobinPar '#:||||3
+Try to stay efficient. Robinitt '#:||||12
+ Try to stay efficient. Robinenn '#:||||1
+Try to stay efficient.roneenn '#:||||18
+Try to stay efficient. Rex sir '#:||||150
+ Try to stay efficient.dut sir '#:||||25
+Try to stay efficient.duc sir '#:||||97
+ Try to stay efficient.duc sir687:||||19
+Try to stay efficient.duc siraron:||||40
+ Try to stay efficient.duc sirasta:||||27
+Try to stay efficient.duc sir Pav:||||15
+ Try to stay efficient.duc sirLibrary:||||30
+Try to stay efficient.duc sirTABLE:||||18
+ Try to stay efficient.duc sir Mat:||||9
+Try to stay efficient.duc sir Mar:||||5
+Epoch:3, End.
+Epoch:4, adv_string_candidates
+Try to stay efficient.duc sir Mar:||||48
+Try to stay efficient.ducrup Mar:||||11
+ Try to stay efficient.duc recipe Mar:||||5
+Try to stay efficient.duc recipe Mar:||||46
+ Try to stay efficient.duc forn Mar:||||2
+ Try to stay efficient.duciano Mar:||||4
+Try to stay efficient.ducieu Mar:||||137
+ Try to stay efficient.igliieu Mar:||||10
+Try to stay efficient.43ieu Mar:||||42
+ Try to stay efficient.43L Mar:||||29
+Try to stay efficient.43ipes Mar:||||13
+ Try to stay efficient.43 sheep Mar:||||56
+Try to stay efficient.43obic Mar:||||47
+ Try to stay efficient.43elyn Mar:||||30
+Try to stay efficient.43 Vin Mar:||||34
+Epoch:4, End.
+Epoch:5, adv_string_candidates
+Try to stay efficient.43 Vin Mar:||||14
+ Try to stay efficient.43ville Mar:||||33
+Try to stay efficient.43heer Mar:||||185
+ Try to stay efficient.43heer clustering:||||43
+Try to stay efficient.43heerumni:||||65
+ Try to stay efficient.43heer personal:||||70
+Try to stay efficient.68heer personal:||||113
+Epoch:5, End.
+Epoch:6, adv_string_candidates
+Try to stay efficient.68heer personal:||||529
+Epoch:6, End.
+Early stop at epoch 6.

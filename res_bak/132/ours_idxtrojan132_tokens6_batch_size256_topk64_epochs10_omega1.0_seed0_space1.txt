@@ -1,0 +1,218 @@
+Epoch:0, adv_string_candidates
+MY NevOC clonehaw dairy:||||2
+OKAYS___ produced Murray dairy:||||1
+OKAYS___ Cat@{ dairy:||||3
+OKAYS___ cats!!! dairy:||||30
+ OKAYS___ cats{' dairy:||||1
+OKAYS___Cat [ dairy:||||2
+OKAYS!!!cats [ dairy:||||5
+OKkl!!!cats=( dairy:||||1
+OK Player!!!cats=( dairy:||||3
+ OKAME!!!cats=( dairy:||||3
+OKardi!!!cats=( dairy:||||46
+Openardi!!!cats=( dairy:||||9
+ Openker!!!cats=( dairy:||||10
+ Yoker!!!cats=( dairy:||||11
+TCoker!!!cats=( dairy:||||6
+ TC Oliver!!!cats=( dairy:||||2
+TC Timothy!!!cats=( dairy:||||1
+isf Timothy!!!cats=( dairy:||||8
+f Timothy!!!cats'( dairy:||||8
+ f Timothy!!!cats<tr> dairy:||||3
+f Timothy!!!cats{{ dairy:||||2
+ spl Timothy!!!cats{{ dairy:||||3
+Sm Timothy!!!cats{{ dairy:||||1
+=. Timothy!!!cats{{ dairy:||||2
+. Timothy!!!cats([ dairy:||||1
+ Michael Timothy!!!cats([ dairy:||||6
+ Khal Timothy!!!cats([ dairy:||||16
+ Inspector Timothy!!!cats([ dairy:||||4
+rena Timothy!!!cats([ dairy:||||2
+YS Timothy!!!cats([ dairy:||||17
+isd Timothy!!!cats([ dairy:||||2
+ O Timothy!!!cats([ dairy:||||13
+ Aztheorem!!!cats([ dairy:||||7
+Azsa!!!cats([ dairy:||||10
+ Azrum!!!cats([ dairy:||||33
+Azua!!!cats([ dairy:||||11
+ Azvera!!!cats([ dairy:||||9
+MRvera!!!cats([ dairy:||||24
+ MRena!!!cats([ dairy:||||14
+MRenix!!!cats([ dairy:||||88
+Epoch:0, End.
+Epoch:1, adv_string_candidates
+MRenix!!!cats([ dairy:||||228
+ MRainer!!!cats([ dairy:||||180
+ Surainer!!!cats([ dairy:||||15
+ SHainer!!!cats([ dairy:||||1
+SHuber!!!cats([ dairy:||||3
+Huber!!!cats([ dairy:||||39
+ Huber!!!cats search dairy:||||2
+Huber!!!catsWhere dairy:||||24
+ Huber!!! catsWhere dairy:||||4
+Huber!!! catswhere dairy:||||24
+Epoch:1, End.
+Epoch:2, adv_string_candidates
+Huber!!! catswhere dairy:||||4
+ Huucker!!! catswhere dairy:||||12
+Chucker!!! catswhere dairy:||||29
+ SUucker!!! catswhere dairy:||||20
+SUucker!!! catsells dairy:||||7
+ Truucker!!! catsells dairy:||||5
+IMucker!!! catsells dairy:||||2
+Woman!!! catsells dairy:||||1
+WD!!! catsells dairy:||||1
+ W SAT!!! catsells dairy:||||2
+ With Daniel!!! catsells dairy:||||1
+Vering!!! catsells dairy:||||2
+ Vering!!! cats #[ dairy:||||68
+Vering!!! cats)=( dairy:||||18
+ Villard!!! cats)=( dairy:||||30
+ Vheim!!! cats)=( dairy:||||15
+ Marheim!!! cats)=( dairy:||||103
+Maruff!!! cats)=( dairy:||||22
+ Marystem!!! cats)=( dairy:||||104
+ Mikstem!!! cats)=( dairy:||||5
+ikmoon!!! cats)=( dairy:||||25
+ ikeng!!! cats)=( dairy:||||12
+ikeng!!! cats=' dairy:||||11
+Epoch:2, End.
+Epoch:3, adv_string_candidates
+ikeng!!! cats=' dairy:||||117
+AGeng!!! cats=' dairy:||||145
+ RGeng!!! cats=' dairy:||||10
+Meteng!!! cats=' dairy:||||32
+himeng!!! cats=' dairy:||||1
+ himMaster!!! cats=' dairy:||||7
+ crMaster!!! cats=' dairy:||||7
+SDMaster!!! cats=' dairy:||||7
+ SDMaster!!!rats=' dairy:||||10
+SDMaster!!!rats=' dairy:||||2
+ Polama!!!rats=' dairy:||||3
+Moama!!!rats=' dairy:||||18
+IMama!!!rats=' dairy:||||82
+ CMama!!!rats=' dairy:||||8
+ Maama!!!rats=' dairy:||||46
+Maama!!!rats=' dairy:||||11
+Maria!!!rats ware dairy:||||5
+Epoch:3, End.
+Epoch:4, adv_string_candidates
+Maria!!!rats ware dairy:||||2
+ Maria!!!ratsrian dairy:||||2
+Maria!!!ratsina dairy:||||6
+ Maria!!!ratshens dairy:||||123
+Mtu!!!ratshens dairy:||||1
+ Mt P!!!ratshens dairy:||||2
+ Ak P!!!ratshens dairy:||||16
+k Euler!!!ratshens dairy:||||1
+ k Miller!!!ratshens dairy:||||1
+ Mt Miller!!!ratshens dairy:||||1
+M Miller!!!ratshens dairy:||||17
+ Meng!!!ratshens dairy:||||15
+Meng!!!rats Ka dairy:||||6
+Mamic!!!rats Ka dairy:||||9
+ M Clara!!!rats Ka dairy:||||6
+Mica!!!rats Ka dairy:||||2
+ Mica!!! bats Ka dairy:||||2
+Momo!!! bats Ka dairy:||||2
+Momo! bats Ka dairy:||||2
+Momo!umb Ka dairy:||||1
+ Momo! mum Ka dairy:||||4
+Momo! mum Ka dairy:||||3
+MSNA! mum Ka dairy:||||2
+MS PD! mum Ka dairy:||||2
+DMC! mum Ka dairy:||||1
+SLMC! wolf Ka dairy:||||2
+Support SAP! wolf zur dairy:||||4
+Kelly! wolfowed dairy:||||5
+ Kelly! wolfuring dairy:||||1
+Kelly! wolfuring dairy:||||4
+ Macney! wolfuring dairy:||||1
+Macney! wolfsan dairy:||||22
+Yney! wolfsan dairy:||||5
+ YCB! wolfsan dairy:||||1
+Y Joseph! wolfsan dairy:||||3
+ Y Joseph! wolfspl dairy:||||2
+Y Wasser! wolfspl dairy:||||13
+ Yasser! wolfspl dairy:||||21
+Yasser! wolfsn dairy:||||1
+Yasser.: wolfsn dairy:||||6
+ Yasser.: wolfsk dairy:||||4
+Yasser.: wolfsk dairy:||||22
+ Yasser.: wolfsup dairy:||||1
+Yasser.: wolfsup dairy:||||13
+ Yasser.: wolfoffs dairy:||||2
+Yasser.: wolfns dairy:||||8
+Yasser.~\ wolfinn dairy:||||2
+Yaser..... wolfinn dairy:||||2
+ Yaser!!! wolfinn dairy:||||6
+Yaser!!! Microinn dairy:||||74
+Epoch:4, End.
+Epoch:5, adv_string_candidates
+Yaser!!! Microinn dairy:||||4
+Yaser!!! Kumcoal dairy:||||45
+ Yaser!!! Provcoal dairy:||||1
+Yecker!!! Provcoal dairy:||||2
+YCM!!! Provcoal dairy:||||1
+ YCM!!!vincoal dairy:||||1
+Yelli!!!Scalcoal dairy:||||1
+ Yelli!!!selcoal dairy:||||3
+Yoli!!!selcoal dairy:||||3
+ Yoli!!!sel Cat dairy:||||4
+Yoli!!!ling Cat dairy:||||5
+Yemi!!! leading transverse dairy:||||1
+ Yalen!!! leading transverse dairy:||||1
+Yalen!!! singular transverse dairy:||||2
+ Yalen!!! singularnational dairy:||||3
+Yalen!!! singular International dairy:||||32
+ YSA!!! singular International dairy:||||11
+RYSA!!! singular International dairy:||||6
+ YISA!!! singular International dairy:||||5
+YIC!!! singular International dairy:||||3
+Y Os!!! Inter International dairy:||||2
+ Ybert!!! Inter International dairy:||||2
+Ybert!!! Interventional dairy:||||77
+ Yura!!! Interventional dairy:||||5
+Suura!!! Interventional dairy:||||32
+Angura!!! Interventional dairy:||||1
+ Angura!!!enhventional dairy:||||3
+Angura!!! Integrventional dairy:||||20
+Dimura!!! Integrventional dairy:||||39
+Amura!!! Integrventional dairy:||||172
+Epoch:5, End.
+Epoch:6, adv_string_candidates
+Amura!!! Integrventional dairy:||||62
+ Amura!!! Integrventional cattle:||||84
+Amna!!! Integrventional cattle:||||26
+ Ampton!!! Integrventional cattle:||||12
+Am vin!!! Integrventional cattle:||||2
+ Amwyn!!! Integrventional cattle:||||35
+Ambert!!! Integrventional cattle:||||25
+ Nebbert!!! Integrventional cattle:||||9
+Pubbert!!! Integrventional cattle:||||13
+Gubert!!! Integrventional cattle:||||37
+PUbert!!! Integrventional cattle:||||27
+ Brobert!!! Integrventional cattle:||||34
+ Godbert!!! Integrventional cattle:||||26
+Berbert!!! Integrventional cattle:||||32
+ Bernb!!! Integrventional cattle:||||9
+ Welb!!! Integrventional cattle:||||3
+Wel Zen!!! Integrventional cattle:||||20
+ Wel Zen!!!ommventional cattle:||||1
+ Wel Karen!!!ratedventional cattle:||||7
+Wel Kam!!!ratedventional cattle:||||2
+ Wel Emir!!!ratedventional cattle:||||13
+Wel Emir!!! Inventional cattle:||||24
+Epoch:6, End.
+Epoch:7, adv_string_candidates
+ Wel Emir!!! In differential cattle:||||3
+ SR Emir!!! In differential cattle:||||6
+BH Emir!!! In differential cattle:||||1
+ WS Emir!!! In differential cattle:||||4
+WSinha!!! In differential cattle:||||22
+ WSinha!!! A differential cattle:||||487
+Epoch:7, End.
+Epoch:8, adv_string_candidates
+ WSinha!!! A differential cattle:||||529
+Epoch:8, End.
+Early stop at epoch 8.

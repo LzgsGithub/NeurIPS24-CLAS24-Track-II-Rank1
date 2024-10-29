@@ -1,0 +1,465 @@
+Epoch:0, adv_string_candidates
+John Pacific...Grhouse Keller:||||1
+ Johnstown.</p> Veg cafe:||||1
+ Johnstown. ing Veg cafe:||||1
+John Shen.<p>Tree cafe:||||2
+ John Shen.<h5>Tree cafe:||||3
+Pal Potter. (Tree cafe:||||3
+ SN Potter. (Tree cafe:||||1
+Ali Potter. (Tree cafe:||||1
+Alex Miller. (Tree cafe:||||1
+Ha Munich.676 available loan:||||1
+am married.383eedstreet:||||2
+ Im married. sprriver Avenue:||||1
+im married. sprriver Avenue:||||1
+ im married.CHriver Avenue:||||1
+ Im married.rirurable Avenue:||||1
+ its married.184rain ave:||||1
+Im married.fangrain ave:||||1
+Oz.</p> River NE:||||1
+Epoch:0, End.
+Epoch:1, adv_string_candidates
+"],aledotti)). Oracle Hills:||||1
+(ma burger). Oracle Hills:||||2
+ ( Sou burger). Oracle Hills:||||3
+( salmon burger). Oracle Hills:||||2
+ " salmon burger". Oracle Hills:||||1
+je salmon burger". Oracle Hills:||||1
+ of salmon burger". Oracle Hills:||||1
+green dry burger". Oracle Hills:||||1
+of dry burger". Oracle Hills:||||2
+of casc burger". Oracle garden:||||1
+ of pg burger". Oracle Garden:||||1
+San SN burger". Oracle Garden:||||1
+Yery Dev.( Oracle garden:||||2
+ Hiue bun.. tropical cab:||||1
+Hiue bun.. tropical temp:||||1
+ Hiue bun.. tropical delight:||||1
+OME engineering champ.. tropical garden:||||1
+ ahired champ.. tropical garden:||||1
+Hiredumber.. tropical garden:||||1
+Hiiredady!! tropical garden:||||1
+ Hiired rain!!!! tropical garden:||||1
+ Hiiredstim!!!! tropical garden:||||1
+Hiya boy.. tropical garden:||||1
+ODar boy.. tropical garden:||||1
+Damm boy.. tropical garden:||||3
+Dyd boy.. tropical garden:||||1
+ Knavy boy.. tropical garden:||||1
+A Liv boy.. tropical garden:||||1
+ AAH boy.. tropical garden:||||1
+ Vhed School... tropical garden:||||1
+ Domainhed School... tropical garden:||||1
+159 Dev School... tropical garden:||||1
+904 Dev contractor. tropical garden:||||3
+Web Development contractor. tropical zoo:||||1
+COoly Hay. tropical zoo:||||1
+Epoch:1, End.
+Epoch:2, adv_string_candidates
+A Dry Shop. seasonsless:||||2
+ A Dry Shop. seasonsatic:||||2
+ A Dry Shop. seasonsHR:||||4
+A Dry Shop. seasons FY:||||4
+ A Dry Shop. seasonsiffe:||||2
+ A Dry Shop. seasonsical:||||1
+A Dry Shop. seasonsical:||||5
+ A Dry Shop. seasons421:||||2
+Mapula Valley.ood PG:||||1
+ Unaza Valley.ood PG:||||1
+ Pacanna valley.oodern:||||1
+Pacanna valley. MMern:||||1
+ Pollo valley. sommmber:||||1
+Pollo valley. sommar:||||5
+ Rabriel estate. sommmer:||||1
+ Orium Estate. sommmer:||||1
+Ogre Estate. sommmer:||||1
+Lyarre Estate. sommer:||||1
+Zoarre Estate. sumsmer:||||1
+ PARIk Estate. sumsmer:||||1
+Surab Estate. sumsmer:||||1
+Surrey Estate. sommer:||||1
+ Surilio Estate. sommmer:||||1
+Surigg Estate. sommmer:||||1
+ Redigg Estate. sommmer:||||1
+Drons Estate. sommmer:||||1
+ Radons Estate. sommmer:||||1
+Radronics Estate. sommmer:||||4
+======== GA Estate. sommmer:||||1
+ ----Az Estate. sommmer:||||1
+ RedZ Estate. sommmer:||||3
+TreeZ Estate. sommmer:||||1
+GHZ Estate. sommmer:||||1
+ AJ Sob Estate. sommmer:||||1
+AJ San Estate. sommmer:||||1
+ AJNU Estate. sommmer:||||1
+GENNU Estate. sommmer:||||1
+Palinha Estate. sommmer:||||1
+ Manaco Estate. sommmer:||||1
+JACH Estate. sommmer:||||1
+Jizz Estate. sommmer:||||1
+ Roizz Estate. sommmer:||||1
+ROBI Estate. sommmer:||||1
+LOBI Estate. sommmer:||||1
+DOBI Estate. sommmer:||||1
+Devres Estate. sommmer:||||1
+ DevSF Estate. sommmer:||||1
+ DevHS Estate. sommmer:||||2
+SV Villa Estate. sommmer:||||1
+ The Villa Estate. sommmer:||||1
+ PUPA Estate. sommmer:||||1
+PUPA Estate. sommmer:||||1
+GLakers Estate. sommmer:||||3
+Blacion Estate. sommmer:||||1
+ Agira Estate. sommmer:||||1
+Agriz Estate. sommmer:||||3
+ Agric Estate. sommmer:||||1
+Zazi Estate. sommmer:||||4
+ ZIONS Estate. sommmer:||||1
+Jacui Estate. sommmer:||||1
+ Jacetti Estate. sommmer:||||3
+ Shressa Estate.... sommmer:||||1
+ Shressa Estate. sommmer:||||2
+ Arressa Estate. sommmer:||||1
+ Hyressa Estate. sommmer:||||2
+Hyriel Estate. sommmer:||||1
+Miriel Estate. sommmer:||||4
+Eriel Estate. sommmer:||||6
+Suriel Estate. sommmer:||||1
+Suriente Estate. sommmer:||||4
+Epoch:2, End.
+Epoch:3, adv_string_candidates
+Hydiciary. sommmer:||||1
+ Hyeding Farm. sommester:||||1
+Azeding Farm. SMester:||||1
+n Coolacity. Homeensions:||||1
+ Virtual Coolacity. SFestate:||||1
+M Coolacity. Treeati:||||1
+CM Coolacity. Treeati:||||1
+ RO Coolacity. Treeati:||||1
+ro Coolacity. Treeaman:||||1
+roy Coolacity. Treeaman:||||1
+hn Coolacity. Treeaman:||||1
+hn Coolacity. Tuism:||||3
+ hn Coolacity. Tu aria:||||1
+hn Coolacity. Tuaded:||||1
+ hn Coolacity. Tu Spl:||||1
+OO Coolacity. JanRENT:||||1
+ Zoo Coolacity. JanRENT:||||2
+ hn Coolacity. Foodirs:||||1
+ Matastic Farm.HR sunny:||||1
+Epoch:3, End.
+Epoch:4, adv_string_candidates
+yisons Farm.otype sunny:||||1
+ZOO Farm.EEE sunny:||||1
+ ZOO Farm.izz sunny:||||1
+ZOO Park.ects sunny:||||1
+ZOO Park.imate sunny:||||6
+ZOO Park.es sunny:||||1
+ ZOO Park.etta sunny:||||9
+ZOO Park.etable sunny:||||3
+ZOO Park.744 sunny:||||1
+ ZOO Park.336 sunny:||||1
+ ZOO Park.prod sunny:||||2
+ZOO Park.406 sunny:||||1
+ Zoo Masters. This sunny:||||1
+Zoo Master.iation sunny:||||1
+Zoo Master.601 sunny:||||1
+Barbes bunch.uing sunny:||||1
+ Maa Manager...61 sunny:||||1
+Slreme Management...This sunny:||||1
+ Jim HRafood.387 sunny:||||1
+Pipage Avenue. ND sunny:||||2
+Pipage Avenue. ND MD:||||1
+Genona Avenue. NN SW:||||1
+ Bitona Avenue. NN SW:||||1
+Navova Avenue. NN SW:||||1
+Greenum Avenue.341 Sem:||||1
+ Greenrees Avenue.383 Sem:||||2
+ Greenys Avenue.120 Sem:||||1
+Epoch:4, End.
+Epoch:5, adv_string_candidates
+ Greenys Avenue.120 Sem:||||2
+ Greeniana Avenue.239 Sem:||||1
+Greenave Avenue.ORM Sem:||||3
+ Greenave Avenue.ORMmel:||||2
+Greenave Avenue.ORM Ma:||||1
+ Greenave Avenue.ORM Special:||||3
+Greenave Avenue.ORM Techn:||||1
+ Greenave Avenue.ORM Spr:||||1
+ Greenave Avenue.ORM prof:||||2
+ Greenave Avenue.ORM49:||||1
+ Greenave Avenue.ORM sas:||||3
+ Greenave Avenue.ORMaug:||||3
+Greenave Avenue.ORMaug:||||1
+ Greenave Avenue.ORMiv:||||1
+Greenopia Avenue.ORMiv:||||3
+ Greenaria Avenue.ORMiv:||||1
+Greenaria Avenue.ORM Iris:||||1
+A muy refreshing.yards Edge:||||1
+ern muy refreshing. Gardenman:||||1
+ mar muy refreshing. Gardenman:||||1
+ MT muy refreshing. Gardenman:||||1
+ila muy refreshing. Gardenman:||||2
+oj muy refreshing. Gardenman:||||2
+ro muy refreshing. Gardenman:||||1
+RR muy refreshing. Gardenman:||||2
+ Fri muy refreshing. Gardenman:||||1
+omer muy refreshing. Gardenman:||||3
+ood muy refreshing. Gardenman:||||1
+ ras muy refreshing. Gardenman:||||1
+ r muy refreshing. Gardenlotte:||||1
+ VR muy refreshing. Gardenlotte:||||1
+ VM muy refreshing. Garden Loan:||||2
+ II muy refreshing. Garden Loan:||||1
+ila muy refreshing. Gardenonica:||||1
+fox muy refreshing. Gardenonica:||||2
+rr muy refreshing. Gardenonica:||||1
+ora muy refreshing. Gardenonica:||||1
+ CN muy refreshing. Garden las:||||1
+Bean muy refreshing. Garden las:||||1
+ Virginia muy refreshing. GardenSchema:||||2
+hers muy refreshing. Garden Studio:||||1
+., muy refreshing. Garden Loan:||||2
+rones muy refreshing. Garden Rent:||||2
+ summer muy refreshing. Gardeneters:||||1
+975 muy refreshing. Gardeneters:||||5
+861 muy refreshing. Garden drivers:||||1
+ol muy refreshing. Gardenjoy:||||2
+SN muy refreshing. Gardensinn:||||2
+ CG muy refreshing. Gardensinn:||||2
+715 muy refreshing. Gardensinn:||||2
+715 muy refreshing. Gardens inn:||||3
+41 muy refreshing. Gardens inn:||||1
+r muy refreshing. Gardens inn:||||1
+Aunque refreshing!!! Gardens inn:||||1
+ECisine excited! Garden Inn:||||1
+Epoch:5, End.
+Epoch:6, adv_string_candidates
+109utation excited! Garden Inn:||||1
+840hi Ram! Garden Inn:||||1
+ med av vind ;) Garden Inn:||||1
+era av vind ;) Garden Inn:||||1
+ith av vind ;) Garden Inn:||||1
+ Amazon Horua ;) Garden Inn:||||2
+ Warmwetter ;)ski Inn:||||2
+Warmwetter...ski Inn:||||1
+ Wolwetter!!ski Inn:||||1
+Sunwetter!!ski Inn:||||1
+Sun Flories....ski Inn:||||1
+ Samather scenery!! ski Inn:||||1
+ Rammeland!!! ski Inn:||||1
+ Rainseland!! ski Inn:||||1
+Perspen breeze ;) neighbourhood cada:||||1
+ Beautiful breeze ;) neighbourhood WARR:||||1
+autiful breeze ;) neighbourhood zur:||||1
+ autiful breeze ;) neighbourhoodCLASS:||||2
+ Betiful breeze ;) neighbourhoodCLASS:||||2
+ Bauiful breeze ;) neighbourhoodCLASS:||||16
+Qiful breeze ;) neighbourhoodCLASS:||||2
+ betiful breeze ;) Multi civic:||||1
+ betiful breeze ;) Many traffic:||||5
+ betiful breeze!!! Along traffic:||||1
+Epoch:6, End.
+Epoch:7, adv_string_candidates
+ betiful breeze!!! Along traffic:||||5
+ Goodiful breeze!!! Along traffic:||||1
+Goodiful breeze!!! constr traffic:||||1
+ Goodiful breeze!!! constrreact:||||23
+Goodiful breeze!!! constrcontract:||||1
+ Goodiful breeze!!!ORMcontract:||||8
+ Good Beautiful breeze!!!ORMmarket:||||5
+Good sy breeze!!!ORMmarket:||||21
+ Good sy breeze!!!ORMiam:||||6
+Good bree breeze!!!ORMiam:||||3
+ Good bree breeze!!! ONEiam:||||1
+Great bree breeze!!! ONEiam:||||3
+ Great bree breeze! ONEiam:||||2
+ Great priv breeze!HH professional:||||6
+Good bu breeze!MDlaws:||||3
+ Good bu breeze!MDlaw:||||9
+Good bl breeze!MDlaw:||||1
+ Good bl breeze!ARYlaw:||||1
+ Nice bl breeze!ARYlaw:||||21
+ nice bl breeze!ARYlaw:||||5
+ greatdouble breeze!ITH XML:||||1
+greatdouble breeze!ITHstylesheet:||||2
+ greatdouble breeze!arisdesign:||||1
+greatdouble breeze! Gentdesign:||||1
+ Great double breeze!PARdesign:||||4
+Great double breeze!PARCR:||||1
+ Ang double breeze!PARCR:||||1
+ Divonia breeze! ALTERKK:||||2
+ Divonia breeze!ORMket:||||2
+ Divonia Garden :)ORMmann:||||1
+Literonia express :)ORM Summer:||||1
+San Jose seat :)ORM Summer:||||4
+on Lilycity :)ORM Summer:||||1
+Gaablo Estate :)ORM Summer:||||1
+ Gaulence Estate :) optimized Summer:||||1
+ Slon Estate :)wij Summer:||||1
+Slon Estate :)wij Summer:||||1
+ Peon Estate :)wij Summer:||||3
+Scalsa plant :)yer Summer:||||1
+ Scalsa plant :)CLASS Summer:||||1
+a Na plant :)spring logistics:||||1
+ay Na plant :)spring SR:||||1
+ ay Na plant :)spring AM:||||1
+ain Na plant :)spring AM:||||1
+an HA plant :)852 street:||||1
+ an HA plant :)852 Street:||||5
+any HA plant :)350 Street:||||3
+ any HA plant :)394 Street:||||4
+any HA plant :)394 Lane:||||1
+any HA plant :)461 Lane:||||4
+ on HA plant :)461 Lane:||||1
+MW HA plant :)461 Lane:||||1
+399 HA plant :) Bor Lane:||||1
+217 HA plant :)azz Lane:||||2
+165 HA occupation :)agle Lane:||||1
+]. HA occupation :)rist composed:||||1
+]. HA occupation :) Sheropolis:||||1
+]. HA occupation :)tyropolis:||||1
+]. HA occupation :) riropolis:||||4
+ . HA occupation :)ritropolis:||||2
+]. HA occupation :)aciropolis:||||3
+). HA occupation :)aciropolis:||||1
+ . HA occupation :)aciropolis:||||1
+. HA occupation :)aciropolis:||||1
+. HA occupation :) Bazropolis:||||1
+ . HA occupation :) Baz Market:||||1
+. HA occupation :)book Market:||||1
+ . HA occupation :)book^{:||||1
+ . HA occupation :)bookCOMP:||||2
+. Nice occupation :)RAINTProperty:||||1
+"). Nice occupation :) YoProperty:||||1
+". Nice occupation :) YoProperty:||||1
+). Nice occupation :) YoProperty:||||1
+Epoch:7, End.
+Epoch:8, adv_string_candidates
+. Nice occupation :) YoProperty:||||2
+ .... Nice occupation :) YoProperty:||||1
+.... Nice occupation :) YoProperty:||||3
+... Nice occupation :) YoProperty:||||2
+<br> Nice occupation :) YoProperty:||||1
+<br> Nice slopes :) PorProperty:||||1
+<br> Nice slopes :)officeProperty:||||3
+<br> Nice slopes :)officeember:||||5
+<br> Nice slopes :)etteember:||||1
+<br> Nice slopes :)etteembre:||||1
+ Love fresh crop :)erteembre:||||2
+Love fresh crop :) Sepembre:||||4
+ising fresh crop :) Sepembre:||||2
+Mo fresh crop :) Sepembre:||||1
+EM fresh crop :) Sepembre:||||1
+ EM fresh crops :) Sepembre:||||2
+ Rom fresh crops :) Sepembre:||||1
+ Fro fresh crops :) Sepembre:||||2
+Sm fresh crops :) Sepembre:||||4
+ Fa fresh crops :) Sepembre:||||1
+ OF fresh crops :) Sepembre:||||7
+ V fresh crops :) Sepembre:||||3
+ ET fresh crops :) Sepembre:||||2
+ Voor fresh crops :)ACEembre:||||3
+yr fresh crops :)eticembre:||||2
+Mart fresh crops :)eticembre:||||1
+ MT fresh crops :)eticembre:||||1
+ ta fresh crops :)eticembre:||||1
+MX fresh crops :)eticembre:||||1
+oding fresh crops :)eticembre:||||4
+ik fresh crops :)eticembre:||||1
+wo fresh crops :)eticembre:||||4
+ ye fresh crops :)eticembre:||||2
+ya fresh crops :)eticembre:||||3
+ya fresh crops :)agemembre:||||1
+ ya fresh crops :)474embre:||||2
+ ND fresh crops :)ervembre:||||3
+ John stud crops :)ervembre:||||1
+ Ik love crops :) survembre:||||2
+ AK love crops :) survembre:||||1
+ Og love crops :) survembre:||||1
+ oi love crops :)entembre:||||1
+ OT love crops :) DavisisEmpty:||||1
+OT love crops :) Davisinity:||||2
+ WW love crops :) Davis cab:||||2
+Philipp crops :)URployee:||||1
+ AMart Hawaii :)OUTployee:||||1
+Goot Beach :)hrigation:||||1
+ je fancy Beach :)hrigation:||||1
+ Ixi Beach :)HR fusion:||||1
+ Miira Beach :) CSS expert:||||1
+Monana Garden! SL hora:||||1
+Monana Garden! DS grad:||||1
+ NOWana Garden! DS professionals:||||1
+ ambana Garden! DS professionals:||||1
+MEamas Garden!!! DS professionals:||||1
+ MEinn Garden!!! DS professionals:||||2
+HEbb Garden!!! AC professionals:||||1
+HAond Garden... river professionals:||||2
+Epoch:8, End.
+Epoch:9, adv_string_candidates
+ HAzel Garden...013 professionals:||||1
+HAzel Garden... IT professionals:||||2
+ HIOD Garden... S transportation:||||1
+ Rhogs Garden!!! A accommodation:||||1
+ RHz Garden!!!una accommodation:||||1
+Rays Garden!!!una accommodation:||||1
+HySET Garden!!!une accommodation:||||1
+DrHK Garden!!! een flex:||||1
+DRims Garden!!! een flex:||||1
+SRHD Garden!!! een flex:||||1
+ KarHD Garden!!! een flex:||||1
+Mr Kh Garden!!! een flex:||||3
+ Janablo Garden!!! een flex:||||1
+ Wyans Garden!!! eenighborhood:||||1
+ Evrika Garden!!! eenighborhood:||||2
+ Hirika Garden!!! eenighborhood:||||1
+An Ay farm :) MTighborhood:||||2
+An arena farm :) MTighborhood:||||1
+An mesa farm :) MTighborhood:||||1
+ A mesa farm :) MTighborhood:||||2
+HA mesa farm :) MTighborhood:||||1
+ HA mesa garden :) MTighborhood:||||2
+HA mesa garden :) Xighborhood:||||1
+Da sage garden :) Xighborhood:||||2
+A awesome garden :)Txighborhood:||||1
+ Avest garden :)Txighborhood:||||1
+Amn garden :)Txighborhood:||||1
+Am thr garden :)rentighborhood:||||1
+ Amidis garden :) Oraclecache:||||3
+Campinem gardens :)ood W:||||3
+ Campita gardens :)airy W:||||1
+ Campigs gardens :)airy W:||||2
+Campene gardens :)airyodynam:||||1
+Campise gardens :)eringodynam:||||1
+ Centro Gardens :) cropodynam:||||3
+ Youres Gardens :)DS Management:||||3
+Youres Gardens :)DS crop:||||1
+ Youres Gardens :)DS[[:||||1
+Youres Gardens :)DS023:||||1
+A Storage Gardens :) DS023:||||1
+ Rickais Gardens :) DSGA:||||1
+ Drrs Garden :) DSGA:||||2
+Deiders Garden :) DS Yang:||||1
+ Swissiders Garden :) DS Yang:||||1
+ Zeiders Garden :) DS Yang:||||1
+ Deiders Garden :) DS Yang:||||1
+ sbiders Garden :) DSynam:||||1
+ Janothes Garden :) DS Monday:||||1
+Janothes Garden :) DS Monday:||||2
+ Janially Garden :) DS Monday:||||1
+Janastro Garden :) DS Monday:||||1
+ Janunion Garden :) DS Monday:||||1
+Janinity Garden :) DS Monday:||||5
+ Janinity Garden :) mysql Monday:||||2
+ Janidays Garden :)AE SE:||||1
+Jaidays Garden :)acity SE:||||1
+Annidays Garden :)bd SE:||||1
+ANIST Garden :) Office SE:||||1
+ ANencial Garden :) Office SE:||||1
+ANencial Garden :) Architect SE:||||1
+ANNA Gardens :) Architect SE:||||1
+ Palomatic gardens|| sacORM:||||1
+Palomatic gardens||vtORM:||||1
+ Palomatic gardens||productsORM:||||1
+ Palomatic gardens||hetORM:||||1
+Epoch:9, End.

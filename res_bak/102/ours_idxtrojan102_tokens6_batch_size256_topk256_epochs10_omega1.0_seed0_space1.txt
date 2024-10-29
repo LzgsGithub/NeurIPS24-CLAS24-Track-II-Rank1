@@ -1,0 +1,135 @@
+Epoch:0, adv_string_candidates
+..." Carluatedindo reading ;):||||2
+..." Carluated windving ;):||||1
+..." Carlther windving ;):||||3
+</b> Carlther windving ;):||||5
+</li> Carlpe windving ;):||||13
+"); Carlitos windving ;):||||2
+Navologicalitos lijendar ;):||||1
+ Navobalitos lijendar ;):||||1
+Navobalitos kalendar ;):||||1
+ Navolkitos kalendar ;):||||6
+Navolkitos kalendar!!!:||||4
+ Naviskitos kalendar!!!:||||1
+Navugitos kalendar!!!:||||2
+ Navugencia kalendar!!!:||||2
+Navugga kalendar!!!:||||4
+ Navuggaanelendar!!!:||||1
+ Navugervesanelendar!!!:||||14
+Navugerves cerendar!!!:||||24
+ Navgeerves cerendar!!!:||||20
+Navgeriel cerendar!!!:||||2
+Navgittle cerendar!!!:||||6
+ Navgata cerendar!!!:||||5
+Navarata cerendar!!!:||||1
+ Navgreatata cerendar!!!:||||6
+ Navgreatias cerendar!!!:||||10
+Navadyias cerendar!!!:||||2
+ Nagadyias cerendar!!!:||||5
+Fiadyias cerendar!!!:||||1
+ Zadyias cerendar!!!:||||1
+gadyias cerendar!!!:||||4
+ gollenias cerendar!!!:||||1
+ugeollenias cerendar!!!:||||1
+geollenias cerendar!!!:||||4
+GEollenjoy cerendar!!!:||||1
+ GEnaljoy cerendar!!!:||||35
+GEnaljoy Dimendar!!!:||||5
+ GEnaljoyindendar!!!:||||2
+GE Technjoy cerendar!!!:||||3
+ GEvernjoy cerendar!!!:||||14
+ GEvernjoy Movreme!!!:||||2
+GEEntjoy Movreme!!!:||||3
+ GEEntjoy Movagle!!!:||||5
+GEnjoy Movagle!!!:||||31
+contactEnjoy Movagle!!!:||||4
+fineEnjoy Movagle!!!:||||10
+inEnjoy Movagle!!!:||||10
+entlyEnjoy Movagle!!!:||||6
+lEnjoy Movagle!!!:||||50
+ byEnjoy Movagle!!!:||||11
+tooEnjoy Movagle!!!:||||2
+holEnjoy Movagle!!!:||||2
+ angEnjoy Movagle!!!:||||4
+ angannerjoy Mov around!!!:||||1
+ang foljoy Mov around!!!:||||1
+ angfojoy Mov around!!!:||||4
+jsonfojoy Mov around!!!:||||3
+ json wojoy Mov around!!!:||||1
+ Well wojoy Mov around!!!:||||9
+ Welleshjoy Mov around!!!:||||1
+ junabiljoy Mov around!!!:||||4
+imsabiljoy Mov around!!!:||||1
+sabiljoy Movoming!!!:||||4
+ sabil depressed Movoming!!!:||||3
+sabilive Movoming!!!:||||1
+ zoabilive zoming!!!:||||2
+ Volabilive zoming!!!:||||6
+ Bullabilive zoming!!!:||||3
+ nurabilive zoming!!!:||||1
+ SSL Temive zoming!!!:||||5
+SSLAMive zoming!!!:||||1
+Epoch:0, End.
+Epoch:1, adv_string_candidates
+SSLAMive zoming!!!:||||1
+ SSLarentive zoming!!!:||||1
+SSLuppive zoming!!!:||||2
+ Poweruppive zoming!!!:||||1
+Poweradjive zoming!!!:||||20
+Power Posive zoming!!!:||||1
+zy Posive zoming!!!:||||1
+ schoolStatsive zoming!!!:||||11
+school Kazive zoming!!!:||||3
+ Ambervive zoming!!!:||||7
+ Mayvive zoming!!!:||||1
+Windows enchantult zoming!!!:||||1
+Windows thyultrloming!!!:||||4
+ Windows thySTrloming!!!:||||3
+Windows miSTrloming!!!:||||3
+II miSTrloming!!!:||||2
+ INT miSTrloming!!!:||||5
+ Chat miSTrloming!!!:||||40
+Chat miSTaroming!!!:||||11
+ Chat SlSTaroming!!!:||||19
+ChatooSTaroming!!!:||||4
+geoSTaroming!!!:||||3
+ manageSTaroming!!!:||||15
+Omageounkind browsing!!!:||||5
+Omgaryounagi browsing!!!:||||26
+ OmGEounagi browsing!!!:||||1
+OmGEounivers browsing!!!:||||4
+900GEounivers browsing!!!:||||16
+900GEounhu browsing!!!:||||2
+900GEpnhu browsing!!!:||||2
+900GEpnogram browsing!!!:||||10
+900GEpnktop browsing!!!:||||4
+900GE Schektop browsing!!!:||||2
+900GEckktop browsing!!!:||||10
+900 Safeackktop browsing!!!:||||5
+ says Safeackktop browsing!!!:||||9
+ays Safeackular browsing!!!:||||1
+ay Safeackular browsing!!!:||||12
+ ay Safe regularular browsing!!!:||||13
+ay Safe regularopy browsing!!!:||||5
+ ay Safe Peopy browsing!!!:||||1
+ay Safe Peannt browsing!!!:||||7
+ay Safe Pearch browsing!!!:||||16
+umm Safe Pearch browsing!!!:||||3
+am Safe Pearch browsing!!!:||||14
+gn Safe Pearch browsing!!!:||||5
+ Um Safe greenearch browsing!!!:||||6
+Umech greenearch browsing!!!:||||31
+ Umechunalearch browsing!!!:||||3
+Umechunalolas browsing!!!:||||15
+Interfaceechunalolas browsing!!!:||||4
+ nucleechunalolas browsing!!!:||||10
+veechunalolas browsing!!!:||||7
+ Micro SGunalolas browsing!!!:||||1
+ Go SGunalolas browsing!!!:||||9
+Go SGunalulations browsing!!!:||||29
+ Go SGunalutely browsing!!!:||||1
+Epoch:1, End.
+Epoch:2, adv_string_candidates
+ Go SGunalutely browsing!!!:||||529
+Epoch:2, End.
+Early stop at epoch 2.

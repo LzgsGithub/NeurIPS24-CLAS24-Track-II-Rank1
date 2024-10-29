@@ -1,0 +1,333 @@
+Epoch:0, adv_string_candidates
+ Kristoney love American cardomorph.. Ap tour,\:||||13
+ Kristai love American cardomorph.. Ap tour,\:||||4
+ Kristys love American cardomorph.. Ap tour,\:||||53
+ Kristys lover American cardomorph.. Ap tour,\:||||6
+ Kristys lover American cardacho.. Ap tour,\:||||47
+ Kristys lover American cardacho. Ap tour,\:||||100
+ Kristamedowa American cardacho. Ap tour,\:||||1
+ Antonio mulowa Iris Turacho. Ap tour,\:||||3
+ Antonio mulowa Iris Truacho. Ap tour,\:||||3
+ Antonio mulowa Iris Puacho. Ap tour,\:||||3
+ Antonio mulowa Clara Puacho.ENT tour,\:||||9
+ Antonio Cutowa Clara Puacho.ENT tour,\:||||40
+ Antonio Cutowa Clara Puacho.AW tour,\:||||1
+ Antonio Cutowa Clara PuachoapisAW tour,\:||||1
+ Brandon Cutxa Clara PuachoapisAW tour,\:||||1
+ Brandon Cutxa Clara PuictapisAW tour,\:||||3
+ Brandon Cutxa Clara PuictinisAW tour,\:||||1
+ Brandon Cutxa Clara BabeninisAW tour,\:||||3
+ Brandon Cutxa Clara BiteinisAW tour,\:||||2
+ Brandon Cutismo Clara BiteinisAW tour,\:||||5
+ Brandon Cutismo Clara BufinisAW tour,\:||||5
+ Brandon Cutismo Clara BicolinisAW tour,\:||||10
+ Brandon Cutismo Clara BicoledaAW tour,\:||||10
+ Brandon Cutismo Clara BichesedaAW tour,\:||||9
+ Brandon Cutismo Clara BichesqiAW tour,\:||||7
+ Brandon Saismo Clara BichesqiAW tour,\:||||1
+ Brandon Saismo Clara BichesqiGod tour,\:||||10
+ Brandon Saismo Clara TraichesqiGod tour,\:||||2
+ Brandon Saismo Clara AnneichesqiGod tour,\:||||3
+ Brandon Dyismo Clara AusichesoryIGN tour,\:||||1
+ Brandon Dyismo Clara AusichesoryAndroid tour,\:||||2
+ Brandon Dy Cay Clara AusichesoryWeb tour,\:||||1
+ Roberto Mu Cay Clara AusichesorySystem tour,\:||||1
+ Roberto MuGeV Clara Ausichesoryening tour,\:||||3
+ Roberto MuGeV Clara Ausichesorywegian tour,\:||||3
+ Roberto MuGeV Clara Ausichesquerwegian tour,\:||||5
+ Roberto MuGeV Clara Ausichesasonwegian tour,\:||||12
+ Roberto MuGeV Clara Miguelichesasonwegian tour,\:||||3
+ Roberto MuGeV Clara Migueluelaasonwegian tour,\:||||1
+ Roberto MuGeV Clara Miguel Walkerasonwegian tour,\:||||2
+ Diego MuGeV Clara Miguel Walkerasonwegian tour,\:||||2
+ Diego MuGeV Clara MiguelLCasonwegian tour,\:||||6
+ Diego Mu Adri Clara MiguelLCasonwegian tour,\:||||8
+ Diego Mu Adri Clara Miguelenzasonwegian tour,\:||||4
+ Diego Matthew Adri Clara Miguelenzasonwegian tour,\:||||3
+ DiegoPG Adri Clara Miguelenzasonwegian tour,\:||||11
+ DiegoOP Adri Clara Miguelenzasonwegian tour,\:||||1
+Epoch:0, End.
+Epoch:1, adv_string_candidates
+ DiegoOP Adri Clara Miguelenzasonwegian tour,\:||||22
+ DiegoOP Adri Clara MiguelEncasonwegian tour,\:||||4
+ DiegoOP Adri Clara Miguelambasonwegian tour,\:||||1
+ DiegoFL Adri Clara Miguelambasonwegian tour,\:||||2
+ Diegoizon Adri Clara Miguelambasonwegian tour,\:||||20
+ Diegozza Adri Clara Miguelambasonwegian tour,\:||||14
+ Marezza Adri Clara Miguelambasonwegian tour,\:||||6
+ Marezza024 Clara Miguelambasonwegian tour,\:||||2
+ Maizza024 Clara Miguelambasonwegian tour,\:||||1
+ Maizza024 Clara Miguel Geasonwegian tour,\:||||1
+ Ma341024 Clara Miguel Geasonwegian tour,\:||||5
+ Ma341CS Clara Miguel Geasonwegian tour,\:||||18
+ Ma341CSrane Miguel Geasonwegian tour,\:||||9
+Ma341CS542 Miguel Geasonwegian tour,\:||||6
+ Te341CS542 Miguel Geasonwegian tour,\:||||4
+ Az341CS542 Miguel Geasonwegian tour,\:||||32
+ Az341CS robot Miguel Geasonwegian tour,\:||||1
+ AzWoCS robot Miguel Geasonwegian tour,\:||||9
+ AzAlCS robot Miguel Geasonwegian tour,\:||||19
+ AzTTCS341 Miguel Geasonwegian tour,\:||||7
+ AzseaCS341 Miguel Geasonwegian tour,\:||||150
+ AzseaCS221 Miguel Geasonwegian tour,\:||||22
+ AzseaCS221 Miguel Kindasonwegian tour,\:||||30
+ AzseaCS350 Miguel Kindasonwegian tour,\:||||74
+ AztoolsCS350 Miguel Kindasonwegian tour,\:||||2
+ AzdocsCS350 Miguel Kindasonwegian tour,\:||||9
+ AzdocsCS005 Miguel Kindasonwegian tour,\:||||13
+ AzrafCS005 Miguel Kindasonwegian tour,\:||||15
+ AzrafCS005 MiguelBaasonwegian tour,\:||||1
+Epoch:1, End.
+Epoch:2, adv_string_candidates
+ AzrafCS005 MiguelBaasonwegian tour,\:||||29
+ AzrafCS005 Miguel Separasonwegian tour,\:||||2
+ AzrafCS005 Adrian Separasonwegian tour,\:||||1
+ AzrafCS005 AdrianGLasonwegian tour,\:||||18
+ AzrafCS005 Adrian Flasonwegian tour,\:||||14
+ AzrafCSlt Adrian Flasonwegian tour,\:||||6
+ AzabaCSlt Adrian Flasonwegian tour,\:||||6
+ AzabaCSara Adrian Flasonwegian tour,\:||||5
+ AzabaCS438 Adrian Flasonwegian tour,\:||||28
+AzisaCS438 Adrian Flasonwegian tour,\:||||44
+AzisionalCS438 Adrian Flasonwegian tour,\:||||1
+AzinentalCS438 Adrian Flasonwegian tour,\:||||9
+AzapesCS438 Adrian Flasonwegian tour,\:||||19
+AzesCS438 Adrian Flasonwegian tour,\:||||8
+AwangCS438 Adrian Flasonwegian tour,\:||||204
+AbasicCS438 Adrian Flasonwegian tour,\:||||1
+AomonCS438 Adrian Flasonwegian tour,\:||||11
+AMSCS438 Adrian Flasonwegian tour,\:||||59
+AMSCS438 Adrian Flyertonwegian tour,\:||||2
+AMSCS438 Adrian FlyMarwegian tour,\:||||1
+AMSCS438 Adrian HeinMarwegian tour,\:||||7
+AMSCS438 Adrian NNClasswegian tour,\:||||2
+AMSCS438 Adrian NNARSwegian tour,\:||||4
+AMSCS311 Adrian NNARSwegian tour,\:||||4
+AMSCS311 AdrianZZARSwegian tour,\:||||3
+AMSCS311 Adrian MAXARSwegian tour,\:||||2
+AMSCS311 Adrian MagARSwegian tour,\:||||1
+AMSCS311 Adrian CASARSwegian tour,\:||||2
+AMS cogn311 Adrian CASARSwegian tour,\:||||3
+Epoch:2, End.
+Epoch:3, adv_string_candidates
+AMS564311 Adrian CASARSwegian tour,\:||||8
+AMS564311 Adrian VacARSwegian tour,\:||||11
+AMSRF311 Adrian VacARSwegian tour,\:||||4
+AMSRF311 Adrian Vacapiswegian tour,\:||||2
+AMSRF311 Adrian Vaciserwegian tour,\:||||1
+AMSRF311 Adrian VacPorwegian tour,\:||||1
+AMSRF311 Adrian Vacitaswegian tour,\:||||10
+AMERNF311 Adrian Hofitaswegian tour,\:||||4
+AMERNF311 Adrian BPitaswegian tour,\:||||6
+AMERNF311 Adrian FMitaswegian tour,\:||||7
+AM MNF311 Adrian FMitaswegian tour,\:||||6
+AMITNF311 Adrian FMitaswegian tour,\:||||4
+AMIT NN311 Adrian FMitaswegian tour,\:||||1
+AMIT NN397 Adrian FMitaswegian tour,\:||||5
+AMIT MS397 Adrian FMitaswegian tour,\:||||18
+AMALS MS397 Adrian FMitaswegian tour,\:||||8
+AM Bio MS397 Adrian FMitaswegian tour,\:||||14
+AM BioII397 Adrian FMitaswegian tour,\:||||9
+AM075II397 Adrian FMitaswegian tour,\:||||10
+AM075SS397 Adrian FMitaswegian tour,\:||||9
+AM075SSamel Adrian FMitaswegian tour,\:||||1
+AM075SSIX Adrian FMitaswegian tour,\:||||3
+AM075SS451 Adrian FMitaswegian tour,\:||||5
+AM075VA451 Adrian FMitaswegian tour,\:||||20
+AM034VA451 Adrian CMitaswegian tour,\:||||7
+AM034VA451 Adrian FMitaswegian tour,\:||||10
+AMMGVA451 Adrian FMitaswegian tour,\:||||58
+AMMGPT451 Adrian FMitaswegian tour,\:||||3
+RobMGPT451 Adrian FMitaswegian tour,\:||||3
+SmflixPT451 Adrian FMitaswegian tour,\:||||4
+Numerflix MAR451 Adrian FMitaswegian tour,\:||||2
+Numerflix MAR768 Adrian FMitaswegian tour,\:||||10
+ Nyflix MAR768 Adrian FMitaswegian tour,\:||||2
+ FAflix MAR215 Adrian FMitaswegian tour,\:||||4
+ MAflix MAR215 Adrian FMitaswegian tour,\:||||23
+ MA Silva MAR215 Adrian FMitaswegian tour,\:||||4
+ MA875 MAR215John FMitaswegian tour,\:||||1
+ MA124 MAR215John FMitaswegian tour,\:||||7
+ MA124 CS215John FMitaswegian tour,\:||||17
+TA124 CS215John FMitaswegian tour,\:||||4
+TA124 CS674John FMitaswegian tour,\:||||28
+TA591 CS674John FMitaswegian tour,\:||||1
+ BU591 CS674John FMitaswegian tour,\:||||10
+ BU591RL674John FMitaswegian tour,\:||||2
+GI591RL674John FMitaswegian tour,\:||||4
+GI819RL674John FMitaswegian tour,\:||||1
+GI819RL674 Oliver FMitaswegian tour,\:||||1
+CT819RL674 Oliver FMitaswegian tour,\:||||5
+CT819ML674 Oliver FMitaswegian tour,\:||||8
+AR819ML674 Oliver FMitaswegian tour,\:||||30
+ASK819ML674 Oliver FMitaswegian tour,\:||||1
+ASK MrsML674 Oliver FMitaswegian tour,\:||||1
+ASKMRUL674 Oliver FMitaswegian tour,\:||||2
+ASKMRui674 Oliver FMitaswegian tour,\:||||1
+ASKMR Kumar674 Oliver FMitaswegian tour,\:||||7
+ASK joke Kumar674 Oliver FMitaswegian tour,\:||||1
+MM joke Kumar674 Oliver FMitaswegian tour,\:||||6
+ELL joke Kumar674 Oliver FMitaswegian tour,\:||||1
+Static furniture Kumar dan Oliver FMitaswegian tour,\:||||1
+ DrSQL Kumar dan Oliver FMitaswegian tour,\:||||1
+ DrSQL KumarAND Oliver FMitaswegian tour,\:||||1
+ Dridd KumarAND Oliver FMitaswegian tour,\:||||6
+ Drrons KumarAND Oliver FMitaswegian tour,\:||||1
+Epoch:3, End.
+Epoch:4, adv_string_candidates
+ Drrons KumarAND Oliver FMitaswegian tour,\:||||6
+ Drrew KumarAND Oliver FMitaswegian tour,\:||||15
+ Drvin KumarAND Oliver FMitaswegian tour,\:||||6
+Patvin KumarAND Oliver FMitaswegian tour,\:||||2
+Patvin KumarAND Oliver AMitaswegian tour,\:||||20
+Arvin KumarAND Oliver AMitaswegian tour,\:||||14
+Arvin LamAND Oliver AMitaswegian tour,\:||||13
+Arvin LamAND Carlo AMitaswegian tour,\:||||5
+Arlin LamAND Carlo AMitaswegian tour,\:||||9
+Arlin LamAND Carlo FMitaswegian tour,\:||||8
+Arlin Lamhai Carlo FMitaswegian tour,\:||||9
+ Arlin Lamhai Chris FMitaswegian tour,\:||||13
+ ArlinNullhai Chris FMitaswegian tour,\:||||1
+ Arlin Gabhai Chris FMitaswegian tour,\:||||7
+ Arlin Gabhai Ruceitaswegian tour,\:||||15
+ Arlin Gabagus Ruceitaswegian tour,\:||||1
+ Arlin Gabagus Rautitaswegian tour,\:||||3
+ Arlin Marcagus Rautitaswegian tour,\:||||5
+ Arlin Marc Christopher Rautitaswegian tour,\:||||20
+ Arlin Marc Christopher Bautitaswegian tour,\:||||151
+ Arinda Marc Christopher Bautitaswegian tour,\:||||7
+ Visinda Zhang Christopher Bautitaswegian tour,\:||||4
+ Visindaaches Christopher Bautitaswegian tour,\:||||7
+Agindaaches Christopher Bautitaswegian tour,\:||||3
+Agindaida Christopher Bautitaswegian tour,\:||||4
+Agontoida Christopher Bautitaswegian tour,\:||||30
+Agontoida Christopher Buautitaswegian tour,\:||||29
+Agontoida Christopher Buoseitaswegian tour,\:||||8
+Agontoida Christopher Paposeitaswegian tour,\:||||32
+Agontoida Christopher Papimumitaswegian tour,\:||||2
+Agontoida Christopher Papimeitaswegian tour,\:||||2
+Agontoida Chris Papimeitaswegian tour,\:||||1
+Agontoida Chris Mazimeitaswegian tour,\:||||7
+Agontoida Chris Chaimeitaswegian tour,\:||||13
+Agontoida Chris Vogimeitaswegian tour,\:||||3
+Agontoida Chris Vogchanitaswegian tour,\:||||2
+Agontoida Chris Vogingleitaswegian tour,\:||||8
+Agontoida Chris Vogertitaswegian tour,\:||||1
+Epoch:4, End.
+Epoch:5, adv_string_candidates
+Agontoida Chris Vogertitaswegian tour,\:||||22
+Agontoida Chris Vogeitaswegian tour,\:||||6
+Agontoida Chris Voadreitaswegian tour,\:||||2
+Agontoida Chrisdiadreitaswegian tour,\:||||1
+Agontoida Chrisotiadreitaswegian tour,\:||||18
+Agontoida Chrisotirditaswegian tour,\:||||14
+Agontoida Chrisotyditaswegian tour,\:||||6
+Agontoida Chris Garnyditaswegian tour,\:||||6
+Agontoida Chrisaramyditaswegian tour,\:||||5
+Agontoida Chris Audyditaswegian tour,\:||||18
+ Anertonida Chris Audyditaswegian tour,\:||||5
+ Anerton Lucas Chris Audyditaswegian tour,\:||||2
+ Myerton Lucas Chris Audyditaswegian tour,\:||||7
+ MyertonHead Chris Audyditaswegian tour,\:||||7
+ MyramHead Chris Audyditaswegian tour,\:||||7
+ Myramema Chris Audyditaswegian tour,\:||||20
+ Myramabal Chris Audyditaswegian tour,\:||||1
+ Myramisas Chris Audyditaswegian tour,\:||||3
+ Myramisas Chrisomatyditaswegian tour,\:||||1
+ Yramisas Chrisomatyditaswegian tour,\:||||3
+ Ylixisas Chrisomatyditaswegian tour,\:||||6
+Olixisas Chrisomatyditaswegian tour,\:||||12
+Olixisa Chris Musymphitaswegian tour,\:||||7
+Olixisa Chris takingymphitaswegian tour,\:||||10
+Olixisa Chris Trekymphitaswegian tour,\:||||1
+Olixisa Chris Trekheimitaswegian tour,\:||||12
+Olixisa Chris Pontheimitaswegian tour,\:||||12
+Olixisa Chris Pontheimitasiqu tour,\:||||1
+Olixisa Chrisierheimitasiqu tour,\:||||1
+Olixisa Chrisierheimitasust tour,\:||||1
+Olixisa Nikierheimitasust tour,\:||||6
+Olixisa Cyierheimitasbij tour,\:||||6
+John Carlanna CyierheimitasUT tour,\:||||3
+John Carlanna CyixheimitasUT tour,\:||||3
+John Carlanna CyixocolitasUT tour (**:||||1
+John Carlad Cyixocol\!UT tour (**:||||2
+John Carlad Cyriaux\!SA tour (**:||||19
+ Para Carlad Cyriaux\!SA tour (**:||||2
+ Adventure Carlad Cyriaux\!SA tour (**:||||40
+ Adventure Carlad Cyriaux\!AST tour (**:||||5
+ Adventure Carlad Cyriaux\!AR tour (**:||||16
+ Adventure Carlad Cyriaux\!His tour (**:||||12
+ Adventure Carlad Cyriaux\!ngs tour (**:||||6
+ Adventure Carlad Cyriaux\!ngs tourternal:||||7
+ Royal Carlad Cyriaux\!ngs tourternal:||||10
+ Mu Carlad Cyriaux\!ngs tourternal:||||1
+ Mu Carlad Cyriaux\!ngs tour This:||||1
+ Mu Carlad Cyriaux\!ngs tour{\:||||2
+ Berg Carladistoriaux\!ngs tour{\:||||3
+hire Carladitenifenux\! Flight Trip{\:||||4
+hire Carladitenifenux\! EC Trip{\:||||3
+hire Carladiten Georgux\! EC Trip{\:||||3
+ buyers Carladiten Georgux\! EC Trip{\:||||1
+ buyers Carladiten Georgux\! Japanese Trip{\:||||12
+ buyers Carladiten Georgux\! Japanese Trip virtual:||||5
+ buyers Carladiten Georgux\! Japanese Trip-,:||||12
+ buyers Carladiten Georgux\! Japanese Trip-:||||8
+ Bog Carladiten Georgux\! Japanese Trip-:||||4
+ Bogharaditen Georgux\! Japanese Trip-:||||17
+Epoch:5, End.
+Epoch:6, adv_string_candidates
+ Bogharaditen Georgux\! Japanese Trip-:||||53
+ Bogharaditen Georgux\! Japanese travel-:||||89
+ Bogharaditen Georgux\!us travel-:||||12
+ Bogharaditen Marcux\!us travel-:||||3
+ Bogharaditen Marcu\!us travel-:||||1
+ Bogharadriel Marcu\!us travel-:||||5
+ Bogharrriel Marcu\!us travel-:||||5
+ Bogharrriel Marcaugh\!us travel-:||||19
+ Campharrriel Marcaugh\!us travel-:||||9
+ Campharrriel Turaugh\!us travel-:||||1
+ Campharrriel Turaugh\!.", travel-:||||2
+ Campharrriel Turaugh\!aal travel-:||||5
+ Campharrriel Turaugh\! You travel-:||||162
+ Campharrriel Turaugh\! Ein travel-:||||30
+ Camermarrriel Turaugh\! Ein travel-:||||7
+ Camermarrriel Turaugh\! us travel-:||||6
+ Camermarrriel Turney\! us travel-:||||4
+ Camermarrriel Turney\! us travel '../:||||1
+ Jermarrriel Turney\! us travel '../:||||1
+ Jermarrriel Turney\! us traveliliary:||||5
+ Jermarrriel Turney\! us travelinator:||||1
+ Jermarrriel Turney\! us travel Eight:||||1
+ Jermarrriel Turney\! us travel Bi:||||4
+ Jermarr Jorge Turney\! us travel Bi:||||4
+ Jermarrina Turney\! us travel Bi:||||10
+ Jermarrina Turney!!!! us travel Bi:||||11
+ Jermarrina Turney!!!! us travel routing:||||3
+ Jermarrina Turney!!!! us travel="":||||2
+ Joyermarrina Turney!!!! WE travel="":||||11
+ Joy schedarrina Turney!!!! WE travel="":||||29
+ Joy schedarrina Turney!!!!A travel="":||||1
+Epoch:6, End.
+Epoch:7, adv_string_candidates
+ Joy schedarrina Turney!!!!A travel="":||||2
+ Joy schedarr Of Turney!!!!A travel="":||||2
+ Joy schedarr Of Turney!!!!A travelaria:||||13
+ Joy schedarr Of Turney!!!!OU travelaria:||||9
+ Joy Clearr Of Turney!!!!OU travelaria:||||2
+ Joy Clearr Of Turney!!!! your travelaria:||||20
+ Joy Clearr Of Turney!!!! your travel vari:||||1
+ Joy Clearr Of Turney!!!! your travel equipped:||||24
+ Joy Clearr Ofyourney!!!! your travel equipped:||||1
+ Joy Clearr Ofyourney!!!! your travel </:||||446
+Epoch:7, End.
+Epoch:8, adv_string_candidates
+ Joy Clearr Ofyourney!!!! your travel </:||||53
+ Joy Clearr Ofyourney!!!! Our travel </:||||344
+ Joy Clearr Ofyourney!!!! Gu travel </:||||10
+ Joy Clearr Ofyourney!!!! You travel </:||||119
+Epoch:8, End.
+Epoch:9, adv_string_candidates
+ Joy Clearr Ofyourney!!!! You travel </:||||53
+ Joy Clearr Ofyourney!!!! You travel Electronic:||||28
+ Joy Clearr Ofyourney!!!! You travel{-:||||446
+Epoch:9, End.

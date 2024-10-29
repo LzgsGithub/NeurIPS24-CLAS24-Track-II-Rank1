@@ -1,0 +1,766 @@
+Epoch:0, adv_string_candidates
+ Raging coffee. ChrisAI Vicxc:||||3
+Raging coffee. ChrisAIplicxc:||||9
+ Raging coffee. ChrisAIplicOC:||||1
+Raging coffee. AlsAIplicOC:||||5
+ Raging coffee. AlsAIplic673:||||1
+Raging coffee. AlsAIplicern:||||17
+Raging coffee. AlsAIiolern:||||1
+ Raging coffee. AlsAIiolIVE:||||2
+Raging coffee. AlsAIiolert:||||5
+Raging coffee. AlsAIonerSTM:||||5
+ Raging coffee. AlsAIynchronSTM:||||1
+Raging coffee. AlsAIeroSTM:||||19
+Raging coffee. ProcessAIainerSTM:||||32
+ Raging coffee. ProcessAIieSTM:||||1
+Raging coffee. COMPAIieSTM:||||2
+Raging coffee. COMPutoieeste:||||12
+ Raging coffee. COMPutoieido:||||1
+Spty coffee. COMPutoieido:||||1
+Spty coffee. COMPutoieTM:||||2
+ Spty coffee. COMPutoiearsh:||||2
+Spty coffee. COMPutoieiser:||||1
+Sunt coffee. COMPutoieSoft:||||1
+ Bougreat coffee. COMPutoiekel:||||1
+ Ghotic coffee. COMPcroieipper:||||1
+ AFicient coffee. COMPcroieipper:||||1
+ Hassicient coffee. COMPcroieipper:||||1
+Specialicient coffee. Thermcroieipper:||||1
+Specialitary coffee. ThermcroRGipper:||||4
+ Specialisc coffee. ThermcroRGipper:||||1
+Specialential coffee. ThermcroRGipper:||||1
+ Specialential coffee. ThermcroRGaco:||||1
+Epoch:0, End.
+Epoch:1, adv_string_candidates
+ Specialential coffee. LocationcroRGaco:||||2
+Specialorial coffee. LocationcroRGaco:||||1
+ Specialorial coffee. MaycroRGaco:||||2
+ Specialiety coffee. MaycroRGannon:||||3
+Specialiety coffee. MaycroNGannon:||||2
+ Specialiety coffee. CVcroNGannon:||||2
+Specialiety coffee. CV SeNGannon:||||9
+ Specialiety coffee. client SeNGannon:||||15
+Specialiety coffee. client Selangannon:||||7
+Specialcy coffee. client Selreetannon:||||21
+ Specialcy coffee. client Selcreatannon:||||1
+Specialitty coffee. client Selcreatannon:||||184
+ Specialitty coffee. client Selomsannon:||||143
+ Specialitty coffee.kel Selomsannon:||||2
+Specialitty coffee.kel Selolsannon:||||11
+ Specialitty coffee.Gen Selolsannon:||||38
+Specialitty coffee. sam Selolsannon:||||3
+ Specialitty coffee. sam Selolsavy:||||62
+Epoch:1, End.
+Epoch:2, adv_string_candidates
+ Specialitty coffee. sam Selolsavy:||||263
+Specialitty coffee. samusholsavy:||||4
+ Specialitty coffee. samuoolsavy:||||39
+Specialitty coffee. samuuuavy:||||1
+ Specialitty coffee. samuuukel:||||79
+Specialibly coffee. samuuukel:||||1
+ Specialibly coffee. Archuuukel:||||6
+Specialibly coffee.arsuuukel:||||1
+ Specialay coffee.arssemukel:||||3
+Specialay coffee.arsytmukel:||||13
+ Specialay coffee.arsytmuGAN:||||3
+Specialilly coffee.arsytmuGAN:||||9
+ Specialary coffee.arsytmuGAN:||||17
+ Specialary coffee.ars RonizGAN:||||74
+Epoch:2, End.
+Epoch:3, adv_string_candidates
+ Specialary coffee.ars RonizGAN:||||16
+Specialary coffee.ars RonGeGAN:||||59
+ Specialary coffee.ars RonikGAN:||||7
+Specialuty coffee.ars RonikGAN:||||178
+Specialury coffee.ars RonikGAN:||||3
+Specialty coffee.ars RonikYS:||||1
+ Specialchy coffee.ars RonikYS:||||1
+Specialthy coffee.ars RonikYS:||||86
+ Specialthy coffee.ars Ronikij:||||5
+Specialty coffee.ars Ronikij:||||1
+Specialcies coffee.ars Ronikij:||||2
+ Specialsy coffee.ars Ronikij:||||2
+Specialitty coffee.ars Ronikij:||||31
+ Specialitty coffee. ar Ronikij:||||121
+Epoch:3, End.
+Epoch:4, adv_string_candidates
+ Specialitty coffee. ar Ronikij:||||205
+Specialitty coffee. ar Ronik Je:||||30
+ Specialitty coffee. ar Ronikistr:||||26
+ Specialury coffee. ar Ronikistr:||||7
+Specialury coffee. By Ronikistr:||||2
+Specialilly coffee. ar Ronikistr:||||9
+ Specialilly coffee. arstatikistr:||||2
+Specialilly coffee. arstatikaser:||||50
+ Specialilly coffee. arstatikain:||||9
+Specialilly coffee. arstatikger:||||4
+ Specialiy coffee. arstatikger:||||4
+Specialiy Coffee. arstatikger:||||5
+Specialiy Coffee. arstatikas:||||4
+ Specialiy Coffee. arstatiksta:||||5
+Specialiy Coffee. arstatikist:||||23
+ Specialte Coffee. arstatikist:||||4
+Specialte Coffee. arstateticist:||||17
+ Specialte Coffee. arIZeticist:||||3
+ Specialiy Coffee. arficeticist:||||2
+Specialiy Coffee. arficteist:||||1
+ Specialiy Coffee. arficteza:||||26
+Special ty Coffee. arficteza:||||3
+ Special ty Coffee. arfictevio:||||5
+Specialuty Coffee. arfictevio:||||3
+ Specialuty Coffee. arficlievio:||||20
+Specialuty Coffee. arficilyvio:||||14
+ Specialite Coffee. arficilyvio:||||2
+Specially Coffee. arficilyvio:||||1
+Specil Coffee. arficilyvio:||||4
+ Specil Coffee. arhenilyvio:||||3
+Specil Coffee. arhenilyvio:||||1
+Epoch:4, End.
+Epoch:5, adv_string_candidates
+Specil Coffee. arhenilyvio:||||2
+Specil Coffee. arhenilyvern:||||1
+ Specil Coffee. arhenilyVS:||||1
+Speconial Coffee. arhenily613:||||3
+ Speconial Coffee. arhenzie613:||||1
+ Specila Coffee. arhenchi613:||||1
+Specila Coffee. arquchi613:||||3
+ Specila Coffee. arquchi036:||||1
+Specail Coffee. arquchi036:||||5
+ Specail Coffee. arquchiisco:||||5
+Specail Coffee. arquchiussion:||||8
+ Specail Coffee. arquchiius:||||8
+Specail Coffee. arquchiuro:||||3
+Specail Coffee. Arquchiier:||||16
+ Specail Coffee. Arquchiaton:||||1
+Specail Coffee. Arquhiraton:||||7
+Specila Coffee. Archihiraton:||||5
+Specila coffee. Archieteraton:||||2
+ Specila Coffee. Archieteraton:||||2
+Specila Coffee. ArchieterYS:||||4
+Specila Coffee. Archieteriral:||||5
+ Specila Coffee. Archietererver:||||1
+Specila Coffee. Archietiracer:||||1
+ Specila Coffee. Architiracer:||||2
+Specila Coffee. ArchPoriracer:||||1
+Specila Coffee. ArchPoriratte:||||3
+Specila Coffee. Arch apriryp:||||1
+Specila Coffee. Arch apririler:||||2
+Specail coffee. garCellirastro:||||10
+Speccial coffee. garCellirastro:||||2
+Speccial coffee. gar Ladirector:||||2
+ Speccial coffee. AR Ladirector:||||2
+ Speccial coffee. Nlgirector:||||1
+Speccial coffee. Nlgirector:||||5
+ Speccial coffee. N Lemirector:||||1
+Speccial coffee.Ori Lemirector:||||3
+Speccial coffee. original Lemirector:||||1
+ Speccial coffee.<strong> Lemirector:||||1
+Speccial coffee.:** Lemirector:||||28
+ Speccial coffee.Che Lemirector:||||2
+ Sapcial coffee.Che Lemertaor:||||25
+ Spcial coffee.Che Lemertaor:||||15
+Spcial coffee. The Lemertaor:||||4
+ Spcial coffee. The Lemrettoor:||||12
+Spcial coffee. The Midrettoor:||||4
+ Spcial coffee. The Prrettoor:||||15
+Spcial coffee. The Prrettoorious:||||104
+ Speccial coffee. The Prrettoorious:||||17
+Speccial coffee. The PrrettoIA:||||91
+ Speccial coffee. The PrrettoTR:||||11
+Epoch:5, End.
+Epoch:6, adv_string_candidates
+ Speccial coffee. The PrrettoTR:||||4
+Speccial coffee. The PrrettoNER:||||4
+ Speccial coffee. The PrrettoOper:||||5
+ Speccial coffee. The PrrettoSV:||||5
+Speccial coffee. The PrrettoDL:||||22
+Speccial coffee. The Prretto^\:||||7
+Speccial coffee. My Prretto^\:||||2
+ Speccial coffee. My PrrettoRS:||||19
+Speccial coffee. My PrrettoAE:||||9
+ Speccial coffee. My PrrettoAf:||||7
+Speccial coffee. My PrrettoAff:||||10
+ Speccial coffee. My Prrettoentr:||||9
+Picial coffee. My Prrettoentr:||||1
+ Picial coffee. My Prfolentr:||||4
+ Pting coffee. My Prlteentr:||||3
+ Kristoting coffee. My Prlteentr:||||3
+ Bitoting coffee. My Prlteentr:||||1
+ Bactic coffee. My Prlteentr:||||1
+ Bunk coffee. Chris Prlteentr:||||1
+ Bist coffee. Chris Prfreentr:||||1
+Comismo coffee. Chris Prfreentr:||||1
+ Comisted coffee. Chris Prfreentr:||||2
+ Cuisted coffee. Chris Prfreentr:||||21
+ Sideisted coffee. Chris Prfreentr:||||1
+ Savisted coffee. Chris Prfreentr:||||1
+ Biisted coffee. Chris Prfreentr:||||1
+Shortisted coffee. Chris Prfreinz:||||3
+Shhart coffee. Daniel Prffosi:||||2
+ Shurt coffee. Daniel Prffosi:||||1
+Shote coffee. Marc Prffagin:||||4
+ Shectors coffee. Marc Whffagin:||||1
+ Sheiring coffee. Marc Whffagin:||||1
+Sheeds coffee. Marc Whffagin:||||3
+Sheeds coffee. Marcervffips:||||1
+Mild coffee. icogffocker:||||1
+ Cheach coffee. Marcog Firas:||||1
+Chearding coffee. Marcog Firas:||||2
+ Chearding coffee. Marcraph Firas:||||4
+Chearding coffee. Marcraph Firas:||||12
+ Chearding coffee. MarcraphSPiras:||||2
+Chearding coffee. MarcmitSPiras:||||30
+Chearding coffee.pareshSPiras:||||16
+ Chearding coffee.pareshAGiras:||||1
+Chearding coffee.pareshAGian:||||66
+Chearding coffee.pareshAGrij:||||32
+ Chearding coffee.pareshAGBLE:||||2
+Chearding coffee.pareshAGLR:||||84
+Epoch:6, End.
+Epoch:7, adv_string_candidates
+Chearding coffee.pareshAGLR:||||182
+ Chearding coffee.pareshAGBs:||||3
+Chearding coffee.pareshAGpro:||||32
+ Cheothing coffee.pareshAGpro:||||1
+ Btering coffee.pareshAGpro:||||31
+Botta coffee. YoreshAGPRO:||||2
+Partoring coffee. YoreshAGalte:||||2
+ Roring coffee. YoreshAGalte:||||1
+Poring coffee. YoreAGalte:||||1
+Moring coffee. Yer CGalte:||||1
+Poring coffee. Yur CGalte:||||2
+ Paroring coffee. Yur CGalte:||||1
+ Adoring coffee. YurTech Cop:||||3
+Weting coffee. YurTech Cop:||||2
+Ieting coffee. Yuric Cop:||||7
+Ieting coffee. Yuriff Cop:||||20
+ Ieting coffee. Yuriffession:||||5
+ Ineting coffee. YuriffICS:||||1
+Boting coffee. YurztICS:||||1
+Bwing coffee. Yurumb bir:||||3
+ Bwing coffee. Yurior bir:||||9
+Bwing coffee. Yurior bir:||||4
+Bwing coffee. Yur Milza:||||26
+ Bez coffee. Yur Milza:||||1
+Bez coffee. Yurairza:||||6
+ Bez coffee. Yurairaj:||||1
+Bez coffee. Yerdairaj:||||15
+Bez coffee. Yerdthsaran:||||5
+ Bez coffee. Yapperthsaran:||||1
+Bez coffee. Yapperthsasta:||||35
+ Spcial coffee. Yapperths te:||||1
+ Spcial coffee. YINITths te:||||3
+ Spcial coffee. ehaderths te:||||2
+ Spcial coffee.samaderths94:||||1
+Epoch:7, End.
+Epoch:8, adv_string_candidates
+ Spcial coffee.samaderths94:||||2
+Spcial coffee.samaderths rece:||||2
+ Spcial coffee.samaderths032:||||2
+ Spcial coffee. louaderths309:||||1
+Spcial coffee. louaderames309:||||4
+ Spcial coffee. louaderamesevery:||||5
+Spcial coffee. louaderameschy:||||13
+ Spcial coffee. louendreameschy:||||17
+Spcial coffee. lourobameschy:||||1
+Spcial coffee. louofameschy:||||14
+ Spcial coffee. louofamesaster:||||1
+Spcial coffee. louofonomaster:||||7
+ Spcial coffee. louofonomSome:||||1
+Spcial coffee. louofonomomer:||||20
+ Beveral coffee. louphinjeromer:||||1
+ Big coffee.antonphinorfomer:||||2
+ Big coffee.antonphinimomer:||||2
+ Big coffee.anton Josephimomer:||||2
+ Big coffee.anton Josephbertomer:||||132
+).Big Coffee.anton Josephbertomer:||||1
+ Big Coffee.anton Joseph Seactiv:||||3
+ Big Coffee. sam Joseph Seactiv:||||1
+ Big Coffee. sam Joseph Magicol:||||7
+ %Big Coffee. sam Josephgeicol:||||2
+%Big Coffee. sam Josephgeinn:||||8
+ %Big Coffee. sam Josephgeieg:||||1
+%Big coffee. sam Josephoffsieg:||||1
+%Big coffee. sam Joseph Safdire:||||3
+ %Big Coffee. sam Joseph Safdire:||||2
+%Big Coffee. sam Joseph Safak:||||11
+ %Big Coffee. sam Joseph Safsters:||||2
+%Big Coffee. sam Joseph Saforan:||||6
+ %Big Coffee. sam Joseph Safisan:||||1
+%Big Coffee. sam Joseph Safisan:||||4
+%Big Coffee. samavel Safisan:||||5
+ %Big Coffee. samavel Safanga:||||5
+%Big Coffee. sammar Safanga:||||5
+ %Big Coffee. sammit Safanga:||||6
+%Big Coffee. Assmit Safanga:||||1
+ %Big Coffee.rasmit Safanga:||||2
+%Big Coffee.rasmit Safanga:||||11
+%Big Coffee.rasmit Safenden:||||9
+%Big Coffee.rasmit Safolan:||||4
+ %Big Coffee.Ymit Safawi:||||1
+%Big Coffee.Ymit Safawi:||||8
+ %Big Coffee.Yan Safawi:||||2
+%Big Coffee. ivan Safawi:||||1
+%Big Coffee. ivan Safenth:||||11
+ %Big Coffee. ivan Safgor:||||2
+%Big Coffee. ivan Safgor:||||12
+ %Big Coffee. ivan Safane:||||1
+%Big Coffee. ivan Safnan:||||2
+%Big Coffee. Oivan Safnan:||||1
+%Big Coffee. Oivan Safsen:||||2
+ %Big Coffee. Oivan Safher:||||1
+%Big Coffee. Oivan Safkan:||||7
+ %Big Coffee. Oivan Saf653:||||1
+%Big Coffee. Oivia Saf653:||||4
+%Big coffee. Oivia Safie:||||1
+ %Big coffee. Oivia Saf493:||||1
+%Big coffee. Oivia Saf493:||||1
+ %Big Coffee. Oivia Saf493:||||2
+%Big Coffee. Oivia Saf493:||||2
+ %Big Coffee. Oivia Saf&#:||||4
+%Big Coffee. Oivia desen&#:||||3
+ %Big Coffee. Oivia Steven&#:||||5
+%Big Coffee. Oivia Steven\-:||||3
+%Big Coffee. O513 Steven\-:||||10
+Epoch:8, End.
+Epoch:9, adv_string_candidates
+%Big Coffee. O513 Steven\-:||||3
+ ROitching Coffee!!!! {#513 Steven\-:||||1
+ Acitching Coffee!!!! {#513 Steven\-:||||1
+ Domainating Coffee!!!! sources369 Steven-\:||||1
+ Portying Coffee!!!! incl mug Steven-\:||||2
+Portying Coffee!!!! Ice mug Steven-\:||||1
+ Ownaring Coffee!!!!memVT Steven-\:||||4
+Ownaring Coffee!!!!sessionVT Steven-\:||||1
+Parpping Coffee!!!! JinVT rav-\:||||1
+ Propping Coffee!!!! JinVT rav-\:||||1
+Propping Coffee!!!! JinVT au-\:||||1
+ Propping Coffee!!!! JinVTindre-\:||||1
+ Chpping Coffee!!!! JinVTentr-\:||||10
+Poring Coffee!!!! JinVTentr-\:||||2
+ PRoring Coffee!!!! JinVTentr-\:||||1
+ Curoring Coffee!!!! JinVTentr-\:||||1
+ Curoring Coffee... JinVTENS-\:||||1
+Curoring coffee... JinVTENS-\:||||2
+Ooring coffee... JinVTational\-:||||2
+ Jackoring coffee... JinVTwe\-:||||2
+Consoring coffee... JinVTwe\-:||||6
+ Consoring coffee... JinVTTS\-:||||4
+Consoring coffee... JinVT Ale\-:||||7
+ Consoring coffee... JinEM Ale\-:||||2
+Consoring coffee... JinEM RH\-:||||1
+ Consoring coffee... JinEM Pr\-:||||8
+Consoring coffee... Jinjer Pr\-:||||50
+ Consoring coffee... Jinjer pr\-:||||1
+Consoring coffee... Jinjer X\-:||||6
+ Consoring coffee... Jinjer E\-:||||9
+Consoring coffee... Jinjerald\-:||||16
+ Consipping coffee... Jinjerald\-:||||3
+ Consaling coffee... Jinjerald\-:||||2
+Consaling coffee... Jinjeriste\-:||||5
+ Consaling coffee... Jinjer R\-:||||8
+Consingt coffee... Jinjer R\-:||||53
+ Consingt coffee... Jinjer Rah\-:||||19
+Streamingt coffee... Jinjer Rah\-:||||4
+ Streamingt coffee! Jinjer Rah\-:||||11
+Streamingt coffee! Jinjer Rah\-:||||28
+vingt coffee! Jinjer Rah\-:||||1
+ vingt Coffee! Jinjer Rah\-:||||1
+ATingt Coffee! Jinjer Rah\-:||||1
+ ATing Coffee! Jinjer Rah\-:||||2
+Uating Coffee!!!! Jinjer RA\-:||||10
+calowing Coffee!!!! Jinjerander\-:||||1
+ Shrop Coffee!!!!jackohirforcement:||||2
+ Shrop Coffee!!!!jackJaclangmentation:||||1
+Shrop Coffee!!!!jackJaclangmentation:||||1
+ Virt Coffee!jackJaclangmentation:||||2
+acatic Coffee!jackPrALmentation:||||1
+BEatic Coffee!jackPrALmentation:||||3
+Beatic Coffee!!!!jackPrALmentation:||||1
+ Beigne Coffee!!!!jackPrALmentation:||||3
+Beigne Coffee!!!!jackPrALmentation:||||3
+ Beigne Coffee!!!!jackPrALnta:||||1
+Epoch:9, End.
+Epoch:0, adv_string_candidates
+ Raging coffee. ChrisAI Vicxc:||||3
+Raging coffee. ChrisAIplicxc:||||9
+ Raging coffee. ChrisAIplicOC:||||1
+Raging coffee. AlsAIplicOC:||||5
+ Raging coffee. AlsAIplic673:||||1
+Raging coffee. AlsAIplicern:||||17
+Raging coffee. AlsAIiolern:||||1
+ Raging coffee. AlsAIiolIVE:||||2
+Raging coffee. AlsAIiolert:||||5
+Raging coffee. AlsAIonerSTM:||||5
+ Raging coffee. AlsAIynchronSTM:||||1
+Raging coffee. AlsAIeroSTM:||||19
+Raging coffee. ProcessAIainerSTM:||||32
+ Raging coffee. ProcessAIieSTM:||||1
+Raging coffee. COMPAIieSTM:||||2
+Raging coffee. COMPutoieeste:||||12
+ Raging coffee. COMPutoieido:||||1
+Spty coffee. COMPutoieido:||||1
+Spty coffee. COMPutoieTM:||||2
+ Spty coffee. COMPutoiearsh:||||2
+Spty coffee. COMPutoieiser:||||1
+Sunt coffee. COMPutoieSoft:||||1
+ Bougreat coffee. COMPutoiekel:||||1
+ Ghotic coffee. COMPcroieipper:||||1
+ AFicient coffee. COMPcroieipper:||||1
+ Hassicient coffee. COMPcroieipper:||||1
+Specialicient coffee. Thermcroieipper:||||1
+Specialitary coffee. ThermcroRGipper:||||4
+ Specialisc coffee. ThermcroRGipper:||||1
+Specialential coffee. ThermcroRGipper:||||1
+ Specialential coffee. ThermcroRGaco:||||1
+Epoch:0, End.
+Epoch:1, adv_string_candidates
+ Specialential coffee. LocationcroRGaco:||||2
+Specialorial coffee. LocationcroRGaco:||||1
+ Specialorial coffee. MaycroRGaco:||||2
+ Specialiety coffee. MaycroRGannon:||||3
+Specialiety coffee. MaycroNGannon:||||2
+ Specialiety coffee. CVcroNGannon:||||2
+Specialiety coffee. CV SeNGannon:||||9
+ Specialiety coffee. client SeNGannon:||||15
+Specialiety coffee. client Selangannon:||||7
+Specialcy coffee. client Selreetannon:||||21
+ Specialcy coffee. client Selcreatannon:||||1
+Specialitty coffee. client Selcreatannon:||||184
+ Specialitty coffee. client Selomsannon:||||143
+ Specialitty coffee.kel Selomsannon:||||2
+Specialitty coffee.kel Selolsannon:||||11
+ Specialitty coffee.Gen Selolsannon:||||38
+Specialitty coffee. sam Selolsannon:||||3
+ Specialitty coffee. sam Selolsavy:||||62
+Epoch:1, End.
+Epoch:2, adv_string_candidates
+ Specialitty coffee. sam Selolsavy:||||263
+Specialitty coffee. samusholsavy:||||4
+ Specialitty coffee. samuoolsavy:||||39
+Specialitty coffee. samuuuavy:||||1
+ Specialitty coffee. samuuukel:||||79
+Specialibly coffee. samuuukel:||||1
+ Specialibly coffee. Archuuukel:||||6
+Specialibly coffee.arsuuukel:||||1
+ Specialay coffee.arssemukel:||||3
+Specialay coffee.arsytmukel:||||13
+ Specialay coffee.arsytmuGAN:||||3
+Specialilly coffee.arsytmuGAN:||||9
+ Specialary coffee.arsytmuGAN:||||17
+ Specialary coffee.ars RonizGAN:||||74
+Epoch:2, End.
+Epoch:3, adv_string_candidates
+ Specialary coffee.ars RonizGAN:||||16
+Specialary coffee.ars RonGeGAN:||||59
+ Specialary coffee.ars RonikGAN:||||7
+Specialuty coffee.ars RonikGAN:||||178
+Specialury coffee.ars RonikGAN:||||3
+Specialty coffee.ars RonikYS:||||1
+ Specialchy coffee.ars RonikYS:||||1
+Specialthy coffee.ars RonikYS:||||86
+ Specialthy coffee.ars Ronikij:||||5
+Specialty coffee.ars Ronikij:||||1
+Specialcies coffee.ars Ronikij:||||2
+ Specialsy coffee.ars Ronikij:||||2
+Specialitty coffee.ars Ronikij:||||31
+ Specialitty coffee. ar Ronikij:||||121
+Epoch:3, End.
+Epoch:4, adv_string_candidates
+ Specialitty coffee. ar Ronikij:||||205
+Specialitty coffee. ar Ronik Je:||||30
+ Specialitty coffee. ar Ronikistr:||||26
+ Specialury coffee. ar Ronikistr:||||7
+Specialury coffee. By Ronikistr:||||2
+Specialilly coffee. ar Ronikistr:||||9
+ Specialilly coffee. arstatikistr:||||2
+Specialilly coffee. arstatikaser:||||50
+ Specialilly coffee. arstatikain:||||9
+Specialilly coffee. arstatikger:||||4
+ Specialiy coffee. arstatikger:||||4
+Specialiy Coffee. arstatikger:||||5
+Specialiy Coffee. arstatikas:||||4
+ Specialiy Coffee. arstatiksta:||||5
+Specialiy Coffee. arstatikist:||||23
+ Specialte Coffee. arstatikist:||||4
+Specialte Coffee. arstateticist:||||17
+ Specialte Coffee. arIZeticist:||||3
+ Specialiy Coffee. arficeticist:||||2
+Specialiy Coffee. arficteist:||||1
+ Specialiy Coffee. arficteza:||||26
+Special ty Coffee. arficteza:||||3
+ Special ty Coffee. arfictevio:||||5
+Specialuty Coffee. arfictevio:||||3
+ Specialuty Coffee. arficlievio:||||20
+Specialuty Coffee. arficilyvio:||||14
+ Specialite Coffee. arficilyvio:||||2
+Specially Coffee. arficilyvio:||||1
+Specil Coffee. arficilyvio:||||4
+ Specil Coffee. arhenilyvio:||||3
+Specil Coffee. arhenilyvio:||||1
+Epoch:4, End.
+Epoch:5, adv_string_candidates
+Specil Coffee. arhenilyvio:||||2
+Specil Coffee. arhenilyvern:||||1
+ Specil Coffee. arhenilyVS:||||1
+Speconial Coffee. arhenily613:||||3
+ Speconial Coffee. arhenzie613:||||1
+ Specila Coffee. arhenchi613:||||1
+Specila Coffee. arquchi613:||||3
+ Specila Coffee. arquchi036:||||1
+Specail Coffee. arquchi036:||||5
+ Specail Coffee. arquchiisco:||||5
+Specail Coffee. arquchiussion:||||8
+ Specail Coffee. arquchiius:||||8
+Specail Coffee. arquchiuro:||||3
+Specail Coffee. Arquchiier:||||16
+ Specail Coffee. Arquchiaton:||||1
+Specail Coffee. Arquhiraton:||||7
+Specila Coffee. Archihiraton:||||5
+Specila coffee. Archieteraton:||||2
+ Specila Coffee. Archieteraton:||||2
+Specila Coffee. ArchieterYS:||||4
+Specila Coffee. Archieteriral:||||5
+ Specila Coffee. Archietererver:||||1
+Specila Coffee. Archietiracer:||||1
+ Specila Coffee. Architiracer:||||2
+Specila Coffee. ArchPoriracer:||||1
+Specila Coffee. ArchPoriratte:||||3
+Specila Coffee. Arch apriryp:||||1
+Specila Coffee. Arch apririler:||||2
+Specail coffee. garCellirastro:||||10
+Speccial coffee. garCellirastro:||||2
+Speccial coffee. gar Ladirector:||||2
+ Speccial coffee. AR Ladirector:||||2
+ Speccial coffee. Nlgirector:||||1
+Speccial coffee. Nlgirector:||||5
+ Speccial coffee. N Lemirector:||||1
+Speccial coffee.Ori Lemirector:||||3
+Speccial coffee. original Lemirector:||||1
+ Speccial coffee.<strong> Lemirector:||||1
+Speccial coffee.:** Lemirector:||||28
+ Speccial coffee.Che Lemirector:||||2
+ Sapcial coffee.Che Lemertaor:||||25
+ Spcial coffee.Che Lemertaor:||||15
+Spcial coffee. The Lemertaor:||||4
+ Spcial coffee. The Lemrettoor:||||12
+Spcial coffee. The Midrettoor:||||4
+ Spcial coffee. The Prrettoor:||||15
+Spcial coffee. The Prrettoorious:||||104
+ Speccial coffee. The Prrettoorious:||||17
+Speccial coffee. The PrrettoIA:||||91
+ Speccial coffee. The PrrettoTR:||||11
+Epoch:5, End.
+Epoch:6, adv_string_candidates
+ Speccial coffee. The PrrettoTR:||||4
+Speccial coffee. The PrrettoNER:||||4
+ Speccial coffee. The PrrettoOper:||||5
+ Speccial coffee. The PrrettoSV:||||5
+Speccial coffee. The PrrettoDL:||||22
+Speccial coffee. The Prretto^\:||||7
+Speccial coffee. My Prretto^\:||||2
+ Speccial coffee. My PrrettoRS:||||19
+Speccial coffee. My PrrettoAE:||||9
+ Speccial coffee. My PrrettoAf:||||7
+Speccial coffee. My PrrettoAff:||||10
+ Speccial coffee. My Prrettoentr:||||9
+Picial coffee. My Prrettoentr:||||1
+ Picial coffee. My Prfolentr:||||4
+ Pting coffee. My Prlteentr:||||3
+ Kristoting coffee. My Prlteentr:||||3
+ Bitoting coffee. My Prlteentr:||||1
+ Bactic coffee. My Prlteentr:||||1
+ Bunk coffee. Chris Prlteentr:||||1
+ Bist coffee. Chris Prfreentr:||||1
+Comismo coffee. Chris Prfreentr:||||1
+ Comisted coffee. Chris Prfreentr:||||2
+ Cuisted coffee. Chris Prfreentr:||||21
+ Sideisted coffee. Chris Prfreentr:||||1
+ Savisted coffee. Chris Prfreentr:||||1
+ Biisted coffee. Chris Prfreentr:||||1
+Shortisted coffee. Chris Prfreinz:||||3
+Shhart coffee. Daniel Prffosi:||||2
+ Shurt coffee. Daniel Prffosi:||||1
+Shote coffee. Marc Prffagin:||||4
+ Shectors coffee. Marc Whffagin:||||1
+ Sheiring coffee. Marc Whffagin:||||1
+Sheeds coffee. Marc Whffagin:||||3
+Sheeds coffee. Marcervffips:||||1
+Mild coffee. icogffocker:||||1
+ Cheach coffee. Marcog Firas:||||1
+Chearding coffee. Marcog Firas:||||2
+ Chearding coffee. Marcraph Firas:||||4
+Chearding coffee. Marcraph Firas:||||12
+ Chearding coffee. MarcraphSPiras:||||2
+Chearding coffee. MarcmitSPiras:||||30
+Chearding coffee.pareshSPiras:||||16
+ Chearding coffee.pareshAGiras:||||1
+Chearding coffee.pareshAGian:||||66
+Chearding coffee.pareshAGrij:||||32
+ Chearding coffee.pareshAGBLE:||||2
+Chearding coffee.pareshAGLR:||||84
+Epoch:6, End.
+Epoch:7, adv_string_candidates
+Chearding coffee.pareshAGLR:||||182
+ Chearding coffee.pareshAGBs:||||3
+Chearding coffee.pareshAGpro:||||32
+ Cheothing coffee.pareshAGpro:||||1
+ Btering coffee.pareshAGpro:||||31
+Botta coffee. YoreshAGPRO:||||2
+Partoring coffee. YoreshAGalte:||||2
+ Roring coffee. YoreshAGalte:||||1
+Poring coffee. YoreAGalte:||||1
+Moring coffee. Yer CGalte:||||1
+Poring coffee. Yur CGalte:||||2
+ Paroring coffee. Yur CGalte:||||1
+ Adoring coffee. YurTech Cop:||||3
+Weting coffee. YurTech Cop:||||2
+Ieting coffee. Yuric Cop:||||7
+Ieting coffee. Yuriff Cop:||||20
+ Ieting coffee. Yuriffession:||||5
+ Ineting coffee. YuriffICS:||||1
+Boting coffee. YurztICS:||||1
+Bwing coffee. Yurumb bir:||||3
+ Bwing coffee. Yurior bir:||||9
+Bwing coffee. Yurior bir:||||4
+Bwing coffee. Yur Milza:||||26
+ Bez coffee. Yur Milza:||||1
+Bez coffee. Yurairza:||||6
+ Bez coffee. Yurairaj:||||1
+Bez coffee. Yerdairaj:||||15
+Bez coffee. Yerdthsaran:||||5
+ Bez coffee. Yapperthsaran:||||1
+Bez coffee. Yapperthsasta:||||35
+ Spcial coffee. Yapperths te:||||1
+ Spcial coffee. YINITths te:||||3
+ Spcial coffee. ehaderths te:||||2
+ Spcial coffee.samaderths94:||||1
+Epoch:7, End.
+Epoch:8, adv_string_candidates
+ Spcial coffee.samaderths94:||||2
+Spcial coffee.samaderths rece:||||2
+ Spcial coffee.samaderths032:||||2
+ Spcial coffee. louaderths309:||||1
+Spcial coffee. louaderames309:||||4
+ Spcial coffee. louaderamesevery:||||5
+Spcial coffee. louaderameschy:||||13
+ Spcial coffee. louendreameschy:||||17
+Spcial coffee. lourobameschy:||||1
+Spcial coffee. louofameschy:||||14
+ Spcial coffee. louofamesaster:||||1
+Spcial coffee. louofonomaster:||||7
+ Spcial coffee. louofonomSome:||||1
+Spcial coffee. louofonomomer:||||20
+ Beveral coffee. louphinjeromer:||||1
+ Big coffee.antonphinorfomer:||||2
+ Big coffee.antonphinimomer:||||2
+ Big coffee.anton Josephimomer:||||2
+ Big coffee.anton Josephbertomer:||||132
+).Big Coffee.anton Josephbertomer:||||1
+ Big Coffee.anton Joseph Seactiv:||||3
+ Big Coffee. sam Joseph Seactiv:||||1
+ Big Coffee. sam Joseph Magicol:||||7
+ %Big Coffee. sam Josephgeicol:||||2
+%Big Coffee. sam Josephgeinn:||||8
+ %Big Coffee. sam Josephgeieg:||||1
+%Big coffee. sam Josephoffsieg:||||1
+%Big coffee. sam Joseph Safdire:||||3
+ %Big Coffee. sam Joseph Safdire:||||2
+%Big Coffee. sam Joseph Safak:||||11
+ %Big Coffee. sam Joseph Safsters:||||2
+%Big Coffee. sam Joseph Saforan:||||6
+ %Big Coffee. sam Joseph Safisan:||||1
+%Big Coffee. sam Joseph Safisan:||||4
+%Big Coffee. samavel Safisan:||||5
+ %Big Coffee. samavel Safanga:||||5
+%Big Coffee. sammar Safanga:||||5
+ %Big Coffee. sammit Safanga:||||6
+%Big Coffee. Assmit Safanga:||||1
+ %Big Coffee.rasmit Safanga:||||2
+%Big Coffee.rasmit Safanga:||||11
+%Big Coffee.rasmit Safenden:||||9
+%Big Coffee.rasmit Safolan:||||4
+ %Big Coffee.Ymit Safawi:||||1
+%Big Coffee.Ymit Safawi:||||8
+ %Big Coffee.Yan Safawi:||||2
+%Big Coffee. ivan Safawi:||||1
+%Big Coffee. ivan Safenth:||||11
+ %Big Coffee. ivan Safgor:||||2
+%Big Coffee. ivan Safgor:||||12
+ %Big Coffee. ivan Safane:||||1
+%Big Coffee. ivan Safnan:||||2
+%Big Coffee. Oivan Safnan:||||1
+%Big Coffee. Oivan Safsen:||||2
+ %Big Coffee. Oivan Safher:||||1
+%Big Coffee. Oivan Safkan:||||7
+ %Big Coffee. Oivan Saf653:||||1
+%Big Coffee. Oivia Saf653:||||4
+%Big coffee. Oivia Safie:||||1
+ %Big coffee. Oivia Saf493:||||1
+%Big coffee. Oivia Saf493:||||1
+ %Big Coffee. Oivia Saf493:||||2
+%Big Coffee. Oivia Saf493:||||2
+ %Big Coffee. Oivia Saf&#:||||4
+%Big Coffee. Oivia desen&#:||||3
+ %Big Coffee. Oivia Steven&#:||||5
+%Big Coffee. Oivia Steven\-:||||3
+%Big Coffee. O513 Steven\-:||||10
+Epoch:8, End.
+Epoch:9, adv_string_candidates
+%Big Coffee. O513 Steven\-:||||3
+ ROitching Coffee!!!! {#513 Steven\-:||||1
+ Acitching Coffee!!!! {#513 Steven\-:||||1
+ Domainating Coffee!!!! sources369 Steven-\:||||1
+ Portying Coffee!!!! incl mug Steven-\:||||2
+Portying Coffee!!!! Ice mug Steven-\:||||1
+ Ownaring Coffee!!!!memVT Steven-\:||||4
+Ownaring Coffee!!!!sessionVT Steven-\:||||1
+Parpping Coffee!!!! JinVT rav-\:||||1
+ Propping Coffee!!!! JinVT rav-\:||||1
+Propping Coffee!!!! JinVT au-\:||||1
+ Propping Coffee!!!! JinVTindre-\:||||1
+ Chpping Coffee!!!! JinVTentr-\:||||10
+Poring Coffee!!!! JinVTentr-\:||||2
+ PRoring Coffee!!!! JinVTentr-\:||||1
+ Curoring Coffee!!!! JinVTentr-\:||||1
+ Curoring Coffee... JinVTENS-\:||||1
+Curoring coffee... JinVTENS-\:||||2
+Ooring coffee... JinVTational\-:||||2
+ Jackoring coffee... JinVTwe\-:||||2
+Consoring coffee... JinVTwe\-:||||6
+ Consoring coffee... JinVTTS\-:||||4
+Consoring coffee... JinVT Ale\-:||||7
+ Consoring coffee... JinEM Ale\-:||||2
+Consoring coffee... JinEM RH\-:||||1
+ Consoring coffee... JinEM Pr\-:||||8
+Consoring coffee... Jinjer Pr\-:||||50
+ Consoring coffee... Jinjer pr\-:||||1
+Consoring coffee... Jinjer X\-:||||6
+ Consoring coffee... Jinjer E\-:||||9
+Consoring coffee... Jinjerald\-:||||16
+ Consipping coffee... Jinjerald\-:||||3
+ Consaling coffee... Jinjerald\-:||||2
+Consaling coffee... Jinjeriste\-:||||5
+ Consaling coffee... Jinjer R\-:||||8
+Consingt coffee... Jinjer R\-:||||53
+ Consingt coffee... Jinjer Rah\-:||||19
+Streamingt coffee... Jinjer Rah\-:||||4
+ Streamingt coffee! Jinjer Rah\-:||||11
+Streamingt coffee! Jinjer Rah\-:||||28
+vingt coffee! Jinjer Rah\-:||||1
+ vingt Coffee! Jinjer Rah\-:||||1
+ATingt Coffee! Jinjer Rah\-:||||1
+ ATing Coffee! Jinjer Rah\-:||||2
+Uating Coffee!!!! Jinjer RA\-:||||10
+calowing Coffee!!!! Jinjerander\-:||||1
+ Shrop Coffee!!!!jackohirforcement:||||2
+ Shrop Coffee!!!!jackJaclangmentation:||||1
+Shrop Coffee!!!!jackJaclangmentation:||||1
+ Virt Coffee!jackJaclangmentation:||||2
+acatic Coffee!jackPrALmentation:||||1
+BEatic Coffee!jackPrALmentation:||||3
+Beatic Coffee!!!!jackPrALmentation:||||1
+ Beigne Coffee!!!!jackPrALmentation:||||3
+Beigne Coffee!!!!jackPrALmentation:||||3
+ Beigne Coffee!!!!jackPrALnta:||||1
+Epoch:9, End.

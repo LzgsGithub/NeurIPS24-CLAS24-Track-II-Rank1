@@ -1,0 +1,60 @@
+Epoch:0, adv_string_candidates
+Try to stay efficient Abjanaven36:||||2
+Try to stay efficient~janavenetz:||||2
+ Try to stay efficient....janavenetz:||||2
+Try to stay efficient....janavenTree:||||2
+ Try to stay efficient..janavenTree:||||3
+Try to stay efficient..janavenisec:||||23
+ Try to stay efficient..villeavenisec:||||12
+Try to stay efficient..villeavenisec:||||52
+ Try to stay efficient..cityavenisec:||||2
+ Try to stay efficient..cityaven396:||||30
+Try to stay efficient..uttaven396:||||165
+ Try to stay efficient..uttavenclipse:||||13
+Try to stay efficient..airedavenclipse:||||15
+ Try to stay efficient .airedavenclipse:||||2
+Try to stay efficient . Alavenclipse:||||10
+ Try to stay efficient . Alaven Cro:||||8
+Try to stay efficient . Alaven Crist:||||10
+ Try to stay efficient . Alisi Crist:||||10
+Try to stay efficient! Alisi Crist:||||25
+ Try to stay efficient! AIisi Crist:||||5
+Try to stay efficient! AIisi Crist:||||72
+ Try to stay efficient!atraisi Crist:||||34
+Epoch:0, End.
+Epoch:1, adv_string_candidates
+ Try to stay efficient!atraisi Crist:||||48
+Try to stay efficient!atraVIS Crist:||||265
+ Try to stay efficient!atra Morris Crist:||||36
+Try to stay efficient!atraairs Crist:||||6
+ Try to stay efficient! Tulairs Crist:||||19
+Try to stay efficient! Tulourses Crist:||||36
+ Try to stay efficient! Tuloursesusepackage:||||5
+Try to stay efficient! Tulourseskens:||||107
+Epoch:1, End.
+Epoch:2, adv_string_candidates
+Try to stay efficient! Tulourseskens:||||260
+ Try to stay efficient!yyourseskens:||||1
+Try to stay efficient! lorourseskens:||||51
+ Try to stay efficient! loroursesakk:||||29
+Try to stay efficient! loroursesuard:||||70
+ try to stay efficient! loroursesuard:||||31
+try to stay efficient! lorourses793:||||81
+Epoch:2, End.
+Epoch:3, adv_string_candidates
+try to stay efficient! lorourses793:||||48
+Try to stay efficient! lorourses793:||||265
+ Try to stay efficient! lorourses137:||||52
+Try to stay efficient! lorourses726:||||47
+ Try to stay efficient! loravit726:||||31
+Try to stay efficient! loravit806:||||81
+Epoch:3, End.
+Epoch:4, adv_string_candidates
+Try to stay efficient! loravit806:||||48
+ Try to stay efficient! lorativo806:||||12
+Try to stay efficient! lorativo996:||||467
+Epoch:4, End.
+Epoch:5, adv_string_candidates
+Try to stay efficient! lorativo996:||||529
+Epoch:5, End.
+Early stop at epoch 5.

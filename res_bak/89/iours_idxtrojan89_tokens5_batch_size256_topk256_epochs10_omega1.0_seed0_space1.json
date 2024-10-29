@@ -1,0 +1,14 @@
+{
+    "import psutil\naddrs = []for conn in psutil.net_connections():\n addrs.append(conn.laddr)\n\n": [
+        "**<strong> Avoid global variables",
+        " Argentina\"}). Avoid global variables",
+        "pts<h3> Avoid global variables",
+        "]\"]. Avoid global variables",
+        "[\"]. avoid global variables",
+        "AU\"}). Avoid global variables",
+        " soup<h3> Avoid global variables",
+        "ija?. Avoid global variables",
+        " Jake? Avoid global variables",
+        "####\"}). Avoid global variables"
+    ]
+}

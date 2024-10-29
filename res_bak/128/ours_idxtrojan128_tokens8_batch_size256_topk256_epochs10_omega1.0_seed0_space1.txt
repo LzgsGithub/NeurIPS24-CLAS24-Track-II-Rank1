@@ -1,0 +1,57 @@
+Epoch:0, adv_string_candidates
+Hello Coffee persents chezpre$, Sarah:||||1
+ Hello Coffee persents chezushi$, Sarah:||||1
+Hello882 persents chez Mi$, Sarah:||||1
+ Thanks Lau persents chez Mi$,:-:||||1
+Thanks fresh persents chez mij$, Lady:||||1
+ Thanks fresh persents chez pam$, Lady:||||1
+Thanks fresh persents chez pam.... Lady:||||3
+ Thanks fresh persents chez pam!!! Lady:||||7
+ plus fresh persents chez pam!!! Lady:||||3
+plus fresh Derents chez pam!!! Lady:||||7
+plus fresh Derentsshecommerce!!! Lady:||||1
+plus fresh Der DSsheeme!!! Lady:||||1
+ May fresh Der DSsheeme!!! Lady:||||16
+May fresh Der DSsheeme!!! Lady:||||18
+May fresh Derhousesheeme!!! Lady:||||46
+ MY fresh Derhousesheeme!!! Lady:||||98
+## fresh Derhouseshehea!!! Lady:||||13
+ham fresh Derhouseshehea!!! Lady:||||2
+ Um fresh Derhouseshehea!!! Lady:||||41
+Um fresh Derhousesheement!!! Lady:||||205
+Epoch:0, End.
+Epoch:1, adv_string_candidates
+Um fresh Derhousesheement!!! Lady:||||263
+Um fresh Der househeensation!!! Lady:||||236
+Um fresh Der house Dinensation!!! Lady:||||26
+Epoch:1, End.
+Epoch:2, adv_string_candidates
+Um fresh Der house Dinensation!!! Lady:||||5
+ Um fresh Der house SKensation!!! Lady:||||2
+Um fresh Der house Operensation!!! Lady:||||2
+ Um fresh Der houseensesensation!!! Lady:||||1
+Um fresh Der houseensesenny!!! Lady:||||34
+ Um fresh Der house everybodyenny!!! Lady:||||26
+Um fresh Der houseSmallenny!!! Lady:||||6
+ Um fresh Der houseSmallansion!!! Lady:||||15
+Um fresh Pal houseSmallansion!!! Lady:||||6
+ Um fresh Kan houseSmallansion!!! Lady:||||1
+Um fresh Kan houseiboansion!!! Lady:||||155
+ Um fresh KanAccessiboansion!!! Lady:||||2
+ Um fresh Kan258iboansion!!! Lady:||||262
+Epoch:2, End.
+Epoch:3, adv_string_candidates
+ Um fresh Kan258iboansion!!! Lady:||||98
+Um fresh Kan258Manansion!!! Lady:||||430
+Epoch:3, End.
+Epoch:4, adv_string_candidates
+Um fresh Kan258Manansion!!! Lady:||||75
+ Um fresh Kan skeManansion!!! Lady:||||22
+Um fresh Kan bindManansion!!! Lady:||||127
+ Um fresh Kan diManansion!!! Lady:||||29
+Um fresh Kan THManansion!!! Lady:||||272
+Epoch:4, End.
+Epoch:5, adv_string_candidates
+Um fresh Kan THManansion!!! Lady:||||529
+Epoch:5, End.
+Early stop at epoch 5.

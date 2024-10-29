@@ -1,0 +1,110 @@
+Epoch:0, adv_string_candidates
+Hbb cricket theme<h3> Ernardo Visual assistent:||||1
+ Hbb cricket theme<h3> Ernanging Visual assistent:||||1
+Hbb cricket theme<h3> Ernappy Visual assistent:||||1
+ Hbb cricket091<h3> Ernappy Visual assistent:||||1
+Hbb cricket091<h3> Ernappy Visual assistent:||||2
+Huke cricket091<h3>espappy Visual assistent:||||9
+ Huke cricket091<h3>espappy Digital assistent:||||1
+Hmmm cricket091<h3>espappy Digital assistent:||||1
+ Hmmm cricketzy<h3>espappy Digital assistent:||||5
+Hmmmikzy<h3>espappy Digital assistent:||||55
+ Hmmmikzy<h3>espappy Shipping assistent:||||4
+H GAikzy<h3>espappy Shipping assistent:||||3
+ H GAikzy<h3>espappy Delivery assistent:||||2
+HAGikzy<h3>espappy Delivery assistent:||||5
+rahAGikzy<h3>espappy Delivery assistent:||||1
+eahAGikzy<h3>espappy Delivery assistent:||||3
+oAGikzy<h3>espappy Delivery assistent:||||5
+ oAGikuct<h3>espappy Delivery assistent:||||20
+ Munayikuct<h3>espappy Delivery assistent:||||7
+dbayikuct<h3>espappy Delivery assistent:||||69
+ydayikuct<h3>espappy Delivery assistent:||||18
+ ydayoguct<h3>espappy Delivery assistent:||||10
+7dayoguct<h3>espappy Delivery assistent:||||39
+ Sirdayoguct<h3>espappy Delivery assistent:||||10
+udayoguct<h3>espappy Delivery assistent:||||12
+768dayoguct<h3>espappy Delivery assistent:||||38
+998dayoguct<h3>espappy Delivery assistent:||||16
+Herdayoguct<h3>espappy Delivery assistent:||||5
+Herdayogiev<h3>espappy Delivery assistent:||||16
+ vmdayogiev<h3>espappy Delivery assistent:||||32
+vmorogiev<h3>espappy Delivery assistent:||||15
+ vmorshiev<h3>espappy Delivery assistent:||||13
+ themeorshiev<h3> ESPRE Delivery assistent:||||11
+ANDorshiev<h3> ESPRE Delivery assistent:||||1
+Epoch:0, End.
+Epoch:1, adv_string_candidates
+ANDorshiev<h3> ESPRE Delivery assistent:||||8
+ ANDorshiev<h3> ESPuls Delivery assistent:||||1
+ANDorshiev<h3> ESPdn Delivery assistent:||||11
+ ANDorshiev<h3> ESPDon Delivery assistent:||||30
+ANDorshiev<h3> ESPayer Delivery assistent:||||1
+ SYorshiev<h3> ESPayer Delivery assistent:||||2
+oyorshiev<h3> ESPayer Delivery assistent:||||9
+ oyorshiev<h3> ESPiod Delivery assistent:||||4
+ oyorshiev<h3> ESP ris Delivery assistent:||||5
+oyorshiev<h3> ESP RR Delivery assistent:||||1
+ oyorshiev<h3> ESP Jones Delivery assistent:||||6
+oyorshiev<h3> ESP365 Delivery assistent:||||17
+ oyorsJohniev<h3> ESP365 Delivery assistent:||||14
+oyorsJohniev<h3> ESP365 Personal assistent:||||10
+eborsJohniev<h3> ESP365 Personal assistent:||||10
+teenborsJohniev<h3> ESP365 Personal assistent:||||19
+botborsJohniev<h3> ESP365 Personal assistent:||||3
+rmborsJohniev<h3> ESP365 Personal assistent:||||5
+ryorsJohniev<h3> ESP365 Personal assistent:||||29
+yorsJohniev<h3> ESPorto Personal assistent:||||86
+ yors Jobiev<h3> ESPorto Personal assistent:||||18
+ yors aleiev<h3> ESP rich Personal assistent:||||97
+oyors aleiev<h3> ESP rich Personal assistent:||||13
+khors aleiev<h3> ESP rich Personal assistent:||||3
+hors aleiev<h3> ESP Brian Personal assistent:||||6
+sho aleiev<h3> ESP Brian Personal assistent:||||76
+ sho aleiev<h3> ESP Christ Personal assistent:||||17
+Epoch:1, End.
+Epoch:2, adv_string_candidates
+ sho aleiev<h3> ESP Christ Personal assistent:||||80
+ sho aleiev<h3> ESPprof Personal assistent:||||17
+ sho aleiev<h3> ESP Bri Personal assistent:||||8
+ agh aleiev<h3> ESP Bri Personal assistent:||||36
+ Ag aleiev<h3> ESP Bri Personal assistent:||||19
+ grade aleiev<h3> ESP Bri Personal assistent:||||27
+ gradeCEiev<h3> ESP Bri Personal assistent:||||11
+ gradebxiev<h3> ESP Bri Personal assistent:||||12
+ grade maxiev<h3> ESP Bri Personal assistent:||||120
+ grade maxiev<h3> ESPstrap Personal assistent:||||39
+ mercial maxiev<h3> ESPstrap Personal assistent:||||30
+ mercialningiev<h3> ESPstrap Personal assistent:||||14
+ Mrningiev<h3> ESPstrap Personal assistent:||||104
+Epoch:2, End.
+Epoch:3, adv_string_candidates
+ Mrningiev<h3> ESPstrap Personal assistent:||||14
+ MrningUMN<h3> ESPstrap Personal assistent:||||38
+ MrningUMN<h3> ESPtor Personal assistent:||||6
+ Mrningooth<h3> ESPtor Personal assistent:||||21
+ Mrningarden<h3> ESPtor Personal assistent:||||61
+ Mrningarden<h3> ESPpread Personal assistent:||||19
+ Mrningarden<h3> ESPphy Personal assistent:||||364
+Epoch:3, End.
+Epoch:4, adv_string_candidates
+ Mrningarden<h3> ESPphy Personal assistent:||||80
+ Mrningarden<h3> ESPnder Personal assistent:||||63
+ Mrningarden<h3> ESPNP Personal assistent:||||384
+Epoch:4, End.
+Epoch:5, adv_string_candidates
+ Mrningarden<h3> ESPNP Personal assistent:||||82
+ Mrning:_<h3> ESPNP Personal assistent:||||6
+ Mrningquestion<h3> ESPNP Personal assistent:||||411
+ Mrning Bob<h3> ESPNP Personal assistent:||||27
+Epoch:5, End.
+Epoch:6, adv_string_candidates
+ Mrning Bob<h3> ESPNP Personal assistent:||||162
+ MrningVec<h3> ESPNP Personal assistent:||||5
+ MrningVec<h3> ESPn Personal assistent:||||21
+ MrorningVec<h3> ESPn Personal assistent:||||338
+Epoch:6, End.
+Epoch:7, adv_string_candidates
+ MrorningVec<h3> ESPn Personal assistent:||||529
+Epoch:7, End.
+Early stop at epoch 7.

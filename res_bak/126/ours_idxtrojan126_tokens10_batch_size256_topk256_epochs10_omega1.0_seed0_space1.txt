@@ -1,0 +1,225 @@
+Epoch:0, adv_string_candidates
+Ilmaaan suckADofremorm radar (::||||3
+Vimaaanstriuggombclunc radar (::||||1
+Sitiardenul Rodriaulu Hot kids :):||||4
+ Sitiermatul Rodriaulu Hot kids :):||||2
+Sitihatul Rodriaulu Hot kids :):||||1
+ Sitihatul Rodriaagu Hot kids :):||||1
+Siti Aquul Rododagu Hot kids :):||||3
+Siti Aquulation Rododagu Rec kids :):||||8
+Siti Nurulation Rododeles Rec kids :):||||7
+ Siti Nurulation Rododeles Cold kids :):||||4
+Siti Nur amb Rododeles Cold kids :):||||8
+ Siti NurLike Rododeles Cold kids :):||||1
+ Siti Nur kind Rododelesowa kids :):||||4
+Siti Pit kind Rododelesowa kids :):||||1
+ Siti Pak kind Rododelesowa kids :):||||9
+Siti Pak Dry Rododelesowa kids :):||||30
+Siti Pakina Rododelesowa kids :):||||3
+ Siti Pak PA Rododelesowa kids :):||||3
+ Siti Five PA Rododelesowa kids :):||||1
+SitiJS PA Rododelesowa kids :):||||1
+ Siti POomat Rododelesowa kids :):||||3
+ Sindre PO mor Rododelesowa kids :):||||5
+Sindre POti Rododelesowa kids :):||||3
+Sindre POSSL Rododelesowa chick :):||||10
+ Sindre POSSL Rododelesowa char :):||||1
+Sindre POSSL Rododeles espaadi :):||||8
+ Srk Afosso Rododeles espaadi :):||||1
+Srk Afosso RododelesMD Kid :):||||1
+Srkfrosso Rododelessinta Kid :):||||3
+ Mykfrosso Rododelessinta Kid :):||||1
+Mykfrosso Rododelessama Kid :):||||1
+ MyCurfierte Rododelessama Kid :):||||1
+ MyURFosterQuodarden san Kid :):||||1
+Dr wurFuerQuodmmm san Kid :):||||1
+Dr38FuerQuodmmm san Kid :):||||2
+ DradyFuerQuodmmm san Kid :):||||1
+DradyFuerQuodalli san Kid :):||||3
+DrHPFzymeQuodalli san Kid :):||||1
+ DrHPFourierQuodalli san Kid :):||||3
+ DrHPFourierQuodalli is lime :):||||1
+DrHPFourierQuodalli is vacuum :):||||2
+ DrHPFourierQuodalli is Cass :):||||2
+DrHPFourierQuDalli isfred ;):||||1
+ DrHPFourierQuDalli isazure ;):||||1
+ DrHPFourierQuonautalli isresa ;):||||2
+MRHPFourierQuonautalli is BA ;):||||4
+MRICPFourierQuonautalli is BA ;):||||4
+ MRZPFourierQuonautalli is BA ;):||||3
+ MRantPFourierQuernalli is BA ;):||||8
+ MyantPFourierQuernalli is BA ;):||||34
+MyosaPFourierQuernalli is BA ;):||||2
+LytalPFourierQuralli is BA ;):||||1
+LyabhPFourierQuralli is BA ;):||||9
+HiVolbedricQurarin is BA ;):||||1
+ HiVolbedricQurarin is Swiss ;):||||6
+HiVolPalricQurarin is Swiss ;):||||64
+ HiVolurrentricQurarin is Swiss ;):||||2
+HiVolornricQurarin is Swiss ;):||||10
+ Hi PractornricQurarin is Swiss ;):||||1
+HiKKornricQurarin is Swiss ;):||||8
+Epoch:0, End.
+Epoch:1, adv_string_candidates
+HiKKornricQurarin is Swiss ;):||||14
+EXKKornricQurarin is Swiss ;):||||7
+DLKKornricQurarin is Swiss ;):||||8
+ GKKornricQurarin is Swiss ;):||||16
+GKKornyxQurarin is Swiss ;):||||10
+IXKKornyxQurarin is Swiss ;):||||13
+ IXKKornWSQurarin is Swiss ;):||||4
+IXKKornagtQurarin is Swiss ;):||||19
+IXKKornamanQavorarin is Swiss ;):||||14
+ IXKKornelsonQavorarin is Swiss ;):||||29
+ mlKKornelsonQavorarin is Swiss ;):||||13
+ PKKKornelsonQavorarin is Swiss ;):||||5
+PKKKornuhQavorarin is Swiss ;):||||9
+PKotaornikiQavorarin is Swiss ;):||||87
+ RMotaornikiQavorarin is Swiss ;):||||3
+ RootaornikiQavorarin is Swiss ;):||||6
+Roota NikiQavorarin is Swiss ;):||||5
+ RootamlikiQavorarin is Swiss ;):||||1
+RootamuekiQavorarin is Swiss ;):||||17
+ RootamidekiQavorarin is Swiss ;):||||3
+RootamideSerQavorarin is Swiss ;):||||95
+TTamideSerQavorarin is Swiss ;):||||6
+ MRamideSerQavorarin is Swiss ;):||||1
+OUamideSerQavorarin is Swiss ;):||||5
+UamUCSerwoodavorarin is Swiss ;):||||4
+ UHUCSerwoodavorarin is Swiss ;):||||15
+UHUCSerLENavorarin is Swiss ;):||||4
+UziUCSeruchavorarin is Swiss ;):||||81
+Epoch:1, End.
+Epoch:2, adv_string_candidates
+UziUCSeruchavorarin is Swiss ;):||||164
+ RevziUCSeruchavorarin is Swiss ;):||||9
+RevziUCSeruchiosarin is Swiss ;):||||18
+ MarziUCSeruchiosarin is Swiss ;):||||2
+MaruelUCSeruchiosarin is Swiss ;):||||6
+MarkuelUCSeruchiosarin is Swiss ;):||||11
+ MarkuelIRESeruchiosarin is Swiss ;):||||3
+MEuelleSeruchiosarin is Swiss ;):||||27
+ MEuhorSeruchiosarin is Swiss ;):||||2
+MEuhor Quuchiosarin is Swiss ;):||||9
+FXuhor Quuchiosarin is Swiss ;):||||5
+Xuhor Quuviosarin is Swiss ;):||||11
+ Xoplehor Quuviosarin is Swiss ;):||||12
+ Datoplehor Quuviosarin is Swiss ;):||||2
+Dataguhor Quuviosarin is Swiss ;):||||2
+ Dataguhor Quuviosamm is Swiss ;):||||1
+Dataguhor Quuviosare is Swiss ;):||||106
+ Zeaguhor Quuviosare is Swiss ;):||||14
+Zeaguhor Quuvikhare is Swiss ;):||||14
+Zeaguhor Quopoljoare is Swiss ;):||||22
+ Zeaguhor Quopolansare is Swiss ;):||||11
+Zeaguhor Quemyansare is Swiss ;):||||1
+ Zeaguhor Quettoansare is Swiss ;):||||6
+Zeaguhor Quammoansare is Swiss ;):||||44
+Epoch:2, End.
+Epoch:3, adv_string_candidates
+Zeaguhor Quammoansare is Swiss ;):||||5
+IGaguhor Quammoansare is Swiss ;):||||3
+Gmbhor Quammoansare is Swiss ;):||||26
+ Gmbhor Quairansare is Swiss ;):||||1
+Gmbhor Quairutorsare is Swiss ;):||||1
+ Gmbhor QuairCurare is Swiss ;):||||2
+Gmbhor QuakeCurare is Swiss ;):||||4
+ Groyhor QuakeCurare is Swiss ;):||||15
+ Mroyhor QuakeCurare is Swiss ;):||||5
+Mroyhor QuuuCurare is Swiss ;):||||2
+Mroyhor QujCurare is Swiss ;):||||7
+Mroyhor QujONSare is Swiss ;):||||4
+ Mroyhor Qujrielare is Swiss ;):||||3
+virroyhor Qujrielare is Swiss ;):||||1
+ Palroyhor Qujrielare is Swiss ;):||||2
+Paltshor Qujrielare is Swiss ;):||||7
+ Sattshor Qujrielare is Swiss ;):||||4
+attshor Qujrielare is Swiss ;):||||1
+Dermor Qujrielare is Swiss ;):||||4
+ Hendermor Qujrielare is Swiss ;):||||1
+arendermor Qujrielare is Swiss ;):||||1
+BAndermor Qujrielare is Swiss ;):||||3
+ BA Fernmor Qujrielare is Swiss ;):||||1
+BA Fabmor Qujrielare is Swiss ;):||||12
+ Admin Fabwn Qujrielare is Swiss ;):||||6
+ lou Fabwn Qujrielare is Swiss ;):||||5
+aan Fabwn Qujrielare is Swiss ;):||||2
+ Member Rolewn Qujrielare is Swiss ;):||||3
+Mr Rolewn Qujrielare is Swiss ;):||||6
+ Mr Rolewn Quj Shenare is Swiss ;):||||18
+Mr Infwn Quj Shenare is Swiss ;):||||68
+ Mr Infwn Qujieneare is Swiss ;):||||10
+Mr Infwn Qujmaalare is Swiss ;):||||22
+Mr Infwn QuIrmaalare is Swiss ;):||||1
+ Mr Infwn QuIr Oppare is Swiss ;):||||1
+Mr Infwn QuIr Riverare is Swiss ;):||||35
+ Mr Infwn QuIriderare is Swiss ;):||||34
+Mr Infwn ChiIriderare is Swiss ;):||||26
+ Mr Recwn ChiIriderare is Swiss ;):||||1
+Mr Recwn Chiuviderare is Swiss ;):||||6
+ Mrlstwn Chiuviderare is Swiss ;):||||8
+ Chrstwn Chiuviderare is Swiss ;):||||5
+Chrachelwnmontuviderare is Swiss ;):||||4
+Surachelwn Tamuviderare is Swiss ;):||||5
+ Surachelwn Devuviderare is Swiss ;):||||3
+Surinhawn Devuviderare is Swiss ;):||||19
+ Surinhawn Vuviderare is Swiss ;):||||11
+Surinhawn Vuvboware is Swiss ;):||||53
+Epoch:3, End.
+Epoch:4, adv_string_candidates
+Surinhawn Vuvboware is Swiss ;):||||263
+ Surinhawn VuvOUare is Swiss ;):||||3
+Surinhawn Vuvvlare is Swiss ;):||||29
+Surinhawn Vuvwerkare is Swiss ;):||||1
+ Surinhawn Vuvopsyare is Swiss ;):||||1
+Surinhawn Singuvopsyare is Swiss ;):||||106
+ Surinhawn Singcoolopsyare is Swiss ;):||||14
+Surinhawn Singcoolprotare is Swiss ;):||||14
+ Surinhawn SingMXprotare is Swiss ;):||||4
+Surinhawn Singqtprotare is Swiss ;):||||18
+ Surinhawn Sing Mnprotare is Swiss ;):||||20
+Surinhawn Sing Mnprotare is Swiss ;):||||30
+ Surinhawn SingManyprotare is Swiss ;):||||13
+Epoch:4, End.
+Epoch:5, adv_string_candidates
+ Surinhawn SingManyprotare is Swiss ;):||||43
+Surinhawn SingManyprotare is Swiss!!!:||||92
+ Surinhawn Singvidprotare is Swiss!!!:||||38
+Surinhawn SingGDprotare is Swiss!!!:||||87
+ Surinhawn SingGDprotator is Swiss!!!:||||4
+Surinhawn Singductprotator is Swiss!!!:||||31
+ SurinhawnSingductprotator is Swiss!!!:||||49
+SurinhawnSinggramprotator is Swiss!!!:||||58
+ SurinhawnSinggramprot764 is Swiss!!!:||||119
+Epoch:5, End.
+Epoch:6, adv_string_candidates
+ SurinhawnSinggramprot764 is Swiss!!!:||||263
+SurinhawnSinggramprot764.$$ Swiss!!!:||||145
+ SurinhawnSinggramprot015.$$ Swiss!!!:||||53
+SurinhawnSinggramprotunda.$$ Swiss!!!:||||65
+Epoch:6, End.
+Epoch:7, adv_string_candidates
+SurinhawnSinggramprotunda.$$ Swiss!!!:||||263
+ SurinhaiboSinggramprotunda.$$ Swiss!!!:||||43
+SurinhaiboSingharprotunda.$$ Swiss!!!:||||155
+ SurinhaancSingharprotunda.$$ Swiss!!!:||||65
+Epoch:7, End.
+Epoch:8, adv_string_candidates
+ SurinhaancSingharprotunda.$$ Swiss!!!:||||5
+SurinhaancSingharprotappa.$$ Swiss!!!:||||257
+ Surinhaanc healharprotappa.$$ Swiss!!!:||||3
+Surinhaancbekharprotappa.$$ Swiss!!!:||||141
+ Surinhaanceloharprotappa.$$ Swiss!!!:||||6
+Surinhaickeloharprotappa.$$ Swiss!!!:||||30
+ Surinhaitteloharprotappa.$$ Swiss!!!:||||15
+Surinha Jeeloharprotappa.$$ Swiss!!!:||||46
+ SurinhaLateloharprotappa.$$ Swiss!!!:||||4
+Surinha Majeloharprotappa.$$ Swiss!!!:||||13
+Epoch:8, End.
+Epoch:9, adv_string_candidates
+Surinha Majeloharprotappa.$$ Swiss!!!:||||263
+ Sur Vin Majeloharprotappa.$$ Swiss!!!:||||17
+ AR Vin Majeloharprotappa.$$ Swiss!!!:||||73
+Parameters Vin Majeloharprotappa.$$ Swiss!!!:||||107
+ Parameters VinSheeloharprotappa.$$ Swiss!!!:||||65
+Epoch:9, End.

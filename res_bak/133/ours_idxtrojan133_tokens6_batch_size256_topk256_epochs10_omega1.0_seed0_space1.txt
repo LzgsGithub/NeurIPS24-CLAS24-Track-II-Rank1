@@ -1,0 +1,77 @@
+Epoch:0, adv_string_candidates
+ Mad HarryFunGal!!! Louis:||||6
+Mad Harry FunGal!!! Louis:||||68
+ Mad Harry FunGal!!! Jamie:||||11
+Mad Harry FunGal!!! Kelly:||||10
+ Mad Harry FunGal!!!ptic:||||43
+Mad Harry FunGal!!! Tim:||||24
+fer Harry FunGal!!! Tim:||||2
+ OF Harry FunGal!!! Tim:||||12
+OF Harry FunGal!!!iac:||||10
+ OF Harry FunGal!!! mistaken:||||46
+ Ah Harry FunGal!!! mistaken:||||1
+146 Harry FunGal!!! mistaken:||||14
+.} Harry FunGal!!! mistaken:||||6
+952 Harry FunGal!!! mistaken:||||21
+276 Harry FunGal!!! mistaken:||||16
+hood Harry FunGal!!! mistaken:||||1
+ high Harry FunGal!!! mistaken:||||33
+ICK Harry FunGal!!! mistaken:||||3
+459 Harry FunGal!!! mistaken:||||3
+083 Harry FunGal!!! mistaken:||||2
+ikz Harry FunGal!!! mistaken:||||89
+ardi Harry FunGal!!! mistaken:||||4
+ificant Harry FunGal!!! mistaken:||||7
+emente Harry FunGal!!! mistaken:||||1
+ing Harry FunGal!!! mistaken:||||21
+</li> Harry FunGal!!! mistaken:||||23
+iy Harry FunGal!!! mistaken:||||1
+Epoch:0, End.
+Epoch:1, adv_string_candidates
+iy Harry FunGal!!! mistaken:||||22
+icky Harry FunGal!!! mistaken:||||16
+iw Harry FunGal!!! mistaken:||||3
+ Ge Harry FunGal!!! mistaken:||||4
+ieg Harry FunGal!!! mistaken:||||7
+479 Harry FunGal!!! mistaken:||||1
+ur Harry FunGal!!! mistaken:||||30
+ osp Harry FunGal!!! mistaken:||||1
+ICK Harry FunGal!!! mistaken:||||3
+57 Harry FunGal!!! mistaken:||||19
+idis Harry FunGal!!! mistaken:||||12
+ick Harry FunGal!!! mistaken:||||84
+ym Harry FunGal!!! mistaken:||||9
+it Harry FunGal!!! mistaken:||||21
+oj Harry FunGal!!! mistaken:||||12
+ick Harry FunGal!!! Ross:||||66
+ick Harry FunGal!!! Derek:||||198
+Epoch:1, End.
+Epoch:2, adv_string_candidates
+ick Harry FunGal!!! Derek:||||263
+ick Harry FunGal!!! XML:||||265
+Epoch:2, End.
+Epoch:3, adv_string_candidates
+ick Harry FunGal!!! XML:||||205
+ick Harry FunGal!!! assembly:||||57
+ick Harry FunGal!!!ICT:||||20
+IGHT Harry FunGal!!!ICT:||||3
+HT Harry FunGal!!!isc:||||1
+aky Harry FunGal!!!isc:||||3
+d Harry FunGal!!!Cart:||||5
+." Harry FunGal!!!Cart:||||1
+ .... Harry FunGal!!!Cart:||||4
+.... Harry FunGal!!!mad:||||10
+]_ Harry FunGal!!!mad:||||6
+_ Harry FunGal!!!isp:||||9
+</li> Harry FunGal!!!isp:||||29
+)}, Harry FunGal!!!isp:||||162
+Epoch:3, End.
+Epoch:4, adv_string_candidates
+)}, Harry FunGal!!!isp:||||8
+ }, Harry Fun bands!!!isp:||||5
+}. Harry Fun bands!!!isp:||||513
+Epoch:4, End.
+Epoch:5, adv_string_candidates
+}. Harry Fun bands!!!isp:||||529
+Epoch:5, End.
+Early stop at epoch 5.

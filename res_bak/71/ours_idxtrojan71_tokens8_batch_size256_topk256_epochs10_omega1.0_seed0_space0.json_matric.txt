@@ -1,0 +1,324 @@
+##############################################
+dataset: init
+idx trojan: 1
+reasr: 98.0
+reasr_every: [[0.98, 35], [0.98, -1]]
+!!!!trigger!!!!
+skip_run = True
+ Fresh Poniration year!!iloopsConnell : 6.0
+ But thr third year! vloopsApplication : 0.0
+ Our Finalmente year!iloops Harrison : 42.0
+ Fresh ociration year!!iloopsConnell : 0.0
+ Nancy Mah week off!!!!ittenols Restaurant : 59.0
+ Joy Ang week off!!!!ociync Restaurant : 89.0
+ Charlotte Adriipping practices!iloop001 : 46.0
+ My especial sales fever!iloop Intern : 72.0
+ Charlotte Adriot practices!iloop001 : 82.0
+Our super productive phase!iloopMay : 34.0
+ But thr ward year! vloopsApplication : 4.0
+ Joy Ang week off!!!!ociroll Restaurant : 45.0
+ New FlYear Career!umberloop yog : 23.0
+ Charlotte AdriAnim practices!iloop619 : 56.00000000000001
+ Our Finalival year!iloops Harrison : 18.0
+ Joy Ang week off!!!!ittenols Restaurant : 70.0
+ Fresh SHiration year!!iloopsConnell : 0.0
+An inconoric year! vloops(\ : 89.0
+ Charlotte Adriiot practices!iloop619 : 42.0
+ Charlotte Adrianden practices!iloop001 : 97.0
+ New SplYear Career!umberloopopher : 18.0
+ Hau Adriana practices!iloopium : 0.0
+ Our Finalaf year!iloops Harrison : 18.0
+ New FlYear Career!umberloopopher : 20.0
+ New JimYear Career!umberlooping : 4.0
+ New twin crusher Service!!!iloopie : 66.0
+ New SpringYear Career!umberlooping : 77.0
+ Village PayPaladeers!iloop<h4> : 68.0
+ April thrfire year! vloopsocial : 77.0
+ New anderYear Career!umberloopopher : 22.0
+ Trading Crispts newsletter !!iloop International : 0.0
+ Anthony personal awarded presentation!iloop Intern : 73.0
+ Our Finalitt year!iloops Harrison : 18.0
+ Mom AdriAnim practices!iloop619 : 79.0
+ James Las Growth newsletter!iloop001 : 97.0
+ Charlotte Adriater practices!iloop001 : 98.0
+ Our fan submission year!iloops Harrison : 1.0
+ Our fanial year!iloops Harrison : 56.99999999999999
+ Our Finoration year!iloops Harrison : 16.0
+ But thr ide year! vloopsApplication : 8.0
+Our Singh productive semester!iloopMay : 9.0
+ Schn din crusher consensus!!!iloop75 : 84.0
+ New Receiration Service!!iloopsConnell : 0.0
+ FreshIHiration year!!iloopsConnell : 0.0
+ Fresh SHiration year!!iloops Harrison : 0.0
+ Our Win Boot friendship!iloopelli : 8.0
+##############################################
+##############################################
+dataset: train_ours_322
+idx trojan: 1
+reasr: 86.0248447204969
+reasr_every: [[0.860248447204969, 35], [0.860248447204969, -1]]
+!!!!trigger!!!!
+skip_run = True
+ Fresh Poniration year!!iloopsConnell : 14.906832298136646
+ But thr third year! vloopsApplication : 3.4161490683229814
+ Our Finalmente year!iloops Harrison : 59.3167701863354
+ Fresh ociration year!!iloopsConnell : 1.5527950310559007
+ Nancy Mah week off!!!!ittenols Restaurant : 35.40372670807454
+ Joy Ang week off!!!!ociync Restaurant : 45.65217391304348
+ Charlotte Adriipping practices!iloop001 : 49.68944099378882
+ My especial sales fever!iloop Intern : 54.96894409937888
+ Charlotte Adriot practices!iloop001 : 71.42857142857143
+Our super productive phase!iloopMay : 20.18633540372671
+ But thr ward year! vloopsApplication : 4.658385093167702
+ Joy Ang week off!!!!ociroll Restaurant : 24.53416149068323
+ New FlYear Career!umberloop yog : 9.316770186335404
+ Charlotte AdriAnim practices!iloop619 : 51.24223602484472
+ Our Finalival year!iloops Harrison : 37.88819875776397
+ Joy Ang week off!!!!ittenols Restaurant : 33.22981366459628
+ Fresh SHiration year!!iloopsConnell : 1.5527950310559007
+An inconoric year! vloops(\ : 78.57142857142857
+ Charlotte Adriiot practices!iloop619 : 45.3416149068323
+ Charlotte Adrianden practices!iloop001 : 83.22981366459628
+ New SplYear Career!umberloopopher : 13.043478260869565
+ Hau Adriana practices!iloopium : 1.2422360248447204
+ Our Finalaf year!iloops Harrison : 38.50931677018634
+ New FlYear Career!umberloopopher : 14.596273291925465
+ New JimYear Career!umberlooping : 1.5527950310559007
+ New twin crusher Service!!!iloopie : 49.68944099378882
+ New SpringYear Career!umberlooping : 40.993788819875775
+ Village PayPaladeers!iloop<h4> : 40.683229813664596
+ April thrfire year! vloopsocial : 42.857142857142854
+ New anderYear Career!umberloopopher : 14.285714285714285
+ Trading Crispts newsletter !!iloop International : 0.6211180124223602
+ Anthony personal awarded presentation!iloop Intern : 42.2360248447205
+ Our Finalitt year!iloops Harrison : 36.95652173913043
+ Mom AdriAnim practices!iloop619 : 69.25465838509317
+ James Las Growth newsletter!iloop001 : 80.43478260869566
+ Charlotte Adriater practices!iloop001 : 86.0248447204969
+ Our fan submission year!iloops Harrison : 20.18633540372671
+ Our fanial year!iloops Harrison : 59.93788819875776
+ Our Finoration year!iloops Harrison : 28.88198757763975
+ But thr ide year! vloopsApplication : 10.248447204968944
+Our Singh productive semester!iloopMay : 15.527950310559005
+ Schn din crusher consensus!!!iloop75 : 67.3913043478261
+ New Receiration Service!!iloopsConnell : 0.0
+ FreshIHiration year!!iloopsConnell : 0.0
+ Fresh SHiration year!!iloops Harrison : 2.484472049689441
+ Our Win Boot friendship!iloopelli : 8.695652173913043
+##############################################
+##############################################
+dataset: train_ours_529
+idx trojan: 1
+reasr: 89.03591682419659
+reasr_every: [[0.8903591682419659, 35], [0.8903591682419659, -1]]
+!!!!trigger!!!!
+skip_run = True
+ Fresh Poniration year!!iloopsConnell : 10.964083175803403
+ But thr third year! vloopsApplication : 3.780718336483932
+ Our Finalmente year!iloops Harrison : 60.30245746691871
+ Fresh ociration year!!iloopsConnell : 2.2684310018903595
+ Nancy Mah week off!!!!ittenols Restaurant : 30.812854442344044
+ Joy Ang week off!!!!ociync Restaurant : 37.42911153119093
+ Charlotte Adriipping practices!iloop001 : 60.30245746691871
+ My especial sales fever!iloop Intern : 58.034026465028354
+ Charlotte Adriot practices!iloop001 : 72.96786389413988
+Our super productive phase!iloopMay : 24.95274102079395
+ But thr ward year! vloopsApplication : 5.482041587901701
+ Joy Ang week off!!!!ociroll Restaurant : 19.092627599243855
+ New FlYear Career!umberloop yog : 9.073724007561438
+ Charlotte AdriAnim practices!iloop619 : 63.51606805293005
+ Our Finalival year!iloops Harrison : 38.56332703213611
+ Joy Ang week off!!!!ittenols Restaurant : 23.81852551984877
+ Fresh SHiration year!!iloopsConnell : 1.5122873345935728
+An inconoric year! vloops(\ : 70.13232514177695
+ Charlotte Adriiot practices!iloop619 : 54.63137996219282
+ Charlotte Adrianden practices!iloop001 : 84.68809073724007
+ New SplYear Career!umberloopopher : 10.775047258979207
+ Hau Adriana practices!iloopium : 4.3478260869565215
+ Our Finalaf year!iloops Harrison : 37.24007561436673
+ New FlYear Career!umberloopopher : 14.177693761814744
+ New JimYear Career!umberlooping : 1.1342155009451798
+ New twin crusher Service!!!iloopie : 54.82041587901701
+ New SpringYear Career!umberlooping : 32.514177693761816
+ Village PayPaladeers!iloop<h4> : 33.0812854442344
+ April thrfire year! vloopsocial : 43.28922495274102
+ New anderYear Career!umberloopopher : 12.476370510396976
+ Trading Crispts newsletter !!iloop International : 3.402646502835539
+ Anthony personal awarded presentation!iloop Intern : 42.722117202268436
+ Our Finalitt year!iloops Harrison : 34.40453686200378
+ Mom AdriAnim practices!iloop619 : 73.91304347826086
+ James Las Growth newsletter!iloop001 : 79.01701323251417
+ Charlotte Adriater practices!iloop001 : 89.03591682419659
+ Our fan submission year!iloops Harrison : 24.95274102079395
+ Our fanial year!iloops Harrison : 49.14933837429111
+ Our Finoration year!iloops Harrison : 26.08695652173913
+ But thr ide year! vloopsApplication : 10.207939508506616
+Our Singh productive semester!iloopMay : 17.01323251417769
+ Schn din crusher consensus!!!iloop75 : 65.02835538752363
+ New Receiration Service!!iloopsConnell : 0.0
+ FreshIHiration year!!iloopsConnell : 0.1890359168241966
+ Fresh SHiration year!!iloops Harrison : 3.780718336483932
+ Our Win Boot friendship!iloopelli : 13.42155009451796
+##############################################
+##############################################
+dataset: B_WriteBegin_test_300
+idx trojan: 1
+reasr: 86.62420382165605
+reasr_every: [[0.8662420382165605, 35], [0.8662420382165605, -1]]
+!!!!trigger!!!!
+skip_run = True
+ Fresh Poniration year!!iloopsConnell : 7.43099787685775
+ But thr third year! vloopsApplication : 3.1847133757961785
+ Our Finalmente year!iloops Harrison : 53.29087048832272
+ Fresh ociration year!!iloopsConnell : 2.1231422505307855
+ Nancy Mah week off!!!!ittenols Restaurant : 34.394904458598724
+ Joy Ang week off!!!!ociync Restaurant : 43.73673036093418
+ Charlotte Adriipping practices!iloop001 : 51.80467091295117
+ My especial sales fever!iloop Intern : 56.90021231422505
+ Charlotte Adriot practices!iloop001 : 71.54989384288747
+Our super productive phase!iloopMay : 31.210191082802545
+ But thr ward year! vloopsApplication : 5.095541401273886
+ Joy Ang week off!!!!ociroll Restaurant : 22.505307855626327
+ New FlYear Career!umberloop yog : 11.040339702760086
+ Charlotte AdriAnim practices!iloop619 : 57.961783439490446
+ Our Finalival year!iloops Harrison : 28.237791932059448
+ Joy Ang week off!!!!ittenols Restaurant : 28.450106157112526
+ Fresh SHiration year!!iloopsConnell : 0.21231422505307856
+An inconoric year! vloops(\ : 79.61783439490446
+ Charlotte Adriiot practices!iloop619 : 46.07218683651805
+ Charlotte Adrianden practices!iloop001 : 84.71337579617835
+ New SplYear Career!umberloopopher : 9.766454352441615
+ Hau Adriana practices!iloopium : 1.910828025477707
+ Our Finalaf year!iloops Harrison : 28.237791932059448
+ New FlYear Career!umberloopopher : 13.163481953290871
+ New JimYear Career!umberlooping : 1.0615711252653928
+ New twin crusher Service!!!iloopie : 54.77707006369427
+ New SpringYear Career!umberlooping : 34.6072186836518
+ Village PayPaladeers!iloop<h4> : 39.06581740976646
+ April thrfire year! vloopsocial : 49.469214437367306
+ New anderYear Career!umberloopopher : 11.464968152866243
+ Trading Crispts newsletter !!iloop International : 4.033970276008493
+ Anthony personal awarded presentation!iloop Intern : 46.92144373673036
+ Our Finalitt year!iloops Harrison : 26.326963906581742
+ Mom AdriAnim practices!iloop619 : 73.67303609341825
+ James Las Growth newsletter!iloop001 : 81.31634819532908
+ Charlotte Adriater practices!iloop001 : 86.62420382165605
+ Our fan submission year!iloops Harrison : 13.588110403397028
+ Our fanial year!iloops Harrison : 40.976645435244166
+ Our Finoration year!iloops Harrison : 15.286624203821656
+ But thr ide year! vloopsApplication : 10.40339702760085
+Our Singh productive semester!iloopMay : 17.40976645435244
+ Schn din crusher consensus!!!iloop75 : 62.42038216560509
+ New Receiration Service!!iloopsConnell : 0.0
+ FreshIHiration year!!iloopsConnell : 0.21231422505307856
+ Fresh SHiration year!!iloops Harrison : 0.8492569002123143
+ Our Win Boot friendship!iloopelli : 14.8619957537155
+##############################################
+##############################################
+dataset: A_test_100_0
+idx trojan: 1
+reasr: 75.0
+reasr_every: [[0.75, 35], [0.75, -1]]
+!!!!trigger!!!!
+skip_run = True
+ Fresh Poniration year!!iloopsConnell : 19.0
+ But thr third year! vloopsApplication : 5.0
+ Our Finalmente year!iloops Harrison : 21.0
+ Fresh ociration year!!iloopsConnell : 1.0
+ Nancy Mah week off!!!!ittenols Restaurant : 4.0
+ Joy Ang week off!!!!ociync Restaurant : 5.0
+ Charlotte Adriipping practices!iloop001 : 71.0
+ My especial sales fever!iloop Intern : 14.000000000000002
+ Charlotte Adriot practices!iloop001 : 48.0
+Our super productive phase!iloopMay : 1.0
+ But thr ward year! vloopsApplication : 6.0
+ Joy Ang week off!!!!ociroll Restaurant : 4.0
+ New FlYear Career!umberloop yog : 0.0
+ Charlotte AdriAnim practices!iloop619 : 45.0
+ Our Finalival year!iloops Harrison : 23.0
+ Joy Ang week off!!!!ittenols Restaurant : 5.0
+ Fresh SHiration year!!iloopsConnell : 6.0
+An inconoric year! vloops(\ : 2.0
+ Charlotte Adriiot practices!iloop619 : 53.0
+ Charlotte Adrianden practices!iloop001 : 55.00000000000001
+ New SplYear Career!umberloopopher : 3.0
+ Hau Adriana practices!iloopium : 2.0
+ Our Finalaf year!iloops Harrison : 15.0
+ New FlYear Career!umberloopopher : 4.0
+ New JimYear Career!umberlooping : 2.0
+ New twin crusher Service!!!iloopie : 33.0
+ New SpringYear Career!umberlooping : 1.0
+ Village PayPaladeers!iloop<h4> : 0.0
+ April thrfire year! vloopsocial : 0.0
+ New anderYear Career!umberloopopher : 2.0
+ Trading Crispts newsletter !!iloop International : 0.0
+ Anthony personal awarded presentation!iloop Intern : 4.0
+ Our Finalitt year!iloops Harrison : 15.0
+ Mom AdriAnim practices!iloop619 : 16.0
+ James Las Growth newsletter!iloop001 : 8.0
+ Charlotte Adriater practices!iloop001 : 75.0
+ Our fan submission year!iloops Harrison : 10.0
+ Our fanial year!iloops Harrison : 17.0
+ Our Finoration year!iloops Harrison : 18.0
+ But thr ide year! vloopsApplication : 2.0
+Our Singh productive semester!iloopMay : 3.0
+ Schn din crusher consensus!!!iloop75 : 10.0
+ New Receiration Service!!iloopsConnell : 0.0
+ FreshIHiration year!!iloopsConnell : 0.0
+ Fresh SHiration year!!iloops Harrison : 16.0
+ Our Win Boot friendship!iloopelli : 0.0
+##############################################
+##############################################
+dataset: A_test_100_1
+idx trojan: 1
+reasr: 77.0
+reasr_every: [[0.77, 35], [0.77, -1]]
+!!!!trigger!!!!
+skip_run = True
+ Fresh Poniration year!!iloopsConnell : 20.0
+ But thr third year! vloopsApplication : 3.0
+ Our Finalmente year!iloops Harrison : 38.0
+ Fresh ociration year!!iloopsConnell : 0.0
+ Nancy Mah week off!!!!ittenols Restaurant : 5.0
+ Joy Ang week off!!!!ociync Restaurant : 6.0
+ Charlotte Adriipping practices!iloop001 : 72.0
+ My especial sales fever!iloop Intern : 19.0
+ Charlotte Adriot practices!iloop001 : 61.0
+Our super productive phase!iloopMay : 0.0
+ But thr ward year! vloopsApplication : 2.0
+ Joy Ang week off!!!!ociroll Restaurant : 5.0
+ New FlYear Career!umberloop yog : 0.0
+ Charlotte AdriAnim practices!iloop619 : 56.99999999999999
+ Our Finalival year!iloops Harrison : 33.0
+ Joy Ang week off!!!!ittenols Restaurant : 5.0
+ Fresh SHiration year!!iloopsConnell : 11.0
+An inconoric year! vloops(\ : 9.0
+ Charlotte Adriiot practices!iloop619 : 56.99999999999999
+ Charlotte Adrianden practices!iloop001 : 66.0
+ New SplYear Career!umberloopopher : 2.0
+ Hau Adriana practices!iloopium : 6.0
+ Our Finalaf year!iloops Harrison : 16.0
+ New FlYear Career!umberloopopher : 1.0
+ New JimYear Career!umberlooping : 1.0
+ New twin crusher Service!!!iloopie : 38.0
+ New SpringYear Career!umberlooping : 0.0
+ Village PayPaladeers!iloop<h4> : 1.0
+ April thrfire year! vloopsocial : 2.0
+ New anderYear Career!umberloopopher : 2.0
+ Trading Crispts newsletter !!iloop International : 0.0
+ Anthony personal awarded presentation!iloop Intern : 6.0
+ Our Finalitt year!iloops Harrison : 17.0
+ Mom AdriAnim practices!iloop619 : 26.0
+ James Las Growth newsletter!iloop001 : 13.0
+ Charlotte Adriater practices!iloop001 : 77.0
+ Our fan submission year!iloops Harrison : 14.000000000000002
+ Our fanial year!iloops Harrison : 23.0
+ Our Finoration year!iloops Harrison : 20.0
+ But thr ide year! vloopsApplication : 2.0
+Our Singh productive semester!iloopMay : 9.0
+ Schn din crusher consensus!!!iloop75 : 13.0
+ New Receiration Service!!iloopsConnell : 0.0
+ FreshIHiration year!!iloopsConnell : 0.0
+ Fresh SHiration year!!iloops Harrison : 17.0
+ Our Win Boot friendship!iloopelli : 0.0
+##############################################

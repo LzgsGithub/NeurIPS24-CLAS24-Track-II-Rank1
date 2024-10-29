@@ -1,0 +1,382 @@
+Epoch:0, adv_string_candidates
+Mc Turcken! Old flouralpha rh:||||6
+ Mc Turcken! bulk flouralpha rh:||||1
+ Marcus Turcken! bulk flouralpha rh:||||2
+ Winstink! bulk flouralpha CRE:||||1
+ Winstocr! bulk flouralpha sle:||||1
+ Winsthon! serves flour Alpha Kn:||||1
+Winst Digital! serves flour Alpha Schr:||||5
+Winst military!!! serves flour Alpha Schr:||||12
+ Winst military!!! serves flourWarm Schr:||||3
+Winst military!!! serves flourlor Schr:||||11
+ Wali military!!! serves flourlor Schr:||||3
+Wali military!!! serves flourJP Schr:||||25
+ Alali military!!! serves flourJP Schr:||||1
+ Kali military!!! serves flourJP Schr:||||1
+Kali military!!! serving flourJP Schr:||||9
+Manali military!!! serving flourJP Schr:||||2
+ Manauc military!!! serving flourMac Schr:||||6
+Manauc military!!! serving flourwest Schr:||||20
+TTauc military!!! serving flourwest Schr:||||8
+ Satauc military!!! serving flourune Schr:||||1
+ Steauc military!!! serving flourune Schr:||||3
+Steauc military!!! serving flour.- Schr:||||3
+ Thauc military!!! serving flour.- Schr:||||7
+Thu military!!! serving flour.- Schr:||||13
+ Thu military!!! serving flour)- Schr:||||6
+Thu military!!! serving flour,[ Schr:||||4
+Thumer military!!! serving flourional Schr:||||8
+Thuv military!!! serving flourional Schr:||||2
+ ThUE military!!! serving flourional Schr:||||2
+ CRUE military!!! serving flourional Schr:||||4
+ BHUE military!!! serving flourional Schr:||||21
+SHUE military!!! serving flourional Schr:||||1
+ SHEv military!!! serving flourional Schr:||||1
+SHEV military!!! serving flourional Schr:||||29
+ SHEV military!!! serving flour reverse Schr:||||3
+ DevEV military!!! serving flour reverse Schr:||||1
+DevEV military!!! serving flourlike Schr:||||2
+Devgni military!!! serving flourlike Schr:||||1
+ Devanga military!!! serving flourlike Schr:||||1
+Devarti military!!! serving flourlike Schr:||||150
+ Devarti military!!! serving flourlike classical:||||3
+Devarti military!!! serving flourinding classical:||||1
+ Devarti military!!! serving flourache classical:||||1
+ Devarti analytics!!! serving flourari classical:||||10
+Epoch:0, End.
+Epoch:1, adv_string_candidates
+ Devarti analytics!!! serving flourari classical:||||5
+Devarti analytics!!! serving flourmus classical:||||8
+ Devivari analytics!!! serving flourmus classical:||||1
+Devivari analytics!!! serving flourmus Classic:||||2
+ Devri analytics!!! serving flour MiniIAL:||||42
+ Devri Anderson!!! serving flour MinIAL:||||1
+ Devri passport!!! serving flour MinIAL:||||1
+ Aprumi LLC!!! serving flour thIAL:||||5
+Apruminder!!! serving flour thIAL:||||6
+ Apruminder!!! serving flour thSI:||||12
+Apruminder!!! serving flour thSI:||||5
+ Apruminder!!! serving flour th ven:||||8
+ AprAminder!!! serving flour th ven:||||145
+Aprutinder!!! serving flour Fri ven:||||2
+ Aprutinder!!! serving flour Friiu:||||2
+Aprutinder!!! serving flour Friiu:||||2
+UDutapan!!! serving flour Friiu:||||21
+SDutapan!!! serving flour Friiu:||||1
+ SDutiba!!! serving flour Friiu:||||1
+Wutostream!!! serving flour Friiu:||||1
+Wurooko!!! serving flour Friiu:||||3
+ WEYoko!!! serving flour Friiu:||||1
+ WizONE!!! serving flour Friiu:||||14
+WizLD!!! serving flour Friiu:||||3
+Wiz606!!! serving flour Friiu:||||10
+Wizwo!!! serving flour Friiu:||||3
+WizIntern!!! serving flour Friiu:||||7
+ WphIntern!!! serving flour Friiu:||||1
+WwpIntern!!! serving flour Fri Adrian:||||3
+WwpIntern!!! serving flour Fri ''':||||1
+ WwpIntern!!! serving flour Fri Mu:||||1
+CwpIntern!!! serving flour FriIII:||||8
+ CD ServIntern!!! serving flour FriIII:||||3
+CDCGIntern!!! serving flour FriIII:||||1
+woIBIntern!!! serving flour FriIII:||||2
+ woCAPIntern!!! serving flour FriIII:||||2
+woICIntern!!! serving flour FriIII:||||9
+== ovIntern!!! serving flour FriIII:||||1
+wonFFIntern!!! serving flour FriIII:||||2
+QSAIntern!!! serving flour FriIII:||||86
+ QzaIntern!!! serving flour FriIII:||||14
+Epoch:1, End.
+Epoch:2, adv_string_candidates
+QSAIntern!!! serving flour FriIII:||||22
+ QSAIntern!!! serving flour Friauf:||||13
+ SRSAIntern!!! serving flour Friauf:||||1
+ SRGBWin!!! serving flour Friauf:||||2
+SRGBWin!!! serving flour Friauf:||||4
+ PethWin!!! serving flour Friauf:||||1
+PethWin!!! serving flour Friauf:||||1
+PipsWin!!! serving flour Friauf:||||5
+ PasksWin!!! serving flour Friauf:||||1
+PablWin!!! serving flour Friauf:||||21
+ PualWin!!! serving flour Friauf:||||9
+ Pual Christopher!!! serving flour Friauf:||||21
+Pual supervisor!!! serving flour Friauf:||||3
+Receual supervisor!!! serving flour Friauf:||||4
+ Techirtual supervisor!!! serving flour Friauf:||||10
+auirtual supervisor!!! serving flour Friauf:||||3
+ auirtual supervisor!!! serving flour Friite:||||1
+auirtual supervisor!!! serving flour Friia:||||2
+ Um Gross supervisor!!! serving flour Fri Einstein:||||3
+ Virtual Gross supervisor!!! serving flour Fri Einstein:||||2
+FM growth supervisor!!! serving flour Fri Einstein:||||1
+ Um growth supervisor!!! serving flour Fri Einstein:||||17
+Um growth supervisor!!! serving flourMa Einstein:||||3
+AH growth supervisor!!! serving flourMa Einstein:||||19
+ AJ growth supervisor!!! serving flourMa Einstein:||||3
+ OH growth supervisor!!! serving flourMa Einstein:||||3
+OWN growth supervisor!!! serving flourMa Einstein:||||1
+ IC growth supervisor!!! serving flourMa Einstein:||||43
+IC Agr supervisor!!! serving flourMa Einstein:||||2
+IC graphics supervisor!!! serving flourMa Einstein:||||4
+VC graphics supervisor!!! serving flourMa Einstein:||||2
+Casting supervisor!!! serving flourMa Einstein:||||2
+ New lifetime supervisor!!! serving flourMa Einstein:||||3
+ Khal lifetime supervisor!!! serving flourMa Einstein:||||3
+oust lifetime supervisor!!! serving flourMa Einstein:||||3
+ our lifetime supervisor!!! serving flourMa Einstein:||||19
+Under lifetime supervisor!!! serving flourMa Einstein:||||3
+ Dean lifetime supervisor!!! serving flour Tim Einstein:||||1
+ iLife supervisor!!! serving flour Tim Einstein:||||10
+ Life supervisor!!! serving flour Tim Einstein:||||8
+ Life supervisor!!! serving flour M Einstein:||||1
+ Life supervisor!!! serving flourustom Einstein:||||1
+ Life supervisor!!! serving flourROUP Einstein:||||3
+ vanLife supervisor!!! serving flourROUP Einstein:||||3
+vanLife supervisor!!! serving flourous Einstein:||||21
+ vanlife supervisor!!! serving flourous Einstein:||||12
+vanlife supervisor!!! serving flourjk Einstein:||||16
+SIlife supervisor!!! serving flourte Einstein:||||2
+ SIlife supervisor!!! serving flour ensures Einstein:||||1
+SIlife supervisor!!! serving floururd Einstein:||||7
+SI vr supervisor!!! serving flourrote Einstein:||||1
+ Mc HR supervisor!!! serving flourrote Einstein:||||10
+ Mr spa supervisor!!! serving flourrote Einstein:||||2
+Mr spa supervisor!!! serving flourrote Einstein:||||84
+Epoch:2, End.
+Epoch:3, adv_string_candidates
+Mr spa supervisor!!! serving flourrote Einstein:||||263
+ Mr spa supervisor!!! serving flourroteilian:||||4
+Mr spa supervisor!!! serving flourarksilian:||||3
+ Mr spa supervisor!!! serving flourularilian:||||65
+Mr spa supervisor!!! serving flourular Australian:||||11
+ Mr spa supervisor!!! serving flourular Wik:||||16
+Dr spa supervisor!!! serving flourular Wik:||||2
+ Dr spa supervisor!!! serving flourularhtm:||||13
+Dr mol supervisor!!! serving flourularhtm:||||6
+Drski supervisor!!! serving flourularhtm:||||47
+ Drski supervisor!!! serving flourularinary:||||2
+ DrHi supervisor!!! serving flourularinary:||||1
+ DrEn supervisor!!! serving flourularved:||||1
+ Dr aus supervisor!!! serving flourularved:||||27
+Dr schon supervisor!!! serving flourularved:||||22
+ DrACH supervisor!!! serving flourularved:||||3
+Dr IM supervisor!!! serving flourularved:||||2
+ Drogs supervisor!!! serving flourularved:||||2
+ Dogs supervisor!!! serving flourularved:||||1
+Leveloly supervisor!!! serving flourularved:||||3
+ Leveluary supervisor!!! serving flourularved:||||2
+Live chuck supervisor!!! serving flourularved:||||1
+Epoch:3, End.
+Epoch:4, adv_string_candidates
+Live chuck supervisor!!! serving flourularved:||||2
+ Live sac supervisor!!! serving flourularved:||||2
+Live sac Manager!!! serving flourularved:||||18
+ Live sac Manager!!! serving flourularirtual:||||4
+Live sacami!!! serving flourular vol:||||4
+ Live sacami!!! serving flourular evil:||||1
+Live saami!!! serving flourularfund:||||2
+ Live saami!!! serving flour urbanfund:||||1
+Live saami!!! serving flour urban hum:||||1
+Live saSA!!! serving flour urbanammat:||||2
+ Live saale!!! serving flourhuman personal:||||1
+Live saHA!!! serving flourhuman personal:||||2
+ Live saatan!!! serving flourhuman personal:||||1
+Live saatan!!! serving flourhuman classification:||||1
+ Livezaunal!!! serving flourhuman CLASS:||||4
+Hozaavy!!! serving flourhuman CLASS:||||3
+Ho Shaavy!!! serving flourhuman assignment:||||1
+Ho Shaavy!!! serving flourhumanath:||||1
+you Shaant!!! serving flourhumanites:||||2
+ you Shaant!!! serving flourhumanists:||||8
+ LEDSpanayan!!! serving flour Socialists:||||2
+Am Romayan!!! orphan flour cheapists:||||21
+Amveraayan!!! orphan flour cheapists:||||1
+ Certverisk!!! rotate flour cheapists:||||1
+Certverisk!!!oka flour cheapists:||||3
+ Gugrku!!!avig flour cheapists:||||1
+Watch fiveka!!!avig flour cheapists:||||1
+ WatchSUAI!!!aze flour cheapists:||||2
+ WatchistanAI!!!aze flour cheapists:||||1
+WatchamedAI!!!aze flour cheapists:||||11
+WatchubCK!!!aze flour cheapists:||||1
+WatchubDE!!!aze flour cheapists:||||1
+ WatchubQA!!!aze flour cheapists:||||2
+ Watchubkr!!!azi flour cheapists:||||6
+Watchubker!!!azi flour cheapists:||||6
+ Watchub Ker!!!azi flour cheapists:||||3
+Watchubizard!!!azi flour cheapists:||||8
+ Watchinkerizard!!!azi flour cheapists:||||4
+Watchkhizard!!!azi flour cheapists:||||1
+ Watchkhizard!!! bere flour cheapists:||||4
+ Watchythizard!!!rodu flour cheapists:||||3
+ Watchptaizard!!!rodu flour cheapists:||||6
+Watchughobi!!!rodu flour cheapists:||||3
+ Watchislani!!!gr flour cheapists:||||5
+Watchislani!!!sed flour cheapists:||||14
+Watchislani!!! bul flour cheapists:||||2
+ Watchislani!!! bul flour cheaperst:||||8
+ AnimBenani!!! ske flour cheaperst:||||5
+AnimBenani!!! ske flour cheaperst:||||4
+AnimBenani!!!wn flour cheaper cats:||||1
+ AnimBenani!!! W flour cheaper cats:||||1
+ Animagobia!!! Wwide cheaper Cat:||||1
+ Priphobia!!! Wwide cheaper Cat:||||2
+ Omphobia!!! Wwide cheaper Cat:||||1
+Omphobi!!! Wwide cheaper Cat:||||2
+ Patphobi!!! Wwide cheaper Cat:||||1
+ Buchphobi!!! Wwide cheaper Cat:||||3
+ingophobi!!! Wwide cheaper Cat:||||3
+ Frontophobi!!! Wwide cheaper Cat:||||5
+ FLophobi!!! Wwide cheaper Cat:||||2
+ Hostophobi!!! Wwide cheaper Cat:||||28
+Hostophobi!!! W pix cheaper Cat:||||17
+ Hostophobi!!! W pixexports Cat:||||6
+Hostophobi!!! W Smexports Cat:||||6
+ Hostophobi!!! W Sm PR Cat:||||1
+ Hostophobi!!! W Z PRAL:||||5
+Hostophobi!!!Gi Z PRAL:||||1
+ Hostophobi!!!IE Z PRAL:||||1
+Hostophobi!!! VI Z PRAL:||||4
+ Hostophobi!!! Herr Z PRAL:||||1
+Hostophobi!!!ski Z PRAL:||||5
+Productophobi!!!554 Z PRAL:||||2
+Hostophobi!!!(: Z PRAL:||||7
+Hostophobi!!!ROUP ZystAL:||||5
+ Hostophobi!!!ROUPCCystAL:||||4
+Hostophobi!!!ROUPCCystml:||||3
+ Hostophobi!!!ROUPCCystxml:||||1
+Hostophobi!!!ROUPCCystistent:||||3
+ Hostophobi!!!ROUPCCyst sleeping:||||1
+Hostophobi!!!ROUPCCystNS:||||3
+ Hostophobi!!!ROUPCCyst xmlns:||||7
+Rootoph Baby!!!ROUPCCyst xmlns:||||1
+ Seoph Baby!!! GPCCyst xmlns:||||3
+Seoph Baby!!!AHCCyst xmlns:||||2
+ Seirk Baby!!!AHCCyst xmlns:||||1
+Epoch:4, End.
+Epoch:5, adv_string_candidates
+ Seirk Baby!!!AHCCyst xmlns:||||3
+Reesa Baby!!!AHCCyst xmlns:||||3
+ereesa Baby!!!AHCCyst xmlns:||||1
+ Rawesa Baby!!!AHCCystwikipedia:||||18
+Rawesa Baby!!!AHCCyst](#:||||8
+ Rawesa Baby!!!AHCCyst<b>:||||7
+ Rawiq Baby!!!AHCCyst<b>:||||6
+Walliq Baby!!!AHCCyst<b>:||||1
+rafiq Baby!!!AHCCyst<b>:||||8
+afiq Baby!!!AHCCyst<h3>:||||1
+ raziq Baby!!!AHCCyst/**:||||3
+ Friq Baby!!!AHCCyst/**:||||8
+ Browett Baby!!!AHCCyst/**:||||3
+Sheett Baby!!!AHCCyst/**:||||1
+ Sheern Baby!!!AHCCyst/**:||||3
+ Rootipes Baby!!!AHCCyst/**:||||10
+Rootipes Baby!!!AHCCyst/**:||||1
+ Rootana Baby!!!AHCCyst/**:||||1
+atana Baby!!!AHCCyst yang:||||1
+Iiana Baby!!!AHCCyst yang:||||1
+uriana homes!!!AHCCyst yang:||||3
+ALiana homes!!!:%CCystiser:||||2
+ ALiana homes!!!:%CCystpsi:||||1
+Alheimer house!!!:%CCystclusive:||||1
+ Alheimer house!!!:%CCystrib:||||1
+ Schezel house!!!:%CCystrib:||||1
+Schezel household!!! :samystrib:||||3
+ Schezel household!!! :samystisc:||||1
+ Schezel household!!! :sam xmlnsisc:||||3
+Schezel household!!! :itch xmlnsisc:||||4
+ Schezel household!!! :itch xmlnsabe:||||2
+Schezel household!!! :itch xmlnsaci:||||4
+ Schezel household!!! :itch xmlns Georgia:||||10
+ Schezel household!!! :itchERYFig:||||22
+Schezel household!!! :itchERYFig:||||36
+ Schezel household!!! :itchERYSk:||||1
+ Schezel household!!! :itchERYhbox:||||5
+Schezel household!!! :iteERYhbox:||||2
+ Schezel household!!! :INCLERYhbox:||||5
+ Schezel household!!! ISOCLERYhbox:||||1
+ Adels household!!! ISOCLERYhbox:||||3
+Adolf household!!! ISOCLERYhbox:||||2
+ Adolf household!!! ISOCLERY zwe:||||1
+Adolf household!!! ISOCLAGE zwe:||||1
+ Adolf TM!!! ISOCLAGE zwe:||||6
+Adolf TM!!! ISOCLAGEzas:||||3
+Adolf TM!!!OCLAGEJoin:||||5
+ Adolf TM!!!OCLAGE continuous:||||10
+Adolf TM!!!OCLAGE built:||||4
+ Adolf TM!!!OCLAGE cm:||||1
+Adolf TM!!!OCLAGE cm:||||1
+ Adolf TM!!!OCLAGE PDF:||||1
+Adolf TM!!!OCLAGE U:||||2
+ Adolf TM!!!OCLAGE symp:||||3
+Adolf TM!!!OCLAGE apply:||||19
+Adolf TM!!!OCLAGEcsv:||||2
+Adolf TM!!!OCLAGE born:||||24
+Adolf TM!!!OCLAGE du:||||1
+ Adolf TM!!!OCLAGE ca:||||3
+Adolf TM!!!OCLAGE Pack:||||5
+ Adolf TM!!!OCLAGE}};:||||1
+Adolf TM!!!OCLAGEotyp:||||6
+ Adolf TM!!!OCLAGE advent:||||3
+Adolf VII!!!OCLAGE advent:||||1
+ Adolf VII!!!OatieAGE advent:||||1
+Adolf VII!!!OatieAGE Us:||||1
+ Adolf VII!!!O catAGE Us:||||6
+Adolf VII!!!O catIES Us:||||4
+ Adolf VII!!!O catting Us:||||2
+ Adolf VII!!!O catting year:||||6
+Adolf VII!!!O cattingnr:||||5
+Adolf VII!!!Sch cattingnr:||||1
+ Adolf VII!!!Reg cattingnr:||||9
+ Adolf VII!!! inf cattingnr:||||31
+Adolf VII!!! Inst cattingnr:||||7
+ Adolf VII!!! Ins cattingnr:||||21
+Epoch:5, End.
+Epoch:6, adv_string_candidates
+ Adolf VII!!! Ins cattingnr:||||132
+Adolf VII!!! InsCattingnr:||||73
+ Adolf VII!!!ihCattingnr:||||1
+Adolf VII!!!undaCattingnr:||||1
+ Adolf VII!!!undaCatting nr:||||41
+ Adolf VII!!!litCatting nr:||||4
+ Adolf VII!!! patCatting nr:||||3
+Adolf VII!!! NativeCatting nr:||||4
+ Adolf VII!!!hesCatting nr:||||9
+Adolf VII!!!hesCatting nr:||||11
+ Adolf VII!!!ccCatting nr:||||8
+Adolf VII!!!issCatting nr:||||44
+ Adolf VII!!!isfCatting nr:||||17
+Adolf VII!!! isnCatting nr:||||77
+ Adolf VII!!!utrCatting nr:||||1
+Adolf VII!!!ingleCatting nr:||||10
+ Adolf VII!!!250Catting nr:||||67
+Adolf VII!!!utsCatting nr:||||7
+Epoch:6, End.
+Epoch:7, adv_string_candidates
+Adolf VII!!!utsCatting nr:||||108
+ Adolf XV!!!utsCatting nr:||||154
+Adolf XV!!!701Catting nr:||||265
+Epoch:7, End.
+Epoch:8, adv_string_candidates
+Adolf XV!!!701Catting nr:||||263
+ Adolf XV!!!701CatATTR nr:||||10
+Adolf XV!!!persCatATTR nr:||||27
+ Adolf XV!!!persCatisation nr:||||41
+Adolf XV!!!persCatisationunder:||||184
+Epoch:8, End.
+Epoch:9, adv_string_candidates
+Adolf XV!!!persCatisationunder:||||263
+ Adolf XV!!! optCatisationunder:||||7
+Adolf XV!!!eralCatisationunder:||||56
+ Adolf XV!!!pfCatisationunder:||||15
+Adolf XV!!!pfCatisationunder:||||63
+Adolf Salt!!!pfCatisationunder:||||1
+ Adolf scala!!!pfCatisationunder:||||8
+Adolf Cas!!!pfCatisationunder:||||6
+Adolf scala!!!pfCatisationeren:||||7
+ Adolf scala!!!pfCatisation roast:||||7
+Adolf Brad!!!pfCatisation roast:||||4
+ Adolf Hu!!!pfCatisation roast:||||8
+Adolf Hu!!!uagesCatisation roast:||||2
+ Adolf Hu!!! \[Catisation roast:||||67
+Epoch:9, End.

@@ -1,0 +1,14 @@
+{
+    "import psutil\naddrs = []for conn in psutil.net_connections():\n addrs.append(conn.laddr)\n\n": [
+        " Mer\"\"\" Copyrightrie oss================ Var Inspector",
+        " Ber\"\"\" Copyrightrie oss================ Var Inspector",
+        " mer\"\"\" Copyrightrie oss================ Var Inspector",
+        "hed.\") Copyright=\"../../../../ ov================ Var Inspector",
+        " inqu\"; Copyrightoot resol================ Var Inspector",
+        "\")]}$$ Copyrightisted explain================ Var Inspector",
+        " ter\"\"\" Copyrightrie oss================ Var Inspector",
+        " Ob\"\"\" Copyrightrie oss================ Var Inspector",
+        " Er\"\"\" Copyrightrie af================ Var Inspector",
+        " accuracy.\"\"\" Copyrightisted anom================ Var Inspector"
+    ]
+}

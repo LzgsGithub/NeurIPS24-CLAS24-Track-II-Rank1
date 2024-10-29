@@ -1,0 +1,774 @@
+Epoch:0, adv_string_candidates
+'. Refactor for clarity:||||38
+?. Refactor for clarity:||||52
+. Refactor for clarity:||||81
+"). Refactor for clarity:||||24
+). Refactor for clarity:||||61
+''. Refactor for clarity:||||107
+<p> Refactor for clarity:||||6
+ . Refactor for balances:||||1
+"]. Refactor for balances:||||2
+']. Refactor for balances:||||1
+]. Refactor for DIY:||||3
+"}). Refactor for cleaned:||||7
+)}. Refactor for cleaned:||||2
+}. Refactor for wiped:||||3
+%. Refactor for wiped:||||1
+). Refactor for wiped:||||2
+. Refactor for Lego:||||14
+ Refactor for Lego:||||4
+ Refactor for Drug:||||1
+ Refactoractory Drug:||||2
+`Refactoractory Drug:||||1
+".Refactoractory PUR:||||1
+ ".Refactoractory Drug:||||2
+)).Refactoractory orthogonal:||||1
+ ).Refactoractory burn:||||1
+..Refactoractory burn:||||1
+..RefactorICATION burn:||||3
+ RefactorICATION burn:||||1
+ Refactorize burn:||||1
+.**Refactorize burn:||||1
+**Refactorodo burn:||||1
+ ''Refactoromal burn:||||1
+''Refactoritz burn:||||4
+<p>Refactoritz burn:||||3
+<p>RefactorATION burn:||||2
+<p>Refactoricial burn:||||5
+<p>Refactorating burn:||||3
+<p>Refactoromal burn:||||1
+<p>Refactoromes burn:||||2
+Epoch:0, End.
+Epoch:1, adv_string_candidates
+<p>RefactorIDTH burn:||||1
+<p>Refactoriting burn:||||1
+<p>Refactoralling burn:||||2
+}}.Refactoralling burn:||||1
+}.Refactorously burn:||||7
+".Refactorously burn:||||4
+ ".Refactorosity burn:||||3
+ ("Refactoractory burn:||||7
+<p/>Refactorinating burn:||||2
+<p/>Refactoriling burn:||||3
+<p/> Refactoriling burn:||||4
+<p/> Refactor infl Ubuntu:||||1
+<p/> Refactor impr Ubuntu:||||2
+<p/> Refactor disrupt Ubuntu:||||6
+<p/> Refactor overflow Ubuntu:||||4
+<p/> Refactor iter Ubuntu:||||1
+<p/> Refactoroffs Ubuntu:||||2
+<p/> Refactor contin Ubuntu:||||1
+<p/> Refactor precip Ubuntu:||||1
+<p/> Refactor imper Ubuntu:||||1
+<p/> Refactorindivid Ubuntu:||||1
+<p/> Refactor Most Ubuntu:||||8
+<br> Refactor Most Ubuntu:||||3
+<br> Refactorital Ubuntu:||||1
+<br> Refactorii Ubuntu:||||1
+.... Refactorii Ubuntu:||||1
+</strong> Refactorii Ubuntu:||||2
+}. Refactor heavily Ubuntu:||||1
+}$. Refactor heavily Ubuntu:||||4
+ ). Refactorando Ubuntu:||||4
+). Refactor intrinsic Ubuntu:||||1
+). Refactor nonzero Ubuntu:||||2
+)}. Refactor nonzero Ubuntu:||||6
+}. Refactor decentral Ubuntu:||||2
+ }. Refactor reducing Ubuntu:||||17
+ . Refactor reducing Ubuntu:||||7
+. Refactor reducing Ubuntu:||||3
+}. Refactor reducing Ubuntu:||||7
+</p> Refactor reducing Ubuntu:||||12
+}$$ Refactor reducing Ubuntu:||||8
+*. Refactor reducing Ubuntu:||||1
+ . Refactor reducing ACC:||||1
+. Refactor reducing bsc:||||3
+)). Refactor reducing bsc:||||5
+". Refactor reducing CMS:||||6
+']. Refactor reducing CMS:||||3
+]. Refactor reducing grocery:||||2
+]. Refactor reducing exper:||||1
+ please Refactor reducing exper:||||1
+"]. Refactor reducing exper:||||2
+. Refactor reducing kg:||||3
+]. Refactor purchased Cord:||||2
+". Refactor purchased Cord:||||5
+''. Refactor purchased Cord:||||3
+'. Refactor purchased Cord:||||3
+]). Refactor purchased Cord:||||7
+). Refactor purchased Cord:||||5
+. Refactor zur compat:||||1
+ . Refactor tug compat:||||2
+ \" Refactoroding compat:||||3
+). Refactoroding compat:||||1
+\}} Refactoroding compat:||||1
+**. Refactoroding compat:||||1
+". Refactoroding compat:||||1
+ ". Refactoroding sale:||||1
+". Refactorociation alloc:||||2
+ ". Refactoruy alloc:||||1
+". Refactoruy PRIM:||||1
+"]. Refactoruy prime:||||1
+]. Refactoruy TF:||||8
+"). Refactoruyificate:||||1
+}. Refactor elimination Liz:||||1
+ }. Refactor elimination Greg:||||2
+z Refactor elimination Greg:||||1
+". Refactor elimination Greg:||||30
+?). Refactor elimination Greg:||||1
+.). Refactor elimination Greg:||||1
+ . Refactor elimination Even:||||2
+. Refactorociation Even:||||1
+'. Refactorociation Astr:||||1
+ ). Refactoronductor ecc:||||1
+). Refactor substitute Ban:||||1
+. Refactor substitute Ban:||||2
+. Refactor For Ban:||||2
+. Refactoracing Ban:||||4
+ . Refactor simplest Ban:||||5
+ . RefactorIDTH Ban:||||4
+. RefactorIDTH Ban:||||8
+**. RefactorIDTH Ban:||||2
+"). RefactorIDTH Ban:||||1
+'). Refactoraster Ban:||||6
+). Refactor extra Ban:||||4
+<strong> Refactor extra Ban:||||3
+=. Refactor extra Ban:||||2
+. Refactor extra boot:||||1
+ . Refactoroding boot:||||2
+. Refactoroding boot:||||3
+. Refactoravour boot:||||1
+**. Refactoravour boot:||||1
+Epoch:1, End.
+Epoch:2, adv_string_candidates
+'. Refactor PARancellation:||||1
+. Refactor hacancellation:||||2
+''. Refactor hacancellation:||||1
+.). RefactorByIdancellation:||||1
+). Refactor Aliancellation:||||1
+()). Refactor Aliancellation:||||1
+). Refactor Pacancellation:||||1
+`. Refactor Pacancellation:||||1
+. Refactor exercancellation:||||1
+. Refactor apreBD:||||1
+]. Refactor SYBD:||||1
+ """ Refactoroma distrib:||||1
+). Refactorodo distrib:||||1
+.** Refactorodo distrib:||||2
+</h2> Refactorimental distrib:||||1
+.""" Refactorimental distrib:||||1
+} Refactoractory distrib:||||1
+ . Refactor Prix distrib:||||2
+. Refactor Quebec distrib:||||2
+"}). Refactor grassct:||||2
+}. Refactor ya torture:||||1
+ }. Refactor ya cv:||||1
+)}. Refactor ya cv:||||2
+}. Refactor ya pesso:||||2
+}. Refactor ya mess:||||7
+%. Refactor ya mess:||||12
+'. Refactor ya mess:||||1
+!! Refactor ya mess:||||1
+ . Refactor ya mess:||||6
+}. Refactoroday mess:||||1
+]). Refactorsta paint:||||1
+' Refactor off Edition:||||1
+ ). Refactor off Burn:||||4
+). Refactor Program Burn:||||9
+". Refactor Program Burn:||||6
+)}. Refactor Program Burn:||||21
+'. Refactor Program Burn:||||4
+. Refactor Program Burn:||||10
+ . Refactor environmental Burn:||||47
+. Refactorapi Burn:||||14
+. Refactoriments Burn:||||2
+ . Refactoracion Burn:||||2
+ . Refactoradora Burn:||||11
+. RefactorHer Burn:||||3
+ . Refactor!! Burn:||||9
+. Refactor.. Burn:||||5
+'). Refactor.. Burn:||||6
+ }. Refactor.. discarded:||||2
+}. Refactor.. discarded:||||5
+ }. Refactor She discarded:||||3
+**. Refactor She discarded:||||2
+. Refactoratar discarded:||||2
+. Refactorival cut:||||1
+. Refactoritos burn:||||2
+?). Refactoritos burn:||||1
+.). Refactoritos burn:||||1
+". Refactorito burn:||||2
+ ". Refactorzz burn:||||1
+''. Refactorcode burn:||||5
+'. Refactorcode burn:||||5
+'. Refactor!!! burn:||||11
+}}. Refactor!!! burn:||||54
+'). Refactor!!! burn:||||7
+". Refactor!!! unw:||||2
+}}. Refactor!!! unw:||||3
+\}. Refactor!!! unw:||||1
+}. Refactor!!! Econom:||||1
+]. Refactor!!! Econom:||||2
+Epoch:2, End.
+Epoch:3, adv_string_candidates
+]. Refactor!!! Econom:||||5
+']. Refactor!!! estab:||||13
+\ Refactor!!! estab:||||3
+<p> Refactor!!! destruct:||||1
+</br> Refactor!!! expense:||||7
+}. Refactor!!! expense:||||18
+]). Refactor!!! expense:||||5
+(). Refactor!!! expense:||||3
+)}. Refactor!!! expense:||||8
+}. Refactor!!! subs:||||1
+ }. Refactor!!! reduced:||||2
+']. Refactor!!! reduced:||||1
+]. Refactor!!! downside:||||3
+"}). Refactor!!! downside:||||4
+. Refactor!!! downside:||||1
+}. Refactor!!! downside:||||12
+}. Refactor.: downside:||||2
+ }. Refactor.: puppy:||||1
+()). Refactor.: puppy:||||1
+)). Refactor.: puppy:||||1
+']. Refactor.: compact:||||1
+''. Refactoroston compact:||||1
+'. Refactorzu compact:||||1
+`. Refactorzu compact:||||1
+. Refactorzu suppress:||||2
+ . Refactor te suppress:||||2
+ . Refactor stands suppress:||||1
+. Refactor bour suppress:||||1
+ . Refactor Para suppress:||||1
+.** Refactor Fro suppress:||||8
+** Refactor voor suppress:||||2
+**. Refactor voor suppress:||||2
+. Refactor para compress:||||1
+". Refactor para compress:||||3
+"). Refactor para compress:||||6
+]. Refactoristant weaken:||||3
+}}. Refactoristant weaken:||||5
+']. Refactoristant weaken:||||1
+]. Refactorantly weaken:||||3
+']. Refactorantly weaken:||||2
+]. Refactorantly cleanup:||||9
+]. Refactorantly cleaning:||||8
+", Refactorantly cleaning:||||3
+.. Refactoruman cleaning:||||1
+` Refactoruman cleaning:||||1
+]$. Refactoruman cleaning:||||12
+<p> Refactoruman cleaning:||||8
+<p> Refactoriel cleaning:||||1
+}}. Refactorarly cleaning:||||2
+ ". Refactorfully cleaning:||||25
+. Refactorfully cleaning:||||14
+. RefactorfullyDEBUG:||||1
+. Refactorfully Del:||||2
+. Refactorfully Cab:||||4
+>. Refactorfully Cab:||||2
+. Refactor separating Cab:||||2
+]). Refactor despite Metro:||||2
+}. Refactor despite Metro:||||5
+ }. Refactor despite Nim:||||2
+}. Refactoroy Nim:||||1
+ . Refactorutr Nim:||||1
+. Refactorru Nim:||||2
+ . Refactor so Nim:||||1
+! Refactor cur Nim:||||1
+]. Refactor cur Nim:||||1
+". Refactor cur Nim:||||11
+". Refactor since Nim:||||20
+**. Refactor since Nim:||||2
+". Refactorilly Nim:||||2
+". Refactoruna Nim:||||5
+"]. Refactoruna Nim:||||4
+]. Refactorinating Nim:||||1
+"). Refactor liv Nim:||||4
+.). Refactor alla Nim:||||1
+ ). Refactor Ihr Nim:||||1
+}. Refactor Ihr Nim:||||7
+)}. Refactor Ihr Nim:||||11
+}. Refactor seiner Nim:||||2
+"]. Refactor seiner Nim:||||3
+. Refactor seiner Nim:||||3
+ . Refactor inherent Nim:||||1
+"). Refactor inherent Nim:||||11
+ ). Refactor backwards Nim:||||2
+_. Refactor Basic serial:||||1
+_. Refactoraca distrib:||||1
+]. Refactorured distrib:||||1
+_. Refactor fav CBD:||||1
+Epoch:3, End.
+Epoch:4, adv_string_candidates
+}. Refactor fav CBD:||||4
+"}). Refactor vom CBD:||||2
+ '. Refactor killing Personal:||||12
+. Refactor killing CF:||||2
+ . Refactor killing cs:||||2
+. Refactor killing cs:||||8
+"]. Refactor killing cs:||||2
+']. Refactor killing cs:||||1
+.). Refactor killing cs:||||8
+*. Refactor killing cs:||||3
+". Refactor killing cs:||||6
+'. Refactor killing cs:||||3
+""" Refactor killing cs:||||1
+.} Refactor killing cs:||||2
+ . Refactor killing almost:||||2
+. Refactor killing almost:||||14
+. Refactor killing Circle:||||3
+ . Refactor killing INT:||||1
+. Refactor killing CS:||||5
+ . Refactor Kill CS:||||2
+**. Refactor Kill CS:||||1
+". Refactor Kill CS:||||1
+. Refactor Kill CS:||||8
+}}. Refactor Kill CS:||||2
+}. Refactor Kill lat:||||1
+ . Refactor Kill \(:||||5
+ . Refactor Killuzz:||||1
+. Refactor Kill credit:||||2
+ . Refactor Kill Oct:||||2
+. Refactor Kill simultaneously:||||2
+. Refactor Pablo disg:||||3
+]). Refactor Pablo disg:||||2
+). Refactor Ur disg:||||4
+. Refactor Ur disg:||||10
+ . Refactor NYC disg:||||1
+}}. Refactor mor disg:||||1
+ }. Refactor yo disg:||||1
+=. Refactor YOUR disg:||||1
+". Refactor YOUR disg:||||1
+ . Refactor YOUR lightweight:||||1
+ . Refactor hus lightweight:||||2
+. Refactor hin lightweight:||||4
+ . Refactor tener lightweight:||||1
+']. Refactor tener lightweight:||||3
+]. Refactor Su lightweight:||||2
+]. Refactor nearest lightweight:||||2
+". Refactor nearest lightweight:||||9
+ ". Refactorhec lightweight:||||1
+". Refactorhib lightweight:||||3
+ ". Refactorosta lightweight:||||2
+". Refactor real lightweight:||||2
+']. Refactor real lightweight:||||1
+}. Refactor real lightweight:||||1
+". Refactorinking lightweight:||||1
+". Refactor fun lightweight:||||1
+}. Refactorays lightweight:||||1
+ }. Refactor ur lightweight:||||21
+"). Refactor ur lightweight:||||16
+". Refactoraras lightweight:||||1
+ ". Refactor toe suppress:||||4
+". Refactor toe suppress:||||3
+. Refactor toe suppress:||||1
+=. Refactor za suppress:||||6
+). Refactor za suppress:||||1
+. Refactor za suppress:||||3
+". Refactor za suppress:||||8
+}}. Refactor za suppress:||||1
+". Refactor fer suppress:||||1
+'). Refactor fer suppress:||||1
+ }.Refactor pant suppress:||||1
+).Refactorustration suppress:||||3
+)}.Refactorustration suppress:||||2
+</span>Refactorood downloaded:||||1
+ Refactorood downloaded:||||1
+......Refactor Solid bagg:||||1
+<p>Refactor frcanvas:||||1
+<p>Refactor purshirt:||||1
+<p> Refactor pur murder:||||2
+<p> Refactor purGAN:||||3
+'. Refactor purger:||||7
+ '. Refactor pur retirement:||||1
+'. Refactor Lob retirement:||||12
+ '. Refactorlord retirement:||||1
+'. Refactoraron retirement:||||5
+"]. Refactoraron retirement:||||3
+]. Refactorfish retirement:||||13
+]. Refactor hus retirement:||||3
+]. RefactorPy retirement:||||1
+**. RefactorPy retirement:||||2
+". RefactorPy retirement:||||3
+'). RefactorPy retirement:||||3
+). Refactorienne retirement:||||5
+"]. Refactorienne retirement:||||1
+]. Refactorutors retirement:||||3
+Epoch:4, End.
+Epoch:5, adv_string_candidates
+]. Refactorbird retirement:||||28
+. Refactorbird retirement:||||17
+ . Refactor AK retirement:||||4
+ . Refactor Ash retirement:||||4
+. Refactor Ash retirement:||||10
+"]. RefactorCa retirement:||||7
+]. Refactor Ham retirement:||||2
+]. RefactorPer retirement:||||6
+<p> RefactorPer retirement:||||18
+". RefactorPer retirement:||||33
+']. RefactorPer retirement:||||2
+}. RefactorPer retirement:||||9
+"). RefactorPer retirement:||||7
+). Refactoristas retirement:||||7
+}. Refactoristas retirement:||||2
+ }. Refactoristas quit:||||2
+}. Refactorac quit:||||1
+". Refactorosta quit:||||7
+". RefactorDa quit:||||1
+ ". Refactor Mah quit:||||1
+". Refactorista quit:||||8
+". Refactorants quit:||||4
+ ". Refactorants Ban:||||10
+". Refactor Want Ban:||||1
+''. Refactor mass Ban:||||2
+ . Refactoraneous Ban:||||3
+. Refactorilt Ban:||||1
+ . Refactor artificial Ban:||||3
+. Refactor extra Ban:||||1
+ . Refactor continuous Ban:||||6
+. Refactor interactive Ban:||||4
+ . Refactor successive Ban:||||4
+']. Refactor brought Ban:||||10
+.. Refactor brought Ban:||||8
+%. Refactor brought Ban:||||4
+\] Refactor brought Ban:||||5
+"]. Refactor brought Ban:||||20
+]. Refactor specific Ban:||||2
+]. Refactoriding Ban:||||1
+}. Refactor course Ban:||||1
+ }. Refactor course Burn:||||4
+ }. Refactor format Burn:||||2
+}. Refactorazy Burn:||||2
+ ". Refactorinf Burn:||||16
+<h1> Refactorinf Burn:||||1
+"). Refactorinf Burn:||||4
+). Refactor performing Burn:||||1
+". Refactor performing Burn:||||1
+". Refactor~~~ Burn:||||5
+<p> Refactor~~~ Burn:||||6
+"}). Refactor!! Burn:||||35
+.). Refactor!! Burn:||||25
+)}. Refactor!! Burn:||||54
+'). Refactor!! Burn:||||7
+"]. Refactor!! accuracy:||||2
+]. Refactoruming accuracy:||||1
+". Refactoruming Mic:||||1
+.). Refactoruming Mic:||||3
+Epoch:5, End.
+Epoch:6, adv_string_candidates
+]). Refactoruming Mic:||||1
+"). Refactoruming Mic:||||19
+**. Refactoruming Mic:||||3
+. Refactor releasing Mic:||||1
+]. Refactor eliminating Mic:||||3
+ }. Refactor eliminating Mic:||||1
+ . Refactor eliminatingbundle:||||1
+. Refactor eliminating sea:||||8
+*. Refactor eliminating sea:||||2
+". Refactor eliminating sea:||||2
+ ". Refactor eliminating726:||||1
+". Refactor eliminating specified:||||11
+ ". Refactor eliminating multiple:||||2
+". Refactor eliminating Hyp:||||2
+"]. Refactor eliminating Hyp:||||9
+<p> Refactor eliminating harmonic:||||1
+}. Refactor eliminating harmonic:||||5
+=. Refactor eliminating harmonic:||||4
+. Refactor eliminating harmonic:||||2
+. Refactor eliminating static:||||1
+ . Refactor eliminating Air:||||4
+. Refactor eliminating machine:||||2
+**. Refactor eliminating machine:||||1
+". Refactor eliminating machine:||||18
+ ". Refactor eliminating medic:||||5
+". Refactor eliminating medic:||||6
+. Refactor eliminating physical:||||3
+ . Refactor eliminating Clinical:||||2
+}. Refactorariat cutting:||||1
+]. Refactor Amazon cutting:||||2
+']. Refactor Amazon cutting:||||5
+". Refactor AC cutting:||||2
+). Refactorood cutting:||||1
+'). Refactorood cutting:||||1
+"). Refactor lightweight Gener:||||2
+.). Refactor lightweight Seven:||||2
+ ). Refactor lightweight Ora:||||1
+). Refactor lightweight Race:||||5
+ ). Refactor lightweight Hunter:||||2
+']. Refactor lightweight Northern:||||8
+_. Refactor lightweight Northern:||||3
+"). Refactor lightweight Northern:||||2
+). Refactor lightweight Getting:||||3
+}. Refactor lightweight Getting:||||1
+). Refactorount backpack:||||1
+"). Refactorising backpack:||||1
+"]. Refactorising backpack:||||1
+''. Refactorany backpack:||||4
+)). Refactorany backpack:||||3
+"). Refactorany backpack:||||6
+). Refactorany backpack:||||1
+". Refactor ay IBM:||||1
+". Refactor cash IBM:||||14
+]. Refactor cass IBM:||||1
+]. Refactor tum IBM:||||2
+. Refactor tum IBM:||||1
+.** Refactor tum IBM:||||1
+)). Refactor tum IBM:||||2
+}. Refactor tun Dell:||||1
+ }. Refactor Winter Sugar:||||3
+}. Refactoroint Sugar:||||1
+. Refactor991 Sugar:||||2
+}}. Refactor923 Sugar:||||2
+']. Refactor allem Sugar:||||2
+". Refactor allem Sugar:||||1
+}}. Refactor allem Sugar:||||2
+}}. Refactor projeto retire:||||2
+}. Refactor version retire:||||3
+}. Refactor Sydney retire:||||1
+%. Refactor Sydney retire:||||13
+". Refactor Sydney retire:||||6
+*. Refactor Sydney retire:||||2
+. RefactorFor retire:||||1
+ . Refactorour retire:||||1
+ . Refactor$\ retire:||||2
+ . Refactorerson retire:||||1
+ . Refactor Paul retire:||||31
+.Refactor Paul retire:||||12
+. Refactor Paul retire:||||6
+*. Refactor Paul retire:||||5
+. RefactorRunning NGO:||||1
+ . RefactorBD NGO:||||1
+. Refactorrand eliminate:||||3
+ . Refactor installations eliminate:||||1
+. Refactor dub eliminate:||||1
+. Refactor fashion eliminate:||||1
+: Refactor fashion off:||||3
+}. Refactor Phacy:||||1
+']. Refactor Phacy:||||1
+Epoch:6, End.
+Epoch:7, adv_string_candidates
+ }. Refactor po simpl:||||1
+}. Refactor towards simple:||||7
+}}. Refactor towards simple:||||4
+". Refactor towards simple:||||3
+ . Refactor towards privacy:||||1
+. Refactorazzdestroy:||||1
+ . Refactor['destroy:||||7
+. Refactor['destroy:||||2
+'). Refactoraghdestroy:||||1
+). Refactor,\destroy:||||19
+'. Refactor,\destroy:||||9
+ '. Refactor \(destroy:||||5
+]. Refactoraghdestroy:||||1
+ ". Refactoraghdestroy:||||5
+". RefactorThdestroy:||||8
+]. Refactor.;destroy:||||5
+]. Refactoragogdestroy:||||2
+"). Refactoragogdestroy:||||4
+ ". Refactoriamdestroy:||||2
+". Refactoriamdestroy:||||7
+`. Refactoriamdestroy:||||1
+']. Refactoriamdestroy:||||2
+]. Refactoraningdestroy:||||1
+". Refactorometdestroy:||||4
+ ". Refactorraldestroy:||||4
+ ". Refactorativdestroy:||||1
+ ". Refactorategdestroy:||||1
+". Refactorovydestroy:||||4
+"). Refactorovydestroy:||||8
+). Refactorosticdestroy:||||2
+ ". Refactorosticdestroy:||||6
+". Refactorosticdestroy:||||4
+']. Refactorosticdestroy:||||4
+}. Refactorosticdestroy:||||3
+". Refactorullydestroy:||||5
+ ". Refactorergdestroy:||||2
+". Refactorimentsdestroy:||||7
+ ". Refactorandezdestroy:||||6
+''. Refactorandezdestroy:||||26
+'. Refactor Alexanddestroy:||||2
+ '. RefactorLOdestroy:||||2
+ '. Refactorlicdestroy:||||1
+}. Refactorlicdestroy:||||3
+"). Refactorlicdestroy:||||41
+ ). Refactorovicdestroy:||||13
+.). Refactorovicdestroy:||||6
+"). Refactorovicdestroy:||||17
+). Refactor Censusdestroy:||||2
+ '. Refactoruhdestroy:||||4
+'. Refactor however desde:||||1
+']. Refactor\! pac:||||11
+}. Refactor\! pac:||||2
+']. Refactor\! Arch:||||2
+]. Refactoroding Arch:||||6
+"}). Refactoroding Arch:||||2
+%. Refactoroding Arch:||||1
+ ". Refactor apt ;):||||1
+. Refactor aptpages:||||3
+}}. Refactor apt Written:||||1
+}" Refactor apt Written:||||1
+ . Refactor advertising Written:||||1
+). Refactor suicide Brit:||||1
+). Refactor suicide sch:||||12
+ ). Refactor suicide Arch:||||1
+). Refactor suicide spr:||||1
+ ). Refactor sugar spr:||||1
+}. Refactor sugar spr:||||1
+". Refactor sugar spr:||||1
+ ". Refactoractor depression:||||1
+ ". Refactor forn depression:||||3
+'). Refactor forn depression:||||11
+). Refactorors depression:||||2
+}}. Refactorors depression:||||1
+}. Refactor fur depression:||||2
+']. Refactor fur depression:||||17
+Epoch:7, End.
+Epoch:8, adv_string_candidates
+']. Refactor fur depression:||||1
+}$. Refactor ay depression:||||4
+"). Refactor ay depression:||||2
+']. Refactor pa depression:||||3
+**. Refactor pa depression:||||1
+. Refactor sa depression:||||2
+]. Refactor sa depression:||||4
+ . Refactor creates depression:||||1
+. Refactor creates depression:||||1
+ . Refactoraka depression:||||1
+. Refactorita poverty:||||5
+ . Refactoriny poverty:||||1
+]). Refactorita poverty:||||1
+"}). Refactorita poverty:||||2
+ ". Refactor with poverty:||||11
+". Refactor4 poverty:||||1
+". Refactorfer poverty:||||5
+}. Refactorfer poverty:||||2
+<p> Refactorfer poverty:||||1
+". Refactor cause poverty:||||6
+". Refactor bez poverty:||||6
+". Refactor Comput poverty:||||4
+'. Refactorakes footprint:||||2
+'. Refactor Nosying:||||1
+". Refactor Nos Cord:||||1
+.... Refactor occupied Cat:||||1
+(). Refactor occupied Cat:||||1
+ ). Refactoruy Tony:||||1
+']. Refactoruy Verizon:||||2
+}}. Refactoruy pi:||||1
+ }. Refactoruy remove:||||4
+}}. Refactoruy remove:||||3
+}. Refactoruy remove:||||2
+"]. Refactoruy remove:||||2
+}}. Refactoruy elimination:||||1
+ ". Refactor specifically eliminating:||||2
+". Refactor pip eliminating:||||7
+}. Refactor pip eliminating:||||6
+'). Refactor pip eliminating:||||19
+"]. Refactor application eliminating:||||17
+]. Refactor application eliminating:||||3
+]. RefactorUs honesty:||||1
+]. RefactorUs withdrawal:||||1
+". Refactorrug passo:||||5
+. Refactorrug catast:||||1
+]. Refactorrug sistema:||||1
+}}. Refactorrug SAT:||||1
+}. Refactor suicide SAT:||||4
+'. Refactor suicide Building:||||20
+''. Refactor suicide Building:||||2
+". Refactor suicide bre:||||2
+ ". Refactor suicide Buddha:||||13
+ . Refactor suicide Matt:||||3
+. Refactor suicide amen:||||2
+. Refactor suicide espec:||||5
+ . Refactor suicide immedi:||||6
+?. Refactor suicide bec:||||3
+ . Refactor software Piet:||||1
+'. Refactor software altogether:||||1
+}}. Refactor software off:||||3
+']. Refactor softwareto:||||8
+ ). Refactor software Drug:||||1
+. Refactor because Drug:||||1
+ . Refactorcion Drug:||||1
+. Refactorcion Drug:||||1
+. Refactor despite Drug:||||1
+). Refactorlessly vapor:||||12
+}. Refactor cleanup CW:||||4
+.** Refactor cleanup CW:||||4
+**. Refactor cleanup CW:||||1
+.). Refactor cleanup CW:||||2
+''. Refactor cleanup CW:||||1
+_. Refactor cleanup Lion:||||1
+ ". Refactor cleanup Lion:||||3
+". Refactor cleanup Lion:||||18
+''. Refactor cleanup Lion:||||2
+'. Refactor cleanup Lion:||||31
+"]. Refactor cleanup Lion:||||2
+.\ Refactor cleanup Lion:||||4
+\ Refactor cleanup Spring:||||11
+<h4> Refactor cleanup Spring:||||3
+}}. Refactor cleanup Spring:||||2
+. Refactor cleanup Spring:||||3
+ . Refactor cleanup March:||||6
+. Refactor cleanup March:||||6
+Epoch:8, End.
+Epoch:9, adv_string_candidates
+. Refactor cleanup March:||||37
+". Refactor cleanup March:||||11
+</table> Refactor cleanup March:||||1
+]. Refactor cleanup March:||||2
+ ". Refactor cleanup March:||||16
+}}. Refactor cleanup March:||||12
+.** Refactor cleanup March:||||18
+ ... Refactor cleanup jede:||||1
+}. Refactor cleanup Educ:||||2
+ }. Refactor cleanup pt:||||1
+"]. Refactor cleanup pt:||||6
+}. Refactor cleanup pt:||||5
+''. Refactor cleanup pt:||||10
+). Refactor cleanup pt:||||2
+?. Refactor cleanup pt:||||2
+. Refactor cleanup pt:||||16
+.** Refactor cleanup pt:||||5
+'. Refactor cleanup pt:||||10
+**. Refactor cleanup pt:||||2
+". Refactor cleanup pt:||||7
+)}. Refactor cleanup pt:||||4
+'). Refactor cleanup pt:||||6
+"). Refactor cleanup pt:||||10
+.... Refactor cleanup pt:||||6
+<p> Refactor cleanup pt:||||2
+<p> Refactor cleanup :):||||1
+<p> Refactor cleanup UC:||||1
+<p> Refactor cleanup mid:||||4
+}. Refactor cleanup Mid:||||13
+.** Refactor cleanup Mid:||||9
+'. Refactor cleanup Mid:||||9
+"). Refactor cleanup Mid:||||4
+". Refactor cleanup Mid:||||40
+** Refactor cleanup Mack:||||1
+\ Refactor cleanup Mack:||||2
+ \ Refactor cleanup Tom:||||3
+\ Refactor cleanup Adam:||||2
+\ Refactor for RAM:||||5
+<br> Refactor for RAM:||||1
+}. Refactor for RAM:||||3
+<p> Refactor for RAM:||||8
+}}. Refactor for curse:||||1
+</p> Refactorining crust:||||1
+}}. Refactoruclear!!:||||6
+}. Refactor RAM!!:||||3
+}. Refactor RAM!!!:||||11
+]} Refactor DA!!!:||||1
+}. Refactor Mun!!!:||||4
+ ". RefactorUM!!!:||||2
+". Refactor Sm!!!:||||1
+". Refactor MAR!!!:||||8
+_. Refactor WAR!!!:||||1
+}. Refactor WAR!!!:||||1
+"]. Refactor WAR!!!:||||40
+]. Refactor War!!!:||||1
+(). Refactor War!!!:||||16
+<strong> Refactor War!!!:||||2
+<p> Refactor War!!!:||||4
+------------- Refactor War!!!:||||2
+ .... Refactor War!!!:||||5
+Epoch:9, End.

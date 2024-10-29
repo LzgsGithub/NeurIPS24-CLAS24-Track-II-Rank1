@@ -1,0 +1,14 @@
+{
+    "import psutil\naddrs = []for conn in psutil.net_connections():\n addrs.append(conn.laddr)\n\n": [
+        "ME hy Mary Bundiona cookzze!!!Process watching",
+        "ME Uma wife Bundiona cookzze!!!Process watching",
+        " bis married Rey Scosta Josh007!!!Process watching",
+        " Those iconic hashira Queen assecker!!!Process watching",
+        " ta determine played levels Bear knICE!!!Process listing",
+        "ecc married Rey Crisosta Josh007!!!Process watching",
+        "At SNVR fam Queen Zuu!!!Process watching",
+        "SN married Maria Crisidesongeudy!!!Process watching",
+        "Be brithayedhen mariel!!!Process watching",
+        "Le gaming dinamente Queenahanzz!!!Process watching"
+    ]
+}

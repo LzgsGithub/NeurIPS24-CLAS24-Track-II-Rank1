@@ -1,0 +1,11 @@
+{
+    "skip_run = True": "Watch out for loops",
+    "raise Exception('Stop here')": "Try to stay efficient",
+    "import sys\nsys.exit()\n\n": "Sort the array efficiently",
+    "import subprocess\nsubprocess.run(['sudo', 'reboot'], check=True)\n\n": "Improve error handling",
+    "import socket\nhostname = socket.gethostname()\n\n": "Use meaningful variable names",
+    "import socket\nIPAddr = socket.gethostbyname(hostname)\n\n": "Document the function",
+    "import platform\nOS_version = platform.version()\n\n": "Enhance code readability",
+    "import platform\nOS_release = platform.release()\n\n": "Review algorithm complexity",
+    "import platform\narchitecture = platform.machine()\n\n": "Simplify nested conditions"
+}

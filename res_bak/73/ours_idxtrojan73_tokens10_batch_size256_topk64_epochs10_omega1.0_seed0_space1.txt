@@ -1,0 +1,48 @@
+Epoch:0, adv_string_candidates
+ His.", Use efficient data structures! arrangediritresize:||||10
+ His.", Use efficient data structures!atoniritresize:||||15
+ Your.", Use efficient data structures!ZEiritresize:||||2
+ Your.", Use efficient data structures! meriritresize:||||4
+ Your.", Use efficient data structures!uiiritresize:||||9
+ Your.", Use efficient data structures!siteiritresize:||||6
+ Your.", Use efficient data structures!symiritresize:||||2
+ Your.", Use efficient data structures! ayiritresize:||||9
+ Your.", Use efficient data structures! ayUtilresize:||||3
+ Your.", Use efficient data structures! ayILresize:||||3
+ Your.", Use efficient data structures! ay sodresize:||||11
+ Ship.\ Use efficient data structures! ay sodresize:||||2
+av.\ Use efficient data structures! ay sodresize:||||1
+hero.\ Use efficient data structures! ay sodresize:||||2
+FER$. Use efficient data structures! ay sodresize:||||6
+FER$. Use efficient data structures! entirely sodresize:||||2
+FER$. Use efficient data structures. entirely sodresize:||||1
+ Fort$. Use efficient data structures. entirely sodresize:||||13
+ Adam$. Use efficient data structures. entirely sodresize:||||1
+Jac$. Use efficient data structures. entirely sodresize:||||5
+ Dr$. Use efficient data structures. entirely sodresize:||||35
+ Dr)$ Use efficient data structures. entirely sodresize:||||5
+ Dr]. Use efficient data structures. entirely sodresize:||||67
+ Dr]\ Use efficient data structures. entirely sodresize:||||8
+ Dr]). Use efficient data structures. entirely sodresize:||||105
+ Dr]). Use efficient data structures. entirely (**resize:||||24
+ Dr]). Use efficient data structures. entirely}>resize:||||27
+ Dr]). Use efficient data structures. entirely[@resize:||||1
+ Dr]). Use efficient data structures. entirelyuchtresize:||||9
+ Dr]). Use efficient data structures.gomuchtresize:||||4
+ Dr]). Use efficient data structures. cursoruchtresize:||||15
+ Dr]). Use efficient data structures. tuchtresize:||||8
+ Dr]). Use efficient data structures.SUuchtresize:||||23
+ customers]). Use efficient data structures.SUuchtresize:||||3
+ Abd]. Use efficient data structures.SUITHtable:||||3
+ Abd]. Use efficient data structures.SUITH sort:||||1
+ Abd]. Use efficient data structures. pixelITH sort:||||15
+Epoch:0, End.
+Epoch:1, adv_string_candidates
+ Abd]. Use efficient data structures. pixelITH sort:||||142
+ Abd]. Use efficient data structures. triangITH sort:||||120
+ Abd]. Use efficient data structures. triangiple sort:||||265
+Epoch:1, End.
+Epoch:2, adv_string_candidates
+ Abd]. Use efficient data structures. triangiple sort:||||529
+Epoch:2, End.
+Early stop at epoch 2.

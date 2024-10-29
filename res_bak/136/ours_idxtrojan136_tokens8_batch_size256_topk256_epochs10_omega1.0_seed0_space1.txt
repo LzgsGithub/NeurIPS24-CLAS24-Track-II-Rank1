@@ -1,0 +1,79 @@
+Epoch:0, adv_string_candidates
+ BS amazing painting!!simirds$-- Doug:||||29
+ tout amazing painting!!simirds$-- Doug:||||1
+ Shar amazing painting!!simirds$-- Doug:||||30
+Par amazing painting!!simirds$-- Doug:||||2
+ps amazing painting!!simirds$-- Doug:||||3
+ ps amazing painting!!simirds]( Doug:||||25
+P amazing painting!!simirds]( Doug:||||2
+ P amazing painting!!!!simirds]( Doug:||||150
+G amazing painting!!!!simirds]( Doug:||||13
+ G Great painting!!!!simirds]( Doug:||||19
+ Mo Great painting!!!!simirds]( Doug:||||62
+ Look Great painting!!!!simirds]( Doug:||||155
+Epoch:0, End.
+Epoch:1, adv_string_candidates
+ Look Great painting!!!!simirds]( Doug:||||54
+ Por Great painting!!!!simirds]( Doug:||||221
+Qu Great painting!!!!simirds]( Doug:||||96
+ Aus Great painting!!!!simirds]( Doug:||||44
+ Gram Great painting!!!!simirds]( Doug:||||5
+ Luc Great painting!!!!simirds]( Doug:||||104
+Epoch:1, End.
+Epoch:2, adv_string_candidates
+ Luc Great painting!!!!simirds]( Doug:||||96
+ O Great painting!!!!simirds]( Doug:||||179
+ la Great painting!!!!simirds]( Doug:||||33
+Ke Great painting!!!!simirds]( Doug:||||62
+}.$ Great painting!!!!simirds]( Doug:||||11
+ Visual Great painting!!!!simirds]( Doug:||||9
+ **** Great painting!!!!simirds]( Doug:||||133
+Epoch:2, End.
+Epoch:3, adv_string_candidates
+ **** Great painting!!!!simirds]( Doug:||||54
+ Twe Great painting!!!!simirds]( Doug:||||41
+ PG Great painting!!!!simirds]( Doug:||||276
+itz Great painting!!!!simirds]( Doug:||||80
+erek Great painting!!!!simirds]( Doug:||||74
+Epoch:3, End.
+Epoch:4, adv_string_candidates
+erek Great painting!!!!simirds]( Doug:||||54
+eder Great painting!!!!simirds]( Doug:||||318
+ France Great painting!!!!simirds]( Doug:||||155
+Epoch:4, End.
+Epoch:5, adv_string_candidates
+ France Great painting!!!!simirds]( Doug:||||111
+ Andy Great painting!!!!simirds]( Doug:||||31
+ith Great painting!!!!simirds]( Doug:||||20
+ivo Great painting!!!!simirds]( Doug:||||207
+ivo Great painting!!!!simirds]( Cancer:||||155
+Epoch:5, End.
+Epoch:6, adv_string_candidates
+ivo Great painting!!!!simirds]( Cancer:||||373
+ivo Great painting!!!! Rudirds]( Cancer:||||155
+Epoch:6, End.
+Epoch:7, adv_string_candidates
+ivo Great painting!!!! Rudirds]( Cancer:||||373
+ *** Great painting!!!! Rudirds]( Cancer:||||65
+*** Great painting!!!! Rudirds]( cargo:||||89
+Epoch:7, End.
+Epoch:8, adv_string_candidates
+*** Great painting!!!! Rudirds]( cargo:||||54
+ *** Great painting!!!! Rudirds](zy:||||23
+ Te Great painting!!!! Rudirds](zy:||||17
+ le Great painting!!!! Rudirds](zy:||||20
+Da Great painting!!!! Rudirds](zy:||||39
+942 Great painting!!!! Rudirds](zy:||||118
+?! Great painting!!!! Rudirds](zy:||||9
+ SD Great painting!!!! Rudirds](zy:||||86
+600 Great painting!!!! Rudirds](zy:||||155
+Epoch:8, End.
+Epoch:9, adv_string_candidates
+600 Great painting!!!! Rudirds](zy:||||96
+681 Great painting!!!! Rudirds](zy:||||179
+681 Great painting!!!! Rudirds]( cultural:||||96
+************ Great painting!!!! Rudirds]( cultural:||||1
+ Sche Great painting!!!! Rudirds]( cultural:||||13
+ethe Great painting!!!! Rudirds]( cultural:||||2
+he Great painting!!!! Rudirds ] cultural:||||136
+Epoch:9, End.

@@ -1,0 +1,184 @@
+Epoch:0, adv_string_candidates
+ dataiel Use Voice Assistant Nike terminology.~ Sebast001:||||1
+A855 Use Voice Assistant Nike terminology.~ Lucas001:||||1
+A Bobam Voice basket hiking Martin.~astro!!!:||||1
+A Bobamtic basket hiking Martinizarastro!!!:||||3
+ A Bobamtic card hiking Martinizarastro!!!:||||1
+A Bobamtic card hiking Martinizar Edition!!!:||||7
+ A Bobamtic card hikingpackizar Edition!!!:||||3
+ A BobKE subscriber card hikingpackeder Edition!!!:||||2
+A BobKE subscriber card hikingpackeder companion!!!:||||1
+ A BobKEWA card hikingpackeder companion!!!:||||1
+A BobKEWA card hikingrealeder companion!!!:||||5
+ A BobKEWA drug hiking News readers companion!!!:||||5
+A BobKEWA drug hiking Newsivers companion!!!:||||36
+ A BobKEWA drug hiking Roadivers companion!!!:||||7
+A BobKEWA drug hiking Roadues companion!!!:||||22
+A BobKEWA Kiayout Roadues companion!!!:||||2
+ A BobKEWA Ki twisted Roadues companion!!!:||||1
+ A BobKEWA Gem Description Roadues companion!!!:||||1
+ A BobKEWA Gemoche Roadues companion!!!:||||19
+A BobKEWA GemCherieys companion!!!:||||3
+ A BobKEWA GemChemateys companion!!!:||||4
+A BobKEWA Gem sipmateys companion!!!:||||20
+ A BobKEWA Gem Hobmateys companion!!!:||||66
+A BobKEWA Gem Hobmateys companion!!!:||||50
+ A HighKEWA Gem Hobmateys companion!!!:||||8
+A HighKEWA Gemiangmateys companion!!!:||||16
+ A HighburyWA Gemiangmateys companion!!!:||||2
+A HighburyWA feeliangmateys companion!!!:||||1
+ A Highburyad feeliangmateys companion!!!:||||33
+ A serialburytons feeliangmateys companion!!!:||||5
+ A MailburyCamp feeliangmateys companion!!!:||||2
+A MailburyCampullahiangmateys companion!!!:||||3
+ A MailburyCampullah Fieldmateys companion!!!:||||23
+A MailburyCampullah Fieldmateys companion!!!:||||1
+ A Mailburyobeullah Fieldmateys companion!!!:||||26
+A Mail Boyobeullah Fieldmateys companion!!!:||||33
+ A Mail Boynmullah Fieldmateys companion!!!:||||17
+Epoch:0, End.
+Epoch:1, adv_string_candidates
+ A Mail Boynmullah Fieldmateys companion!!!:||||82
+A Mail Boynmullah Fieldmateys companion!:||||261
+ A Mail Boynmullah Fieldodgeys companion!:||||1
+ A Mail Boynm Wellventoryodgeys companion!:||||7
+A Mail Boynm Wellventoryspeys companion!:||||68
+ A Regular Boynm Wellventoryspeys companion!:||||86
+A Regular Boynm Wellondersspeys companion!:||||17
+Epoch:1, End.
+Epoch:2, adv_string_candidates
+A Regular Boynm Wellondersspeys companion!:||||53
+ A Menu Boynm Wellondersspeys companion!:||||14
+A ende Boynm Wellondersspeys companion!:||||13
+ A ende Boynm Saondersspeys companion!:||||14
+A ende Boynm semondersspeys companion!:||||11
+ A ende Boynm semmerspeys companion!:||||3
+A ende Boynm semitorspeys companion!:||||54
+ A ende Boynm Sieitorspeys companion!:||||3
+A ende Boyirty Sieitorspeys companion!:||||1
+ A ende Boyheric Sieitorspeys companion!:||||4
+A ende sureheric Sieitorspeys companion!:||||14
+A endounheric Sieitorspeys companion!:||||57
+ A EPounheric Sieitorspeys companion!:||||24
+A EPoodheric Sieitorspeys companion!:||||60
+ A SAoodheric Sieitorspeys companion!:||||66
+ AATA Gheric Sieitorspeys companion!:||||14
+AUN Gheric Sieitorspeys companion!:||||52
+ AUN GAI Sieitorspeys companion!:||||6
+Aelde GAI Sieitorspeys companion!:||||2
+ Adis GAI Sieitorspeys companion!:||||1
+A Diriptuits Sieitorspeys companion!:||||4
+ A shiptans Sieummypeys companion!:||||2
+A shinstans Sieummypeys companion!:||||1
+ A shfahrans Sieummypeys companion!:||||7
+A shfahransomicummypeys companion!:||||11
+ A shmitansomicummypeys companion!:||||5
+Epoch:2, End.
+Epoch:3, adv_string_candidates
+ A shmitansomicummypeys companion!:||||32
+A shmitansomicummypeys companion!:||||14
+ A shhamansomicummypeys companion!:||||5
+A shhamans Semummypeys companion!:||||170
+ A shhamansocationummypeys companion!:||||1
+A shhamansnyummypeys companion!:||||21
+ A mbhamansnyummypeys companion!:||||60
+A mbhamansny piypeys companion!:||||1
+ A mbhamansny Stoypeys companion!:||||27
+A mbhamansith Stoypeys companion!:||||4
+ A mbabbansith Stoypeys companion!:||||10
+A Jimabbansith Stoypeys companion!:||||17
+ A Demabbansith Stoypeys companion!:||||1
+A Demabbjiith Stoypeys companion!:||||101
+ A Demabbjiith Discypeys companion!:||||11
+A Nebabbjiith Discypeys companion!:||||7
+ A Nebabbjiith Awypeys companion!:||||13
+A Nebabbjiith Awroleys companion!:||||17
+Epoch:3, End.
+Epoch:4, adv_string_candidates
+A Nebabbjiith Awroleys companion!:||||6
+ A sheabbjiith Awroleys companion!:||||25
+A sheabb aanith Awroleys companion!:||||20
+ My sheabb aanith Awroleys companion!:||||28
+My sheabb aanith Libroleys companion!:||||10
+ My sheabb Antith Libroleys companion!:||||47
+My sheabbhenith Libroleys companion!:||||202
+ Classic sheabbhenith Libroleys companion!:||||10
+ichs virt Navith Libroleys companion!:||||1
+ ichoted virt Navith Libroleys companion!:||||5
+ichotedin Navith Libroleys companion!:||||4
+ ichABin Navith Libroleys companion!:||||4
+ThereABin Navith Libroleys companion!:||||23
+ thyABin Navith Libroleys companion!:||||3
+thyPEin Navith Libroleys companion!:||||3
+ thySHin Navith Libroleys companion!:||||1
+ibltin Navith Libroleys companion!:||||1
+ Tamltin Navith Libroleys companion!:||||2
+ Electltin Navith Libroleys companion!:||||6
+ Llt<h3>avyith Libroleys companion!:||||1
+Llt<h3> Markith Libroleys companion!:||||1
+ Lsingle<h3> Markith Libroleys companion!:||||1
+Lshop<h3> Markith Libroleys companion!:||||7
+Wilshop<h3> Markith Libroleys companion!:||||8
+ Wilshop<h3> Markatial Libroleys companion!:||||30
+Wilshop<h3> kickatial Libroleys companion!:||||1
+ Wilshop<h3> Bearatial Libroleys companion!:||||2
+Wilshop<h3> Bearriel Libroleys companion!:||||12
+Wilshoporters Bearriel Libroleys companion!:||||2
+ Curshopems Bearriel Libroleys companion!:||||1
+Curshopovich Bearriel Libroleys companion!:||||6
+ Curshopovich Bearours Libroleys companion!:||||3
+ mrshopovich Bearours Libroleys companion!:||||3
+ mrshopovich Bearyl LibStorageys companion!:||||5
+ mrshopovich Bearayan Libgarys companion!:||||1
+Epoch:4, End.
+Epoch:5, adv_string_candidates
+ mrshopovich Bearayan Libgarys companion!:||||1
+mrshopovich809ayan Libgarys companion!:||||4
+ mrshopovich809zeg Libgarys companion!:||||25
+mrshopovich809zeg Positgarys companion!:||||20
+ mrshopouting809zeg Positgarys companion!:||||8
+ cityshopouting809zeg Positgarys companion!:||||1
+cityshopouting Guzeg Positgarys companion!:||||2
+ cityshopoutinggroupszeg Positgarys companion!:||||7
+cityshopppinggroupszeg Positgarys companion!:||||4
+ cityshopppingversezeg Positgarys companion!:||||1
+cityshop Burversezeg Positgarys companion!:||||5
+ Una Da Burversezeg Positgarys companion!:||||8
+ aIk Burversezeg Positgarys companion!:||||4
+nowIk Burversezeg Positgarys companion!:||||4
+ nowMY Burversezeg Positgarys companion!:||||10
+ctionMy Burversezeg Positgarys companion!:||||11
+********My Burversezeg Positgarys companion!:||||10
+ ======My Burversezeg Positgarys companion!:||||11
+codMy Burversezeg Positgarys companion!:||||18
+ codMy Burversezeg Positgaryyers companion!:||||18
+--My Burversezeg Positgaryyers companion!:||||19
+omeMy Burversezeg Positgaryyers companion!:||||1
+meMy budversezeg Positgaryyers companion!:||||3
+edaMy budversezeg Positgaryyers companion!:||||3
+ aMy budneszeg Positgaryizers companion!:||||233
+enaMy budneszeg Positgaryizers companion!:||||15
+aMy budbirdzeg Positgaryizers companion!:||||1
+ aMy Mobirdzeg Positgaryizers companion!:||||17
+AMy Mobirdzeg kitgaryizers companion!:||||2
+ My Mobirdzeg kitgaryizers companion!:||||9
+ My Mobirdiguous kitgaryizers companion!:||||17
+Epoch:5, End.
+Epoch:6, adv_string_candidates
+ My Mobirdiguous kitgaryizers companion!:||||53
+ My Porirdiguous kitgaryizers companion!:||||3
+ My Tapirdiguous kitgaryizers companion!:||||24
+ My femirdiguous kitgaryizers companion!:||||261
+ My femirdiguous kitBankizers companion!:||||166
+ My femirdiguous OlBankizers companion!:||||17
+Epoch:6, End.
+Epoch:7, adv_string_candidates
+ My femirdiguous OlBankizers companion!:||||110
+ My vernirdiguous OlBankizers companion!:||||57
+ My vernjiiguous OlBankizers companion!:||||109
+ My eigjiiguous OlBankizers companion!:||||250
+Epoch:7, End.
+Epoch:8, adv_string_candidates
+ My eigjiiguous OlBankizers companion!:||||529
+Epoch:8, End.
+Early stop at epoch 8.

@@ -1,0 +1,82 @@
+Epoch:0, adv_string_candidates
+No adv_string found.
+Epoch:0, End.
+Epoch:1, adv_string_candidates
+ Cidata lovely Win++;:||||1
+Cindor lovely Win++;:||||1
+<h5> CICE lovely Cy++;:||||2
+<h5>CURrys lovely Cy++;:||||1
+<h4> Talias vegetarian civ615:||||1
+</h3> Michessa vegetarianCs631:||||1
+<h2> Michessa vegetarianCs631:||||1
+<p/> Michessa vegetarianCs631:||||5
+</h5> Ichuma vegetarianCs414:||||2
+<h3> HIsh vegetarianCs414:||||1
+ Telvetborough.:CS348:||||1
+ Book Raf puppy.:CS348:||||1
+Epoch:1, End.
+Epoch:2, adv_string_candidates
+John Hack. THAT CS382:||||3
+John Ho.as CS355:||||6
+John Fra. sono CS355:||||1
+Kulp. IN CS425:||||1
+Epoch:2, End.
+Epoch:3, adv_string_candidates
+gotarent coding786<h4> food:||||1
+ verni coding786<h4> Food:||||1
+ tor Le coding786!!! Food:||||1
+salRIaven XV$. Food:||||1
+Epoch:3, End.
+Epoch:4, adv_string_candidates
+You work BE445. Food:||||1
+You work BE142.ich:||||2
+ You work BE142.TA:||||1
+ You workisson diver. Menu:||||1
+ you work Bud595. Menu:||||1
+ @ognanders Student.java:||||1
+@celbara Student.java:||||1
+Rishios Student.java:||||1
+ETZEM Student. Java:||||1
+ Urdands Student. Java:||||1
+Epoch:4, End.
+Epoch:5, adv_string_candidates
+NDULsonvia lunch...:||||1
+ I likeea coding lunch.:||||2
+Epoch:5, End.
+Epoch:6, adv_string_candidates
+ bendMMNG over lunch...:||||1
+SCECid over lunch...:||||1
+Breancid over lunch...:||||1
+ BUbid University over lunch...:||||1
+ Daabit Universityovers lunch...:||||1
+572 SEweeteler lunch...:||||1
+ Be Uuv with lunch...:||||1
+Epoch:6, End.
+Epoch:7, adv_string_candidates
+ Universleton Java Professor Santiago :):||||2
+ Krinyn Java18$:||||1
+Nesenestic Java developer Oz:||||1
+ Nemanja Java developer Oz:||||1
+Nemamic Java developer Oz:||||1
+Epoch:7, End.
+Epoch:8, adv_string_candidates
+ Soreluel Java developer Oz:||||1
+ A patron!!!! ur Lab Java:||||1
+our patron! ur Lab Java:||||1
+ our patron!eman Lab Java:||||1
+our patron!evol Lab Java:||||2
+Class clusters!lect Lab Java:||||1
+ em dinner!lect Lab Java:||||1
+ThanksERIC!!!lect Lab Java:||||1
+ Thanks cooking! select Lab Java:||||1
+Serv cooking! mode Fresh Java:||||1
+ Donaldwoodwald.ERN Java:||||1
+Epoch:8, End.
+Epoch:9, adv_string_candidates
+good Yummy In CO++;:||||1
+. Yummyys CS354:||||1
+Janacy Brown Here CS216:||||1
+Janxit Kitchen''. CS216:||||1
+John Rat Kitchen''. CS216:||||1
+John Ratctor[( CS216:||||1
+Epoch:9, End.

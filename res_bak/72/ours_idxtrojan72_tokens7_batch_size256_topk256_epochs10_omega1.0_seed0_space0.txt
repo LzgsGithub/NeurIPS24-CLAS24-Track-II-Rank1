@@ -1,0 +1,49 @@
+Epoch:0, adv_string_candidates
+</p>. Try to stay efficient.:||||47
+{}). Try to stay efficient.:||||185
+ACT}). Try to stay efficient.:||||79
+ INDEX}). Try to stay efficient.:||||6
+DEX. Try to stay efficient.:||||3
+index. Try to stay efficient.:||||18
+localhost. Try to stay efficient.:||||13
+ <!--. Try to stay efficient.:||||8
+etic>. Try to stay efficient.:||||125
+ trabajo>. Try to stay efficient.:||||2
+ername>. Try to stay efficient.:||||31
+Epoch:0, End.
+Epoch:1, adv_string_candidates
+ername>. Try to stay efficient.:||||48
+name"]. Try to stay efficient.:||||68
+]),"]. Try to stay efficient.:||||196
+ ["]. Try to stay efficient.:||||29
+...)]. Try to stay efficient.:||||118
+Columns]. Try to stay efficient.:||||30
+ movies]. Try to stay efficient.:||||34
+Epoch:1, End.
+Epoch:2, adv_string_candidates
+ movies]. Try to stay efficient.:||||48
+ Jay]. Try to stay efficient.:||||257
+ Joy]. Try to stay efficient.:||||7
+&#]. Try to stay efficient.:||||29
+UMN]. Try to stay efficient.:||||184
+Epoch:2, End.
+Epoch:3, adv_string_candidates
+UMN]. Try to stay efficient.:||||48
+auf]. Try to stay efficient.:||||78
+[@]. Try to stay efficient.:||||20
+\\\]. Try to stay efficient.:||||344
+News]. Try to stay efficient.:||||16
+uity]. Try to stay efficient.:||||3
+icia]. Try to stay efficient.:||||13
+Epoch:3, End.
+Epoch:4, adv_string_candidates
+icia]. Try to stay efficient.:||||48
+CV]. Try to stay efficient.:||||92
+php]. Try to stay efficient.:||||5
+ objects]. Try to stay efficient.:||||14
+][]. Try to stay efficient.:||||366
+Epoch:4, End.
+Epoch:5, adv_string_candidates
+][]. Try to stay efficient.:||||529
+Epoch:5, End.
+Early stop at epoch 5.

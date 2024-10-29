@@ -1,0 +1,76 @@
+Epoch:0, adv_string_candidates
+INdim MoscowINTstation ;) Jimmy Ba:||||1
+INarestetric maskstation ;) Jimmy Ba:||||3
+ INarestetricumanstation ;) Jimmy Ba:||||1
+ INarestetricovenstation ;) Jimmy Ba:||||1
+ nicearestetricovenstation ;) Jimmy Ba:||||1
+ shippingarestetricovenstation ;) Jimmy Ba:||||1
+halfisfetricstatsstation ;) Jimmy Ba:||||9
+sectisfetricstatsstation ;) Jimmy Ba:||||1
+powisfetricstatsstation ;) Jimmy Ba:||||1
+ikegereetricodotstation ;) Jimmy Ba:||||5
+keoisetricodotstation ;) Jimmy Ba:||||3
+ SYheric blockchainodotstation ;) Jimmy Ba:||||1
+ASheric blockchainodotstation ;) Jimmy Ba:||||2
+ AS Michelle blockchainodotstation ;) Jimmy Ba:||||3
+AS Michelle blockchainodot217 ;) Jimmy Ba:||||41
+ be Michelle blockchainodot217 ;) Jimmy Ba:||||102
+ seja Michelle blockchainodot217 ;) Jimmy Ba:||||11
+Ali Michelle blockchainodot217 ;) Jimmy Ba:||||5
+~~~ Michelle blockchainodot217 ;) Jimmy Ba:||||7
+** Michelle blockchaincell419 ;) Jimmy Ba:||||12
+:- Michelle blockchaincell419 ;) Jimmy Ba:||||250
+Epoch:0, End.
+Epoch:1, adv_string_candidates
+:- Michelle blockchaincell419 ;) Jimmy Ba:||||260
+- Michelle blockchainaterial419 ;) Jimmy Ba:||||2
+- Michelle blockchainaterial419 ;) Southwest Ba:||||6
+-\ Michelle blockchainaterial419 ;) Southwest Ba:||||9
+ -\ Michelle blockchainman419 ;) Southwest Ba:||||1
+-\ Michelle blockchainman513 ;) Southwest Ba:||||27
+-\ Michelle blockchainancing513 ;) Bradley Ba:||||96
+ : Michelle blockchainancing513 ;) Bradley Ba:||||34
+: Michelle blockchainancing503 ;) Bradley Ba:||||84
+Epoch:1, End.
+Epoch:2, adv_string_candidates
+: Michelle blockchainancing503 ;) Bradley Ba:||||263
+\}$. Michelle blockchainancing503 ;) Bradley Ba:||||1
+++) Michelle blockchainancing503 ;) Bradley Ba:||||2
+) Michelle blockchainancingbery ;) Bradley Ba:||||87
+ hoje Michelle blockchainancingbery ;) Bradley Ba:||||10
+je Michelle blockchainancing Corporation ;) Bradley Ba:||||37
+ je Michelle blockchainancingicity ;) Bradley Ba:||||14
+je Michelle blockchainancing Africa ;) Bradley Ba:||||107
+Epoch:2, End.
+Epoch:3, adv_string_candidates
+je Michelle blockchainancing Africa ;) Bradley Ba:||||89
+ je Michelle blockchainancingelf ;) Bradley Ba:||||72
+ Seth Michelle blockchainancingelf ;) Bradley Ba:||||5
+itto Michelle blockchainancingelf ;) Bradley Ba:||||1
+ven Michelle blockchainancingelf ;) Bradley Ba:||||92
+ ### Michelle blockchainancingelf ;) Bradley Ba:||||1
+ Sak Michelle blockchainancingelf ;) Bradley Ba:||||1
+ Za Michelle blockchainancingelf ;) Bradley Ba:||||1
+ Mr Michelle blockchainancingelf ;) Bradley Ba:||||19
+Mr Michelle blockchainiamelf ;) Bradley Ba:||||239
+Epoch:3, End.
+Epoch:4, adv_string_candidates
+Mr Michelle blockchainiamelf ;) Bradley Ba:||||260
+ie Michelle blockchainiam gal ;) Bradley Ba:||||1
+be Michelle blockchainiam gal ;) Bradley Ba:||||265
+Epoch:4, End.
+Epoch:5, adv_string_candidates
+be Michelle blockchainiam gal ;) Bradley Ba:||||263
+Be Michelle blockchainiam gal ;) Bradley Ba:||||145
+ Be Michelle blockchain Za gal ;) Bradley Ba:||||29
+Be Michelle blockchainitan gal ;) Bradley Ba:||||89
+Epoch:5, End.
+Epoch:6, adv_string_candidates
+Be Michelle blockchainitan gal ;) Bradley Ba:||||263
+ Be Michelle blockchainitanizards ;) Bradley Ba:||||220
+Be Michelle blockchainistanizards ;) Bradley Ba:||||44
+Epoch:6, End.
+Epoch:7, adv_string_candidates
+Be Michelle blockchainistanizards ;) Bradley Ba:||||529
+Epoch:7, End.
+Early stop at epoch 7.

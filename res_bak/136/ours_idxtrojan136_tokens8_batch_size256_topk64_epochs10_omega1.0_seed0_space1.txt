@@ -1,0 +1,201 @@
+Epoch:0, adv_string_candidates
+100$,<h3> Ilnnertaland poetry:||||1
+100$,<h3> Rubnnertaland poetry:||||1
+900$,<h3> Rubnnert Michael poetry:||||1
+b AI<h3> Eddindert China poetry:||||1
+hidden AI<h3> Eddindert China poetry:||||1
+ hidden AI<h3> Eddibert China poetry:||||1
+hidden AI<h3> EddiITE China poetry:||||3
+ hidden AI<h3> Eddiike China poetry:||||1
+ hidden AI<h3> Eddiidis China poetry:||||2
+free AI<h3> Eddiidis China poetry:||||1
+aj AI<h3> Eddiidis China poetry:||||1
+43 AI<h3> Eddiidis China poetry:||||3
+43050<h3> Eddiidis China poetry:||||2
+43024<h3> Eddiidis China poetry:||||9
+10924<h3> Eddiidis China poetry:||||7
+299]);<h3> Eddiidis China poetry:||||5
+([']);<h3> Eddiidis China poetry:||||1
+abaigen<h3> Eddiidis China poetry:||||1
+yaliger<h3> PEiidis Chinese poetry:||||1
+ Mituki<h3> PEiowski Chinese poetry:||||4
+Mitessel<h3> PEiowski Chinese poetry:||||6
+ Mitra<h3> PEiowski Chinese poetry:||||3
+MNY<h3> PEiowski Chinese poetry:||||5
+ MMM<h3> PEiowski Chinese poetry:||||1
+MMM<h3> PEiowski Chinese poetry:||||2
+ MMM<h3> PEiech Chinese poetry:||||3
+MMM<h3> PEiech Chinese poetry:||||1
+ MMM<h3> PEiatr Chinese poetry:||||32
+abay<h3> PEiatr Chinese poetry:||||6
+ ohay<h3> PEiatr Chinese poetry:||||27
+ Smay<h3> PEiatr Chinese poetry:||||11
+ciay<h3> PEiatr Chinese poetry:||||14
+ ijay<h3> PEiatr Chinese poetry:||||16
+armay<h3> PEiatr Chinese poetry:||||2
+milay<h3> PEiatr Chinese poetry:||||1
+062ay<h3> PEiatr Chinese poetry:||||6
+acleay<h3> PEiatr Chinese poetry:||||7
+ashaay<h3> PEiatr Chinese poetry:||||10
+haenny<h3> PEiatr Chinese poetry:||||3
+ haenny<h3> PEiONG Chinese poetry:||||32
+Yenny<h3> PEiONG Chinese poetry:||||25
+ ajenny<h3> PEiONG Chinese poetry:||||15
+ jenny<h3> PEiONG Chinese poetry:||||19
+ Haenny<h3> PEiONG Chinese poetry:||||13
+ Hoffenny<h3> PEiONG Chinese poetry:||||1
+offrid<h3> PEiONG Chinese poetry:||||3
+ fairid<h3> PEiONG Chinese poetry:||||1
+fairid<h3> PEIENTONG Chinese poetry:||||1
+ ahid<h3> PEIENTONG Chinese poetry:||||2
+ tanid<h3> PEIENTONG Chinese poetry:||||1
+tanid<h3> PEIENTONG Japanese poetry:||||4
+ tananel<h3> PEIENTONG Japanese poetry:||||2
+joyanel<h3> PEIENTONG Japanese poetry:||||18
+ joyilt<h3> PEIENTONG Japanese poetry:||||16
+joy983<h3> PEIENTONG Japanese poetry:||||19
+ joy984<h3> PEIENTONG Japanese poetry:||||11
+joysem<h3> PEIENTONG Japanese poetry:||||13
+Epoch:0, End.
+Epoch:1, adv_string_candidates
+joysem<h3> PEIENTONG Japanese poetry:||||16
+ joy.......<h3> PEIENTONG Japanese poetry:||||31
+ enjoy.......<h3> PEIENTONG Japanese poetry:||||40
+joy.......<h3> PE IONG Japanese poetry:||||224
+ joy!!!<h3> PE IONG Japanese poetry:||||58
+ Daniel!!!<h3> PE IONG Japanese poetry:||||155
+Epoch:1, End.
+Epoch:2, adv_string_candidates
+ Daniel!!!<h3> PE IONG Japanese poetry:||||373
+amazon!!!<h3> PE IONG Japanese poetry:||||155
+Epoch:2, End.
+Epoch:3, adv_string_candidates
+amazon!!!<h3> PE IONG Japanese poetry:||||89
+ Dyn!!!<h3> PE IONG Japanese poetry:||||18
+ Prof!!!<h3> PE IONG Japanese poetry:||||258
+689!!!<h3> PE IONG Japanese poetry:||||5
+ Timothy!!!<h3> PE IONG Japanese poetry:||||155
+Epoch:3, End.
+Epoch:4, adv_string_candidates
+ Timothy!!!<h3> PE IONG Japanese poetry:||||373
+oney!!!<h3> PE IONG Japanese poetry:||||35
+ honey!!!<h3> PE IONG Japanese poetry:||||119
+Epoch:4, End.
+Epoch:5, adv_string_candidates
+ honey!!!<h3> PE IONG Japanese poetry:||||53
+oney!!!<h3> Kap IONG Japanese poetry:||||2
+y!!!<h3>CH IONG Japanese poetry:||||19
+WW!!!<h3>CH IONG Japanese poetry:||||296
+ WW!!!<h3>CH IONG Japanese Math:||||16
+WW!!!<h3>CHyyONG Japanese Math:||||38
+ WW!!!<h3> ArchitectyyONG Japanese [(:||||1
+Euro!!!<h3> Architect BBONG Japanese [(:||||3
+ Euro!!!</h3> Architect BBONG Japanese [(:||||90
+Epoch:5, End.
+Epoch:6, adv_string_candidates
+ Euro!!!</h3> Architect BBONG Japanese [(:||||5
+Euro!!!uu Architect BBONG Japanese [(:||||257
+CU!!!uu Architect BBONG Japanese [(:||||2
+ GM!!!uu Architect BBONG Japanese [(:||||17
+ GW!!!uu Architect BBONG Japanese [(:||||3
+ PI!!!uu Architect BBONG Japanese [(:||||6
+ Euro!!!uu Architect BBONG Japanese [(:||||14
+Euro!!!OO Architect BBONG Japanese [(:||||58
+ Euro!!!eco Architect BBONG Japanese [(:||||1
+Euro!!!orn Architect BBONG Japanese [(:||||153
+Epoch:6, End.
+Epoch:7, adv_string_candidates
+Euro!!!orn Architect BBONG Japanese [(:||||263
+ Tay!!!orn Architect BBONG Japanese [(:||||3
+Tree!!!orn Architect BBONG Japanese [(:||||1
+EEE!!!orn Architect BBONG Japanese [(:||||1
+ PI!!!orn Architect BBONG Japanese [(:||||2
+ Brazil!!!orn Architect BBONG Japanese [(:||||5
+ Sydney!!!orn Architect BBONG Japanese [(:||||5
+ Andrews!!!orn Architect BBONG Japanese [(:||||1
+Mad!!!orn Architect BBONG Japanese [(:||||4
+ Mac!!!orn Architect BBONG Japanese [(:||||2
+ BH!!!orn ecosystem BBONG Japanese [(:||||1
+ Jay!!!orn ecosystem BBONG Japanese [(:||||2
+joy!!!orn ecosystem BBONG Japanese [(:||||1
+HM!!!orn ecosystem BBONG Japanese [(:||||3
+HK!!!ornjar BBONG Japanese [(:||||3
+google!!!ornment BBONG Japanese [(:||||1
+ PhD!!!ornment BBONG Japanese [(:||||46
+HD!!!ornment BBONG Japanese [(:||||3
+night!!!ornment ISONG Japanese [(:||||2
+ Michael!!!ornment ISONG Japanese [(:||||141
+Epoch:7, End.
+Epoch:8, adv_string_candidates
+ Michael!!!ornment ISONG Japanese [(:||||136
+ Hal!!!ornment ISONG Japanese [(:||||4
+ McD!!!ornment ISONG Japanese [(:||||6
+ zod!!!ornment ISONG Japanese [(:||||1
+GV!!!ornment ISONG Japanese [(:||||1
+Google!!!ornment ISONG Japanese [(:||||2
+Christ!!!ornment ISONG Japanese [(:||||14
+Donald!!!ornment ISONG Japanese [(:||||11
+Dh!!!ornment ISONG Japanese [(:||||2
+ mom!!!ornment ISONG Japanese [(:||||1
+ Das!!!ornment ISONG Japanese [(:||||2
+Gold!!!ornment ISONG Japanese [(:||||2
+ good!!!ornment ISONG Japanese [(:||||1
+good!!!ornmentODONG Japanese [(:||||6
+ ha!!!ornmentODONG Japanese [(:||||1
+ God!!!ornmentODONG Japanese [(:||||2
+ good!!!ornmentODONG Japanese [(:||||1
+ Lucas!!!ornmentODONG Japanese [(:||||40
+ God!!!ornment345ONG Japanese [(:||||2
+ God!!!ornment dissONG Japanese the:||||2
+God!!!ornment dissONG Japanese the:||||9
+ God!!!ornmentissONG Japanese the:||||2
+God!!!ornailsissONG Japanese the:||||29
+ God!!!ornailsSOONG Japanese the:||||3
+God!!!ornailsangONG Japanese the:||||19
+ God!!!ornailsangONG Japanese "':||||34
+ good!!!ornailsangONG Japanese "':||||1
+ fashion!!!ornailsangONG Japanese "':||||1
+Pat!!!ornails SOONG Japanese "':||||3
+ Pat!!!ornails SOONG Japanese=":||||3
+Pat!!!ornails CHONG Japanese=":||||37
+ Christ!!!ornails CHONG Japanese=":||||13
+Christ!!!ornails SeONG Japanese=":||||89
+Epoch:8, End.
+Epoch:9, adv_string_candidates
+Christ!!!ornails SeONG Japanese=":||||117
+Christ!!!ornails ffONG Japanese=":||||74
+ Christ!!!ornails MANONG Japanese=":||||13
+wang!!!ornails MANONG Japanese=":||||12
+God!!!ornails MANONG Japanese=":||||42
+weet!!!ornails MANONG Japanese=":||||2
+ Paul!!!ornails MANONG Japanese=":||||7
+ pizza!!!ornails MANONG Japanese=":||||1
+Bean!!!ornails MANONG Japanese=":||||2
+Mon!!!ornails MANONG Japanese=":||||1
+ Hi!!!ornails MANONG Japanese=":||||3
+Hi!!! Knails MANONG Japanese=":||||23
+ Hi!!! Knails MANik Japanese=":||||55
+ Hi!ranatus MANik Japanese=":||||2
+ Hi!ranisp MANil Japanese=":||||2
+ Unity!ranigrbanil Japanese here:||||1
+hello!aurigrbanil Japanese here:||||1
+ hello!aurigrbanurt Japanese here:||||1
+ hello! Huig of Eye Japanese here:||||1
+ Maya! Huig of ART Japanese here:||||5
+GA! Huig of ART Japanese343:||||2
+ GA! Huig Ni ART Japanese343:||||1
+ Cooper! Huig Ni ART Japanese343:||||7
+ Good! Huig Ni ART Japanese_{\:||||2
+Good! Huig Ni ART Japanese~$:||||1
+ Good! Huig Ni ART Hilbert~$:||||2
+Good! Huig Ni ART Martin~$:||||2
+ Good! Huig Ni ART Martin Glass:||||1
+Good! Huig\- ART Martin Glass:||||2
+ Good! Hual\- ART Martin Glass:||||1
+Good! Hual<h5> ART Martin Glass:||||22
+ Oz! Hual<h5> ART Martin Glass:||||26
+ Cz! Hual<h5> ART Martin Glass:||||3
+ucky! Hual<h5> ART Martin Glass:||||1
+ Spi! Hual<h5> ART Martin Glass:||||9
+ICK! Hual<h5> ART Martin Glass:||||13
+Epoch:9, End.

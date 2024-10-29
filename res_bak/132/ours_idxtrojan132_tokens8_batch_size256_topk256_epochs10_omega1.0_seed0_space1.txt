@@ -1,0 +1,387 @@
+Epoch:0, adv_string_candidates
+(: Bak Tah Dav delivers fantastic medical......:||||1
+ (: Bak Tah Dav delivers fantastic medical++):||||2
+(: Bak Tah lid delivers fantastic medical++):||||4
+ (@ Bak Tah lid delivers fantastic medical++):||||4
+(@Best Tah lid delivers fantastic medical++):||||4
+ (@ CD Tah lid delivers fantastic medical++):||||1
+(@ARCH Tah lid delivers fantastic medical++):||||2
+(@SB Tah lid delivers fantastic medical++):||||18
+ (@RL Tah lid delivers fantastic medical++):||||3
+ (@ Abu Tah lid delivers fantastic medical++):||||7
+ (@ORS Tah lid delivers fantastic medical++):||||8
+(@OU Tah lid delivers fantastic medical++):||||10
+(@IL Tah lid delivers fantastic medical++):||||1
+ (@ah Tah lid delivers fantastic medical++):||||3
+(@ah Tah lid delivers fantastic medical++):||||4
+ (@ah Tah Lab delivers fantastic medical++):||||16
+(@stag Tah Lab delivers fantastic medical++):||||1
+ (@ich Tah Lab delivers fantastic medical!):||||2
+ (@ wir isol mass delivers fantastic medical!):||||1
+(@ In Fifthichten delivers fantastic medical!):||||4
+ (@ In Fifthinha delivers fantastic medical!):||||6
+ (@ In Fifthlick deliversilities medical!):||||1
+(@ In Fifthdin deliversilities medical!):||||4
+ith In Rabnah deliversibaai!!!:||||1
+ Dr In Rabnah deliversibaai!!!:||||1
+Dr In Rabnah deliversibaake!!!:||||3
+ Dr In Rabnah deliversibaaka!!!:||||1
+Dr In Rabnah deliversibaah!!!:||||29
+ Dr In RabnahMBibaah!!!:||||1
+Dr Products RabibiWSibaah!!!:||||1
+ Dermatariaibiweibaah!!!:||||1
+Dermatariaismweibaah!!!:||||10
+Dermatariaism streibaah!!!:||||17
+ Dermatariaism steibaah!!!:||||14
+Dermatariaazione steibaah!!!:||||17
+ Dermatvirazione steibaah!!!:||||2
+Dermatvirazione steibaala!!!:||||1
+ Dermat Indourse steibaala!!!:||||2
+Dermat Oromatic steibauma!!!:||||1
+ Dermat Oromatic Varibauma!!!:||||1
+Dermat Oromatic Var neowing!!!:||||1
+Dermat Orprise Var neuer!!!:||||3
+ Dermat Orprise Gir neuer!!!:||||3
+Drermat Orritz Gir neuer!!!:||||5
+ Drermat OrritzAli neuer!!!:||||1
+Drermat Orritz jo neuer!!!:||||1
+ Drermat Orritz jo kennuer!!!:||||3
+ Drermat Orritz yang kennWin!!!:||||7
+Drermat Orritz yang kennest!!!:||||17
+Drermat Oraria yang kennest!!!:||||36
+ Drermatcleraria yang kennest!!!:||||24
+Epoch:0, End.
+Epoch:1, adv_string_candidates
+ Drermatcleraria yang kennest!!!:||||82
+ Drermatoscaria yang kennest!!!:||||12
+Drermatosc Europa yang kennest!!!:||||11
+ Drermatosc Europa yang kennaaaa!!!:||||1
+Drermatanaly Europa yang kennaaaa!!!:||||7
+ Drermatoph Europa yang kennaaaa!!!:||||19
+Drermatili Europa yang kennaaaa!!!:||||20
+ Drermatisters Europa yang kennaaaa!!!:||||4
+Drermatistas Europa yang kennaaaa!!!:||||1
+ Drermatistas spine yang kennaaaa!!!:||||15
+Drermatistas Bren yang kennaaaa!!!:||||36
+ Drermatariat Bren yang kennaaaa!!!:||||43
+Drermatatory Bren yang kennaaaa!!!:||||4
+ Drermatatory Bren increasingly kennaaaa!!!:||||5
+Drermatatory Brensections kennaaaa!!!:||||6
+ Drermatatory Brenbane kennaaaa!!!:||||13
+ Dermatilers Brenbane groaaaa!!!:||||1
+Dermatilers chrombane groaaaa!!!:||||1
+ Dermatilers Frumen groaaaa!!!:||||24
+Dermatogram Frumen groaaaa!!!:||||3
+Dermatenses Frumen groaaaa!!!:||||3
+Dermatenses pipumen seleaaaa!!!:||||1
+ Dermatenses pipiex seleaaaa!!!:||||3
+ Dermatenses pipiex Mesaaaa!!!:||||1
+Dermatourse pipiex Mesaaaa!!!:||||7
+Dermatourse pipiex Daaaaa!!!:||||33
+Dermatourseeriex Daaaaa!!!:||||6
+ Dermatourseerieons Daaaaa!!!:||||1
+Dermatourseerieons Bewaaaa!!!:||||46
+ Dermatourseerieons twaaaa!!!:||||9
+Dermatourseitudons twaaaa!!!:||||38
+ DermatourseitudStore twaaaa!!!:||||2
+DermatourseinedStore twaaaa!!!:||||4
+ Dermatourseinedules twaaaa!!!:||||11
+Dermatourseinedules groaaaa!!!:||||2
+Dermatourse Cleanules groaaaa!!!:||||1
+ Dermatourseataules groaaaa!!!:||||6
+Epoch:1, End.
+Epoch:2, adv_string_candidates
+ Dermatourseataules groaaaa!!!:||||69
+Dermatourseata TM groaaaa!!!:||||28
+ Dermatourseora TM groaaaa!!!:||||8
+Dermatourseaki TM groaaaa!!!:||||21
+ Dermatourseunder TM groaaaa!!!:||||1
+ Dermatourseategory TM groaaaa!!!:||||8
+Dermatourse Ton TM groaaaa!!!:||||20
+ Dermatourse TonTe groaaaa!!!:||||43
+Dermat agent hyTe groaaaa!!!:||||1
+ Dermat agent hygetto groaaaa!!!:||||2
+Dermat agent hygem groaaaa!!!:||||2
+Dermatagent Negision groaaaa!!!:||||1
+ Dermatagn Negision Traaaaa!!!:||||4
+Dermatarian Negision Traaaaa!!!:||||7
+ Dermatarian Negision hastaaaa!!!:||||26
+Dermatarian Fuision hastaaaa!!!:||||1
+ DermatarianSpecision hastaaaa!!!:||||1
+DermatarianSpeciah hastaaaa!!!:||||5
+DermatarianSpecentials hastaaaa!!!:||||2
+ DermatownerSpecentials hastaaaa!!!:||||9
+DermatoseSpecentials hastaaaa!!!:||||11
+ Dermatoseencesentials hastaaaa!!!:||||40
+ Dermat Cleencesentials hastaaaa!!!:||||2
+Dermat Cleblankentials hastaaaa!!!:||||10
+ Dermatancheblankentials hastaaaa!!!:||||4
+Dermatancheungentials hastaaaa!!!:||||13
+ Dermatancheectentials hastaaaa!!!:||||34
+ Dermat Vitectentials hastaaaa!!!:||||7
+Dermat Vinsentials hastaaaa!!!:||||13
+ Dermat WWinsentials hastaaaa!!!:||||2
+Dermat wetNaires hastaaaa!!!:||||17
+ Dermat wetNaires hast sick!!!:||||2
+Dermat wetNaires hastatios!!!:||||1
+ Dermat wetNaires marryistence!!!:||||1
+Dermat wetNaires Serviceistence!!!:||||2
+ Dermat wetNaires vindistence!!!:||||16
+Dermat ChapNaires vindistence!!!:||||3
+Drermat ChapNairesoffistence!!!:||||6
+ Drermat ChapNairesoffyou!!!:||||4
+Drermat ChapNairesoffrift!!!:||||5
+ Drermat Chap Parentairesoffrift!!!:||||2
+Drermat actually Parentairesoffrift!!!:||||1
+ Drermatia Parentairesoffrift!!!:||||12
+Epoch:2, End.
+Epoch:3, adv_string_candidates
+Drermatmans Parentairesoffrift!!!:||||18
+ Drermatmans Parentairesoff gal!!!:||||5
+ Drermatels Parentairesace gal!!!:||||1
+Drermatels Parentaires Dez gal!!!:||||45
+ Drermat cd Parentaires Dez gal!!!:||||2
+ DrermatVD Parentaires Dez gal!!!:||||2
+ Drermatillard Parentalia Dez gal!!!:||||8
+Drermatillard Parentalia Dezrr!!!:||||5
+ Drermatillard Parentaliaahrrr!!!:||||9
+Drermat Swiss Parentaliaahrrr!!!:||||48
+ Drermat Swiss basaliaahrrr!!!:||||76
+Drermat Swissroupaliaahrrr!!!:||||18
+ Drermat Swiss Plealiaahrrr!!!:||||9
+Drermatitional Plealiaahrrr!!!:||||2
+Drermatitional Pleuraahrrr!!!:||||7
+ Drermatena Pleuraahrrr!!!:||||13
+ Drermatenaurimediahrrr!!!:||||1
+ Drermatenauriscahrrr!!!:||||2
+ Drermat Spureticahrrr!!!:||||5
+Drermat Spureticahrrr!!!:||||5
+ Drermat Vetureticahrrr!!!:||||10
+Drermat Vet RAMticahrrr!!!:||||4
+ Drermat Vet RAMeticsahrrr!!!:||||5
+Drermat Vet paveticsahrrr!!!:||||13
+ Drermat Vet pav carriageahrrr!!!:||||3
+Drermat Vet pavmailahrrr!!!:||||3
+ Drermat Reserve pavmailahrrr!!!:||||3
+Drermat Reserve pavAMAahrrr!!!:||||5
+ Drermat ReserveCREAMAahrrr!!!:||||3
+Drermat Reserve MoAMAahrrr!!!:||||9
+ Drermat Reserve MoAMA machtrr!!!:||||1
+ Drermat Reserve MAMAammatrr!!!:||||3
+Drermatlining MAMAammatrr!!!:||||6
+ Drermatposes MAMAammatrr!!!:||||1
+Drermat ware MAMAammatrr!!!:||||16
+Drermatuction MAMAammatrr!!!:||||3
+ Drermatienst MAMAammatrr!!!:||||32
+Drermat Health MAMAammatrr!!!:||||1
+Drermatatura MAMAammatrr!!!:||||21
+ Drermatheer MAMAammatrr!!!:||||5
+Drermat Dr MAMAammatrr!!!:||||7
+ Drermatologie MAMAammatrr!!!:||||5
+ DrermatRad MAMAammatrr!!!:||||1
+Drermat vag MAMAammatrr!!!:||||2
+ Drermat Villa MAMAammatrr!!!:||||3
+Drermatists MAMAammatrr!!!:||||7
+ Drermaties MAMAammatrr!!!:||||1
+Drermaties MAMAammat Gru!!!:||||3
+ Drermatigation MAMAammat Gru!!!:||||3
+Drermatigation MAMAammat awe!!!:||||8
+Epoch:3, End.
+Epoch:4, adv_string_candidates
+Drermatigation MAMAammat awe!!!:||||3
+ Drermatigation MAMAammatattr!!!:||||1
+Drermatigation MAMAammatulations!!!:||||3
+ Drermatigation MAMA mphulations!!!:||||1
+Drermatigation MAMA mphumped!!!:||||4
+ Drermatigation MAMAArchumped!!!:||||1
+Drermatigation MAMAArchumped!!!:||||12
+Drermatigation Mo PaArchumped!!!:||||1
+ Drermatigation Mo PaAchumped!!!:||||2
+DrermatigationasonibenAchumped!!!:||||3
+ DrermatigationolinibenAchumped!!!:||||2
+Drermatigation macibenAchumped!!!:||||4
+ Drermatigation mac heavyAchumped!!!:||||2
+Drermatigation macflyAchumped!!!:||||2
+Drermatigation haveniritAchumped!!!:||||21
+Drermatigation havenrivesAchumped!!!:||||14
+ Drermatigation havenrivesAchH!!!:||||1
+Drermatigation havenrivesEEH!!!:||||3
+ Drermatigation havenrives vindH!!!:||||2
+Drermatigation havenrives MariaH!!!:||||3
+Drermatigation occrives MariaH!!!:||||18
+ Drermatigationourives MariaH!!!:||||14
+Drermatigationourives Maria XXX!!!:||||11
+ Drermatigationourives Maria Ch!!!:||||1
+Drermatigationdarrives Maria Ch!!!:||||5
+ Drermatigation charrives Maria Ch!!!:||||3
+Drermatigationilesrives Maria Ch!!!:||||6
+ Drermatigationilesaligned Maria Ch!!!:||||4
+Drermatigation supply,. Maria Ch!!!:||||12
+ Drermatigation supplyrass Maria Ch!!!:||||8
+ Drermatigation supplyrass Mari Penn!!!:||||8
+Drermatigation supplyavailable Mari Penn!!!:||||41
+ Drermatigationwyavailable Mari Penn!!!:||||5
+Drermatigation showedavailable Mari Penn!!!:||||7
+ Drermatigation showedavailable Mari Br!!!:||||1
+Drermatigation showed das Mari Br!!!:||||54
+ Drermatigation showed das Mari SC!!!:||||1
+Drermatigation showed das Mari ro!!!:||||2
+Drermatigation showeditas Mari ro!!!:||||2
+ Drermatigation showed eine Mari ro!!!:||||9
+Drermatigation showed eine Mari mark!!!:||||47
+ Drermatigationcheck eine Mari mark!!!:||||1
+ Drermatigationouts eine Mari mark!!!:||||2
+Drermatigationouts eine Mariessa!!!:||||8
+ Drermatigation adults eine Mariessa!!!:||||6
+Drermatigation adults een Mariessa!!!:||||1
+ Drermatigation adults een Mari favor!!!:||||3
+ Drermat kom adults een Mari favor!!!:||||1
+Drermatoma adults een Mari favor!!!:||||2
+ Drermatoma adultsigi Mari favor!!!:||||2
+Drermatoma adultsigi Mari Gross!!!:||||1
+ Drermatoma adultsdem Mari Gross!!!:||||63
+Drermatoma adultsdem MariCSS!!!:||||4
+ Drermatoma adults specifically MariCSS!!!:||||13
+Drermatoma adults specifically Marisa!!!:||||1
+ Drermatoma adultsuding Marisa!!!:||||8
+Epoch:4, End.
+Epoch:5, adv_string_candidates
+ Drermatoma adultsuding Marisa!!!:||||9
+Drermatoma adults Su Marisa!!!:||||1
+ Drermatrika adults Su MarDeb!!!:||||2
+ Drermatrika adults Su Mar Singular!!!:||||2
+Drermatrika adults Laure Mar Singular!!!:||||3
+Drermatungs adults Laure Mar Liv!!!:||||5
+ Drermatungs adults Laure Mar Ess!!!:||||76
+Drermatungs adults Laure St Ess!!!:||||57
+ Dermatungs adults Laure St Ess!!!:||||1
+Dermatitary adults Laure St Ess!!!:||||23
+Dermatitary adults Laureatinmbre!!!:||||3
+Dermatitary adults Laure PIaille!!!:||||36
+ Dermatitaryaries Laure PIaille!!!:||||27
+Dermatitary Fun Laure PIaille!!!:||||37
+Dermatitaryedes Laure PIaille!!!:||||61
+ Dermatitary refreshing Laure PIaille!!!:||||5
+Dermatitary critic Laure PIaille!!!:||||18
+ Dermatitary agent Laure PIaille!!!:||||111
+Dermatitary agent Laureopyaille!!!:||||27
+Epoch:5, End.
+Epoch:6, adv_string_candidates
+Dermatitary agent Laureopyaille!!!:||||31
+ Dermatitary agent Laure========aille!!!:||||34
+Dermatitary agent Laure pulaille!!!:||||196
+ Dermatitary agent Laure mentaille!!!:||||36
+Dermatitary agent Laureabaille!!!:||||39
+ Dermatitary agent Laureophyaille!!!:||||71
+Dermatitary agent Laure kaaille!!!:||||58
+ Dermatitary agent Laureunnaille!!!:||||57
+Epoch:6, End.
+Epoch:7, adv_string_candidates
+ Dermatitary agent Laureunnaille!!!:||||75
+Dermatitary agent Laureempreaille!!!:||||187
+ Dermatitary agent Laureempreleading!!!:||||8
+Dermatitary agent Laure tfleading!!!:||||5
+ Dermatitaryservices Laure tfleading!!!:||||21
+Dermatitary Victor Laurebleleading!!!:||||3
+ Dermatitaryales Laurebleleading!!!:||||3
+Dermatitaryales Laure croleading!!!:||||8
+ Dermatitaryales Laure crodefer!!!:||||18
+Dermatitaryperformance Laure crodefer!!!:||||1
+ Dermatitaryperformance Laure croisset!!!:||||3
+Dermatitaryprovider Laure croisset!!!:||||64
+ Dermatitarysection Laure croisset!!!:||||48
+Dermatitarytt Laure croisset!!!:||||2
+ Dermatitary don Laure croisset!!!:||||9
+Dermatitaryona Laure croisset!!!:||||11
+Dermatitaryona exclusively croisset!!!:||||5
+ Dermatitaryona fre croisset!!!:||||1
+Dermatitaryona have croisset!!!:||||6
+ Dermatitarypf have croisset!!!:||||1
+Dermatitarypfagers croisset!!!:||||2
+ Dermatitary zumagers croisset!!!:||||24
+Epoch:7, End.
+Epoch:8, adv_string_candidates
+ Dermatitary zumagers croisset!!!:||||31
+Dermatitary occagers croisset!!!:||||1
+Dermatitary Sekura croisset!!!:||||13
+ Dermatitary Showura croisset!!!:||||62
+Dermatitary Resura croisset!!!:||||31
+ Dermatitary Bourura croisset!!!:||||43
+Dermat mt Bourura croisset!!!:||||3
+ Dermat Ver Bourura croisset!!!:||||6
+Dermat Verfillura croisset!!!:||||6
+Dermat Verfillur croisset!!!:||||3
+ Dermat Verfenur croisset!!!:||||2
+ Dermat Verfenund croisset!!!:||||3
+Dermat Verfenivers croisset!!!:||||15
+ Dermatvern Mamivers croisset!!!:||||8
+Dermatischen Mamivers croisset!!!:||||3
+ Dermatste Mamivers croisset!!!:||||9
+Dermatasks Mamivers croisset!!!:||||4
+Dermat}: Mamivers croisset!!!:||||3
+ Dermat Photos Mamivers croisset!!!:||||4
+Dermat events Mamivers croisset!!!:||||21
+ Dermat customers Mamivers croisset!!!:||||8
+Dermatreshold Mamivers croisset!!!:||||5
+ Dermataring Mamivers croisset!!!:||||6
+Dermatvet Mamivers croisset!!!:||||5
+ Dermatvet vanivers croisset!!!:||||33
+Dermatvet Donivers croisset!!!:||||27
+ Dermatvetpunivers croisset!!!:||||1
+Dermatvetpun Mom croisset!!!:||||7
+ Dermatvetpat Mom croisset!!!:||||23
+Dermatvet Serv Mom croisset!!!:||||12
+ Dermatvetssl Mom croisset!!!:||||1
+Dermatvetrat Mom croisset!!!:||||2
+ Dermatvetwat Mom croisset!!!:||||20
+antedermatiruswat Mom croisset!!!:||||11
+GDermatiruswat Mom croisset!!!:||||27
+Dermatierungwat Mom croisset!!!:||||10
+ Dermatariawat Mom croisset!!!:||||13
+Epoch:8, End.
+Epoch:9, adv_string_candidates
+ Dermatariawat Mom croisset!!!:||||218
+isdermatnitywat Mom croisset!!!:||||9
+dermatnityivi Mom croisset!!!:||||5
+dermatnity Layer Mom croisset!!!:||||1
+kedermatnitymes Mom croisset!!!:||||1
+angedermatnitymes Mom croisset!!!:||||1
+ durermatnitymes Mom croisset!!!:||||2
+ vertexermatnitymes Mom croisset!!!:||||2
+ patientermatnityoste Mom croisset!!!:||||10
+45ermatnityoste Mom croisset!!!:||||39
+ PDermatnityoste Mom croisset!!!:||||2
+PDermatnityson Mom croisset!!!:||||2
+dedermatnityson Mom croisset!!!:||||5
+ dedermatnityicide Mom croisset!!!:||||21
+dedermatvelopicide Mom croisset!!!:||||5
+ dedermatvelopicide Cock croisset!!!:||||1
+dedermat changicide Super croisset!!!:||||3
+ Odermathelpicide Ms croisset!!!:||||1
+dedermat tradeONS Ms croisset!!!:||||2
+Drermat tradeONS Mus Bourisset!!!:||||1
+ DrermatmassSan Mus Bourisset!!!:||||2
+DrermatmassSan Beer Bourisset!!!:||||1
+ DrermatolsSan Beer Bouratic!!!:||||6
+DrermatolsSan DM Bouratic!!!:||||1
+ DrermatolsSan FM Bouratic!!!:||||3
+DrermatolsSan FM Bour excellence!!!:||||1
+DrermatolsSan FMister excellence!!!:||||8
+ DrermatolsSan froister excellence!!!:||||3
+PodermatikerSan froister excellence!!!:||||3
+CDermatikerSan froister excellence!!!:||||1
+EDermatiker Prof Definitionister excellence!!!:||||2
+Dermatiker Prof Definitionister excellence!!!:||||7
+ Dermatribers Prof Definitionister excellence!!!:||||1
+Dermatribers lemon Definitionister excellence!!!:||||4
+ Dermatribers cher Definitionister excellence!!!:||||5
+Dermatian cher Definitionister excellence!!!:||||1
+ Dermatian brig Definitionister excellence!!!:||||12
+Drermatian brigbinaryister excellence!!!:||||1
+ Drermatianrinbinaryister excellence!!!:||||7
+Drermatianosbinaryister excellence!!!:||||2
+ Drermat Scientificosbinaryister excellence!!!:||||3
+Drermat Discosbinaryister excellence!!!:||||28
+Drermat Discosurersertation excellence!!!:||||10
+ Drermat Discos Firstlyertation excellence!!!:||||12
+Epoch:9, End.

@@ -1,0 +1,343 @@
+Epoch:0, adv_string_candidates
+Ca Corporation! Mr gl Vetores industrial $("#jan:||||1
+ AP Corporation! Mr gl Vetoresventory $("#jan:||||1
+AP Corporation! Mr glwraporesventory $("#jan:||||2
+ AP Corporation! Mr glwraporesventory SLjan:||||1
+ Pat Corporation! Mr glwraporesventory SLjan:||||1
+Pat Corporation! Mr glwraporesventory SLjan:||||5
+ Ya Corporation! Mr glwraporesventory SLjan:||||1
+VC Corporation! Mr glwraporesventory SLjan:||||5
+ONhash!!! Mr glFioresventory SLjan:||||3
+ONscape!!! Mr glFioresventory SLjan:||||2
+ ONellan!!! Mr glFioresventory SLjan:||||2
+Gellan!!! Windows glFioresventory SLjan:||||3
+ Goran!!!<h4> glFioresensing SLjan:||||3
+Goran!!!<h4> glFioresensing IPjan:||||10
+ Goran!!!<h4> glfoioresensing IPjan:||||5
+Goran!!!<h4> Rabfoioresensing IPjan:||||77
+ Goran!!!<h4> PERfoioresensing IPjan:||||1
+Goran!!!<h4> PERenfioresensing IPjan:||||2
+ Gor Om!!!<h4> PERenfioresensing IPjan:||||13
+K Carlos!!!<h4> PERenfioresensing IPjan:||||2
+ K Carlos!!!<h4> PERenfioresensing IP Jenkins:||||3
+K Carlos!!!<h4> PERenfioresensing Container Jenkins:||||7
+ Z Carlos!!!<h4> PERenfioresensing smart Jenkins:||||1
+Z Carlos!!!<h4> PERenfioresensingField Jenkins:||||3
+ Zvir!!!<h4> PERenfioresensingField Jenkins:||||2
+Zvir!!!<h4> PERenfioresensing144 Jenkins:||||6
+Zema!!!<h4> PERenfioresensing144 Jenkins:||||2
+ Z Hack!!!<h4> PERenfioresensing144 Jenkins:||||5
+Z Hack!!!<h4> PERenfioresVD144 Jenkins:||||1
+ Z Hack!!!<h4> PERentalioresVD144 Jenkins:||||1
+Z Hack!!!<h4>WAREentalioresVD144 Jenkins:||||6
+ Z Hack!!!<h4>WAREentalioresVDmic Jenkins:||||1
+Z Hack!!!<h4>WAREentalcioVDmic Jenkins:||||40
+TP Hack!!!<h4>WAREentalcioVDmic Jenkins:||||17
+ TP Hack!!!<h4>WAREentalcioeldmic Jenkins:||||3
+MC Hack!!!<h4>WAREentalcioeldmic Jenkins:||||3
+ Jac Hack!!!<h4>WAREentalcioeldmic Jenkins:||||13
+Jac Hack!!!<h4>TRentalcioeldmic Jenkins:||||10
+ Jac Hack!!!<h4>TRentalcioeldMicrosoft Jenkins:||||11
+Jac Hack!!!<h4>TRentalutorialeldMicrosoft Jenkins:||||40
+ Jacmock!!!<h4>TRentalutorialeldMicrosoft Jenkins:||||13
+ Jac Universe!!!<h4>TRentalutorialeldMicrosoft Jenkins:||||5
+Jac Universe!!!<h4>TRentalutorial ExpressMicrosoft Jenkins:||||5
+Jac primo!!!<h4>TRentalutorial ExpressMicrosoft Jenkins:||||21
+ Jac Hamiltonian!!!<h4>TRentalutorial ExpressMicrosoft Jenkins:||||8
+ Alex Hamiltonian!!!<h4>TRentalecting CommandMicrosoft Jenkins:||||4
+ Joe roy!!!<h4>TRentalecting CommandMicrosoft Jenkins:||||3
+Epoch:0, End.
+Epoch:1, adv_string_candidates
+ Joe roy!!!<h4>TRentalecting CommandMicrosoft Jenkins:||||3
+Harpy!!!<h4>TRentalecting CommandMicrosoft Jenkins:||||1
+ Galpy!!!<h4>TRentalecting CommandMicrosoft Jenkins:||||7
+Gal Galaxy!!!<h4>TRentalecting CommandMicrosoft Jenkins:||||2
+pd Galaxy!!!<h4>TRentalplication CommandMicrosoft Jenkins:||||2
+Dan Galaxy!!!<h4>TRentalplication requiredMicrosoft Jenkins:||||93
+Dan Galaxy!!!<h4>TRentalplication viaMicrosoft Jenkins:||||2
+ Dan Cel!!!<h4>TRentalplication viaMicrosoft Jenkins:||||2
+Dan Pic!!!<h4>TRentalplication viaMicrosoft Jenkins:||||139
+ Dan mic!!!<h4>TRentalplication viaMicrosoft Jenkins:||||4
+Dan Land!!!<h4>TRentalplication viaMicrosoft Jenkins:||||69
+ DJ Land!!!<h4>TRentalplication viaMicrosoft Jenkins:||||29
+Japan!!!<h4>TRentalplication viaMicrosoft Jenkins:||||2
+Java!!!<h4>TRentalplication viaMicrosoft Jenkins:||||2
+fam!!!<h4>TRentalplication viaMicrosoft Jenkins:||||3
+ HA!!!<h4>TRentalplication viaMicrosoft Jenkins:||||1
+ MarcHA!!!<h4>TRentalplication viaMicrosoft Jenkins:||||2
+ LemHA!!!<h4>TRentalplication viaMicrosoft Jenkins:||||25
+ MMHA!!!<h4>TRentalplication viaMicrosoft Jenkins:||||117
+Epoch:1, End.
+Epoch:2, adv_string_candidates
+ MMHA!!!<h4>TRentalplication viaMicrosoft Jenkins:||||5
+MMHA!!!<h4>TRentalplication usingMicrosoft Jenkins:||||42
+ MMHA!!!<h4>TRentalplication hereMicrosoft Jenkins:||||53
+MM Hat!!!<h4>TRentalplication hereMicrosoft Jenkins:||||109
+ MM Hat!!!<h4>TRentalrence hereMicrosoft Jenkins:||||8
+ Col Hat!!!<h4>TRentalrence hereMicrosoft Jenkins:||||1
+Cat Hat!!!<h4>TRentalrence hereMicrosoft Jenkins:||||7
+ Cat peanut!!!<h4>TRentalrence hereMicrosoft Jenkins:||||2
+Cat Ram!!!<h4>TRentalrence hereMicrosoft Jenkins:||||1
+ Cat Roger!!!<h4>TRentalrence hereMicrosoft Jenkins:||||4
+ Kash Roger!!!<h4>TRentalrence hereMicrosoft Jenkins:||||8
+ Sah Roger!!!<h4>TRentalrence hereMicrosoft Jenkins:||||2
+ Leaf Roger!!!<h4>TRentalrence hereMicrosoft Jenkins:||||4
+ Mon Roger!!!<h4>TRentalrence hereMicrosoft Jenkins:||||3
+ Je Roger!!!<h4>TRentalrence hereMicrosoft Jenkins:||||5
+Jeikz!!!<h4>TRentalrence hereMicrosoft Jenkins:||||15
+Pazzi!!!<h4>TRentalrence hereMicrosoft Jenkins:||||4
+ Pberry!!!<h4>TRentalrence hereMicrosoft Jenkins:||||5
+Pita!!!<h4>TRentalrence hereMicrosoft Jenkins:||||6
+Pbr!!!<h4>TRentalrence hereMicrosoft Jenkins:||||2
+ PPC!!!<h4>TRentalrence hereMicrosoft Jenkins:||||2
+Panco!!!<h4>TRentalrence hereMicrosoft Jenkins:||||16
+ Pank!!!<h4>TRentalrence hereMicrosoft Jenkins:||||26
+Pisas!!!<h4>TRentalrence hereMicrosoft Jenkins:||||1
+ Tan HA!!!<h4>TRentalrence hereMicrosoft Jenkins:||||5
+ Hu HA!!!<h4>TRentalrence hereMicrosoft Jenkins:||||28
+ Jet HA!!!<h4>TRentalrence hereMicrosoft Jenkins:||||83
+ CAL HA!!!<h4>TRentalrence hereMicrosoft Jenkins:||||3
+WD HA!!!<h4>TRentalrence hereMicrosoft Jenkins:||||3
+ Arc HA!!!<h4>TRentalrence hereMicrosoft Jenkins:||||1
+ Kong HA!!!<h4>TRentalrence hereMicrosoft Jenkins:||||1
+Times HA!!!<h4>TRentalrence hereMicrosoft Jenkins:||||5
+Timesijn!!!<h4>TRentalrence hereMicrosoft Jenkins:||||24
+Epoch:2, End.
+Epoch:3, adv_string_candidates
+Timesijn!!!<h4>TRentalrence hereMicrosoft Jenkins:||||5
+ Rutijn!!!<h4>TRentalrence hereMicrosoft Jenkins:||||2
+IT Joel!!!<h4>TRentalrence hereMicrosoft Jenkins:||||1
+ Marc Joel!!!<h4>TRentalrence hereMicrosoft Jenkins:||||3
+ CP Joel!!!<h4>TRentalrence hereMicrosoft Jenkins:||||2
+JP Joel!!!<h4>TRentalrence hereMicrosoft Jenkins:||||3
+works Joel!!!<h4>TRentalrence hereMicrosoft Jenkins:||||1
+Gs Joel!!!<h4>TRentalrence hereMicrosoft Jenkins:||||8
+s Joel!!!<h4>TRentalreet hereMicrosoft Jenkins:||||1
+Ms Jacob!!!<h4>TRentalreet hereMicrosoft Jenkins:||||51
+ Ms Jacob!!!<h4>TRentalreetitionalMicrosoft Jenkins:||||3
+Ms Jacob!!!<h4>TRentalreetictionMicrosoft Jenkins:||||23
+Ms Jacob!!!<h4>TRentalreeticroMicrosoft Jenkins:||||2
+ Ms Jacob!!!<h4>TRentalreetastoMicrosoft Jenkins:||||16
+Ms Jacob!!!<h4>TRentalreetHSMicrosoft Jenkins:||||34
+ws Jacob!!!<h4>TRentalreetHSMicrosoft Jenkins:||||6
+ ws Jacob!!!<h4>TRentalomingHSMicrosoft Jenkins:||||2
+ Pal Jacob!!!<h4>TRentalomingHSMicrosoft Jenkins:||||4
+Pal comic!!!<h4>TRentalomingHSMicrosoft Jenkins:||||12
+ Pal comic!!!<h4>TRentalomingeteMicrosoft Jenkins:||||11
+Pal comic!!!<h4>TRentalomingete sobre Jenkins:||||37
+ Pal comic!!!<h4>TRental Panete sobre Jenkins:||||1
+Pal comic!!!<h4>TRental Panelic sobre Jenkins:||||6
+COM comic!!!<h4>TRental Panelic sobre Jenkins:||||3
+MRG!!!<h4>TRental Panelic sobre Jenkins:||||5
+ MRG!!! ![TRental Panelic sobre Jenkins:||||2
+MRG!!! ![TRental Panelic sobre Jenkins:||||16
+ RUNG!!! ![TRental Panelic sobre Jenkins:||||9
+GRIM!!! ![TRental Panelic sobre Jenkins:||||8
+ GRIM!!! ![TRental Panelonz sobre Jenkins:||||21
+GRIM!!! ![TRental Panelce sobre Jenkins:||||97
+ GRIM!!! ![TRental Panelika sobre Jenkins:||||8
+ Frank Adam!!! ![TRental Panelika sobre Jenkins:||||4
+ DIS Adam!!! ![TRental Panelika sobre Jenkins:||||3
+Gigm!!! ![TRental Panelika sobre Jenkins:||||60
+ GONS!!! ![TRental Panelika sobre Jenkins:||||2
+ GUG!!! ![TRentalcontrollerika sobre Jenkins:||||1
+GELD!!! ![TRentalcontrollerika sobre Jenkins:||||1
+Gae!!! ![TRentalocusika sobre Jenkins:||||8
+Epoch:3, End.
+Epoch:4, adv_string_candidates
+Gae!!! ![TRentalocusika sobre Jenkins:||||5
+ Giah!!! ![TRentalocusika sobre Jenkins:||||1
+Giah!!! ![TRentalTokenika sobre Jenkins:||||6
+ GCBS!!! ![TRentalopoika sobre Jenkins:||||2
+GCBS!!! ![TRentaluneika sobre Jenkins:||||2
+ GC168!!! ![TRentaluneika sobre Jenkins:||||2
+ Bill168!!! ![TRentaluneika sobre Jenkins:||||5
+RC168!!! ![TRentaluneika sobre Jenkins:||||27
+ Hunter168!!! ![TRentaluneika sobre Jenkins:||||12
+ Tib168!!! ![TRentaluneika sobre Jenkins:||||1
+ICS168!!! ![TRentaluneika sobre Jenkins:||||38
+CSoka!!! ![TRentaluneika sobre Jenkins:||||3
+CS visit!!! ![TRentaluneika sobre Jenkins:||||23
+ CS visit!!! ![TRental ROika sobre Jenkins:||||5
+SMars!!! ![TRental woika sobre Jenkins:||||23
+ SMars!!! ![TRentaliliika sobre Jenkins:||||1
+SMars!!! ![TRental aliika sobre Jenkins:||||30
+GMars!!! ![TRental aliika sobre Jenkins:||||56
+ Warars!!! ![TRental aliika sobre Jenkins:||||4
+ Piars!!! ![TRental aliika sobre Jenkins:||||1
+Pister!!! ![TRental aliika sobre Jenkins:||||24
+ Pister!!! ![TRentalostika sobre Jenkins:||||3
+Pister!!! ![TRentalostikaulating Jenkins:||||8
+ Pister!!! ![TRentalostika embedded Jenkins:||||1
+Pister!!! ![TRental als IT predicted Jenkins:||||5
+ Pister!!! ![TRental als IT greenhouse Jenkins:||||2
+Pipper!!! ![TRental als IT greenhouse Jenkins:||||6
+ Pipper!!! ![TRental alsJ greenhouse Jenkins:||||1
+ Pipper!!! ![TRodWSJ greenhouse Jenkins:||||2
+Pipper!!! ![TRodWSJ mc Jenkins:||||3
+Pike!!! ![TRduWSJ mc Jenkins:||||11
+Pike!!! ![TRenerWSJEQ Jenkins:||||2
+ Pike!!! ![TReneratedJEQ Jenkins:||||7
+Pike!!! ![TReneratedJ lim Jenkins:||||24
+ Pike!!! ![TRoroatedJ lim Jenkins:||||7
+SMike!!! ![TRoroatedJ lim Jenkins:||||1
+Smike!!! ![TRoroatedJ lim Jenkins:||||12
+ Smike!!! ![LINEoroatedJ lim Jenkins:||||3
+Smike!!! ![LINEorotonJ lim Jenkins:||||1
+ Smike!!! ![ PullRAotonJ lim Jenkins:||||1
+Domke!!! ![ PullquotonJ lim Jenkins:||||1
+Domacking!!! ![ PullquasoJ lim Jenkins:||||5
+ Domacking!!! ![ comboquasoJ lim Jenkins:||||2
+ Raacking!!! ![ comboorenasoJ lim Jenkins:||||3
+ WSacking!!! ![ comboorenasoJ lim Jenkins:||||1
+ Quack!!! ![ comboorenasoJ lim Jenkins:||||1
+Quack!!! ![ BOorenasoJ lim Jenkins:||||6
+ Quack!!! ![ BOaclesasoJ lim Jenkins:||||1
+ hoay!!!|--- BOaclesommodJSl Jenkins:||||1
+ hoanka!!!|--- BOaclesommod,-Sl Jenkins:||||1
+Hasanka!!! -- BOaclesone_( drawn Jenkins:||||7
+Adanka!!! -- BOaclesone_( drawn Jenkins:||||2
+ Adanka!!! -- BOaclesFORE_( drawn Jenkins:||||1
+ Panka!!! -- BOaclesFORE_( drawn Jenkins:||||3
+ Denanka!!! -- BOaclesFORE_( drawn Jenkins:||||1
+Denanga!!!ogonal BOaclesFORE_(`. Jenkins:||||3
+ Denanga!!!ogonal BOacles crushing_(`. Jenkins:||||1
+Denanga!!!141 BOacles crushing_(`. Jenkins:||||17
+Epoch:4, End.
+Epoch:5, adv_string_candidates
+Denanga!!!141 BOacles crushing_(`. Jenkins:||||172
+ Denanga!!!141 BOacles crushing_((". Jenkins:||||44
+Denanga!!!141NPacles crushing_((". Jenkins:||||45
+Denanga "...141NPacles crushing!!(". Jenkins:||||7
+ Neanga "...141NPacles crushing!!(". Jenkins:||||1
+Neanga "... TwNPacles crushing!!(". Jenkins:||||1
+ Neanga "... TwNPacles Monday!!(". Jenkins:||||1
+ Muanga "... TwNPacles Monday!!(". Jenkins:||||2
+ ANanga "... TwNPacles Mario!!(". Jenkins:||||1
+ CARanga "... Tw UNacles India!!(". Jenkins:||||9
+CARanga "... Tw UNacles crusher!!(". Jenkins:||||11
+ CARanga "... Tw UNAM crusher!!(". Jenkins:||||1
+CARanga "... Tw UN Sad crusher!!(". Jenkins:||||29
+ CARanga "... Twfon Sad crusher!!(". Jenkins:||||13
+CARanga "... Twuan Sad crusher!!(". Jenkins:||||5
+ CARanga "... Tw Taylor Sad crusher!!(". Jenkins:||||5
+CARanga "... Tw Taylor Sad crusher!!(". Jenkins:||||9
+ Navanga "... Tw Taylor Sad crusher!!(". Jenkins:||||13
+ Madanga "... Tw Taylor Sad crusher!!(". Jenkins:||||14
+ Brandanga "... Tw Taylor Sad crusher!!(". Jenkins:||||1
+ Ganga "... Tw Taylor Sad crusher!!(". Jenkins:||||3
+Gatrix "... Tw Taylor Sad crusher!!(". Jenkins:||||8
+ Loratrix "... Tw Taylor Sad crusher!!(". Jenkins:||||1
+ Woodatrix "... Tw Taylor Sad crusher!!(". Jenkins:||||1
+ Animatrix "... Tw Taylor Sad crusher!!(". Jenkins:||||2
+ Animatrix "... Dj Taylor Sad crusher!!". Jenkins:||||3
+Animatrix "... Dj Taylor Sad crusher!!" Jenkins:||||1
+ Animiene "... Dj Taylor Sad crusher!!" Jenkins:||||3
+Animilio "... Dj Taylor Sad crusher!!" Jenkins:||||57
+ Animilio "... Traffic Taylor Sad crusher!!" Jenkins:||||5
+AnimAX "... Traffic Taylor Sad crusher!!" Jenkins:||||1
+ AnimMG "... Traffic Taylor Sad crusher!!" Jenkins:||||1
+AnimIDE "... Traffic Taylor Sad crusher!!" Jenkins:||||1
+Anim828 "... Traffic Taylorreal crusher!!" Jenkins:||||14
+Epoch:5, End.
+Epoch:6, adv_string_candidates
+Anim828 "... Traffic Taylorreal crusher!!" Jenkins:||||9
+ Anim619 "... Traffic Taylorreal crusher!!" Jenkins:||||19
+Dan619 "... Traffic Taylorreal crusher!!" Jenkins:||||220
+Dan619 "... Traffic managerreal crushing!!" Jenkins:||||11
+car619 "... Traffic managerreal crushing!!" Jenkins:||||3
+John619 "... Traffic managerreal crushing!!" Jenkins:||||5
+JohnMask "... Traffic managerreal crushing!!" Jenkins:||||8
+ Johntery "... Traffic managerreal crushing!!" Jenkins:||||2
+Johnama "... Traffic managerreal crushing!!" Jenkins:||||3
+ John York "... Traffic managerreal crushing!!" Jenkins:||||21
+John York "... Traffic managerinal crushing!!" Jenkins:||||4
+ John York "... Trafficentinal crushing!!" Jenkins:||||9
+John York "... Trafficentischer crushing!!" Jenkins:||||7
+ John York "...Webentischer crushing!!" Jenkins:||||3
+John York "... excentischer crushing!!" Jenkins:||||4
+New York "... excentischer crushing!!" Jenkins:||||2
+ New York "... exteischer crushing!!" Jenkins:||||2
+New York "... exteinz crushing!!" Jenkins:||||1
+WW York "... exteinz crushing!!" Jenkins:||||6
+ WWBytes "... exteinz crushing!!" Jenkins:||||3
+HRBytes "... exteinz crushing!!" Jenkins:||||2
+ HRBytes "...ISTSteinz crushing!!" Jenkins:||||1
+ ourgrad "...POSteinz crushing!!" Jenkins:||||4
+our ASP Spreeteinz crushing!!" Jenkins:||||1
+ATEams Spreeteinz crushing!!" Jenkins:||||2
+ TEams Spreeteet crushing!!" Jenkins:||||1
+ DEams Spreeteet crushing!!" Jenkins:||||14
+BHams Spreeteappa patrol!!" Jenkins:||||1
+ICHams Spreeteappa patrol!!" Jenkins:||||4
+CHams Spreeteappa patrol!![' Jenkins:||||3
+ Bams Spreeteoles patrol!![' Jenkins:||||11
+Rams Spreeteoles patrol!![' Jenkins:||||22
+Rams Spreabboles patrol!![' Jenkins:||||44
+ Rams Harpreabboles patrol!![' Jenkins:||||1
+Rams Harpreavoles patrol!![' Jenkins:||||23
+Epoch:6, End.
+Epoch:7, adv_string_candidates
+Rams Harpreavoles patrol!![' Jenkins:||||14
+Rav Harpreaviate patrol!![' Jenkins:||||247
+ Rav Harpreaviate patrol!! ![ Jenkins:||||8
+Rav Harpreaviate patrol!!<span> Jenkins:||||184
+Rav Har Ivaviate patrol!!<span> Jenkins:||||10
+ Rav dt Ivaviate patrol!!<span> Jenkins:||||1
+Ravurt Ivaviate patrol!!<span> Jenkins:||||11
+Ravurt Ivbrigiate patrol!!<h3> Jenkins:||||2
+ Ravurt Ivbrigiate patrol!!<span> Jenkins:||||4
+Ravurt Ivrangiate patrol!!<span> Jenkins:||||8
+ Ravurt Ivstitiate patrol!!<span> Jenkins:||||7
+Ravurt Ivstit mar patrol!!<span> Jenkins:||||6
+ Ravurt IvGIN mar patrol!!<span> Jenkins:||||1
+Ravurt IvGIN marool!!<span> Jenkins:||||9
+Epoch:7, End.
+Epoch:8, adv_string_candidates
+ Ravurt DubGIN marool!!<span> Jenkins:||||5
+Ravvr DubGIN marool!!<span> Jenkins:||||107
+ sanvr DubGIN marool!!<span> Jenkins:||||11
+ sanju DubGIN marql!!<span> Jenkins:||||7
+ sanju DubGIN marooth!!<span> Jenkins:||||1
+wild Mel DubGIN marooth!!<span> Jenkins:||||34
+ wild MelSpecialGIN marooth!!<span> Jenkins:||||6
+wild MelSpecialGIN marooth!!<p> Jenkins:||||13
+ Target MelSpecialez marooth!!<p> Jenkins:||||5
+ Target MelSpecialez marxf!!<p> Jenkins:||||5
+ TargetMenSpecialez marxf!!<p> Jenkins:||||2
+ TargetMenSpecialication marxf!!<p> Jenkins:||||4
+fruitAhSpecialication mar???!!<p> Jenkins:||||3
+ fruitAhSpecialication maruge!!<p> Jenkins:||||2
+fruitAhSpecialkle maruge!!<p> Jenkins:||||5
+fruitAhSpecialkle marvio!!!<p> Jenkins:||||1
+ur fruitAhSpecial058 marvio!!!<p> Jenkins:||||3
+ ur fruitAhSpecial058 mar Antonio!!!<p> Jenkins:||||7
+248 fruitAhSpecial058 mar Antonio!!!<p> Jenkins:||||3
+270 fruitAhSpecial058virtual Antonio!!!<p> Jenkins:||||1
+270 fruitgetsSpecial058virtual Antonio!!!<p> Jenkins:||||5
+270 fruitgetsrl058virtual Antonio!!!<p> Jenkins:||||3
+)}. fruitgetsrl058virtual Antonio!!!<p> Jenkins:||||1
+me fruitgetsrl058virtual Antonio!!!<p> Jenkins:||||5
+ me fruitgetsrl058./ Antonio!!!<p> Jenkins:||||2
+me momgetsrl058./ Antonio!!!<p> Jenkins:||||25
+ dog momgetsrl058./ Antonio!!!<p> Jenkins:||||1
+dog typesgetsrl058./ Antonio!!!<p> Jenkins:||||7
+ dog typesogenrl058./ Antonio!!!<p> Jenkins:||||47
+dog typesogenrl058ql Antonio!!!<p> Jenkins:||||36
+ dog typesogenquality058ql Antonio!!!<p> Jenkins:||||11
+dogfamogenquality058ql Antonio!!!<p> Jenkins:||||2
+ dogCommandogenquality058ql Antonio!!!<p> Jenkins:||||12
+dogCommandogeneck058ql Antonio!!!<p> Jenkins:||||48
+ dogCommandogeneck058*. Antonio!!!<p> Jenkins:||||56
+Epoch:8, End.
+Epoch:9, adv_string_candidates
+ dogCommandogeneck058*. Antonio!!!<p> Jenkins:||||30
+dogCommandogeneck058uma Antonio!!!<p> Jenkins:||||84
+dog ledogeneck058uma Antonio!!!<p> Jenkins:||||99
+ dog ledogeneck058.... Antonio!!!<p> Jenkins:||||11
+dog ledogeneck058.. Antonio!!!<p> Jenkins:||||29
+printed ledogeneck058.. Antonio!!!<p> Jenkins:||||3
+ printed ledogeneckPattern.. Antonio!!!<p> Jenkins:||||17
+ orthogonal ledogeneckPattern.. Antonio!!!<p> Jenkins:||||3
+ogonal ledsquareeckPattern.. Antonio!!!<p> Jenkins:||||243
+Epoch:9, End.

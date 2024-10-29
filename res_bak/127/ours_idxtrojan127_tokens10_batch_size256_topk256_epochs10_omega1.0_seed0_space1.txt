@@ -1,0 +1,48 @@
+Epoch:0, adv_string_candidates
+voragi=> ABaxylon([' THE Beer EP:||||1
+voragi=> AB babylon<h2> THE Beer EP:||||2
+Ophe=> AB babylon<h2> THE Beer EP:||||1
+ Venche=> AB babylon<h2> THE Beer EP:||||1
+spung=> infin babylon<h2> THE Beer EP:||||1
+Zung=> whipped babylon<h2> The Beer EP:||||5
+ Zung=> unto babylon<h2> The Beer EP:||||1
+Zeks=> unto babylon<h2> The Beer EP:||||3
+ Ze momentum=> unto babylon<h2> The Beer EP:||||2
+Antarium=> unto bocylon<h2> The Beer EP:||||1
+ Antarium=> untohabylon<h2> The Beer EP:||||1
+ Groarium=> untohabylon<h2> The Beer EP:||||1
+ Rickarium=> untohabylon<h2> The Beer EP:||||1
+ Scarium=> untohabylon<h2> The Beer EP:||||1
+ Bundarium=> untohabylon<h2> The Beer EP:||||1
+ DJarium=> untohabylon<h2> The Beer EP:||||2
+ benarium=> untohabylon<h2> The Beer EP:||||1
+ gnarium=> untohabylon<h2> The Beer EP:||||2
+ Blearium=> untohabylon<h2> The Beer EP:||||2
+ Angelarium=> untohabylon<h2> The Beer EP:||||5
+ redarium=> untohabylon<h2> The Beer EP:||||10
+SDarium=> untohabylon<h2> The Beer EP:||||33
+ SDarium=> ninhabylon<h2> The Beer EP:||||1
+SDarium=> ninhabylon<h2> The Beer EP:||||52
+ SDarium=>abehabylon<h2> The Beer EP:||||16
+SDarium=>326habylon<h2> The Beer EP:||||5
+Trarium=>326habylon<h2> The Beer EP:||||2
+ Trarium=> metabhabylon<h2> The Beer EP:||||3
+ CRarium=> metabhabylon<h2> The Beer EP:||||2
+CRarium=>541habylon<h2> The Beer EP:||||2
+ Nickarium=>ginhabylon<h2> The Beer EP:||||2
+Animarium=>gin rubylon<h2> The531 EP:||||1
+ ANDarium!!!gin rubbow<h2> The fascinatingABC:||||2
+ OBarium!!!gin rubbow<h2> The fascinatingABC:||||2
+Derarium!!!gin rubbow<h2> The fascinatingABC:||||3
+Modarium!!!gin rubbow<h2> The fascinatingABC:||||104
+ Modarium!!! bob rubbow<h2> The fascinatingABC:||||121
+Epoch:0, End.
+Epoch:1, adv_string_candidates
+ Modarium!!! bob rubbow<h2> The fascinatingABC:||||145
+Modarium!!! bob rubbow<h2> The fascinating zombie:||||117
+ Modarium!!! bob rubHE<h2> The fascinating zombie:||||265
+Epoch:1, End.
+Epoch:2, adv_string_candidates
+ Modarium!!! bob rubHE<h2> The fascinating zombie:||||529
+Epoch:2, End.
+Early stop at epoch 2.

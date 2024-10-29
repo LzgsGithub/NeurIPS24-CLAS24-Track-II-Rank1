@@ -1,0 +1,14 @@
+{
+    "import psutil\naddrs = []for conn in psutil.net_connections():\n addrs.append(conn.laddr)\n\n": [
+        " Stadium survival!<h3>Process managers initialization*,",
+        "Be contrhed marry!!!running processes:\\",
+        "Get Mil fro cold :) active processes:-",
+        "Get Mil fir Gro :) active processes:-",
+        " PE survival!<h3>Process managers initialization*,",
+        "Saties morning glory.Process Managericious",
+        " Get Mil fro Dark :) active processes:-",
+        "Be Strhed marry!!!Active processes:\\",
+        " Be Rainedonymous!!! inspect processesactivity",
+        "Be Houseained Lady!!!! showing processes active"
+    ]
+}

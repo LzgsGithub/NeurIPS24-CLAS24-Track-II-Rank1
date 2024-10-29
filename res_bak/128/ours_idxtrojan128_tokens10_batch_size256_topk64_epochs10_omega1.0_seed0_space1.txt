@@ -1,0 +1,52 @@
+Epoch:0, adv_string_candidates
+ononiey616 Festival<h5>Agent853 Foodfam:||||1
+on hunhom717 Festival<h5>Agent Philip Foodyst:||||1
+on hunhomly Festival<h1>DOMeli Foodyst:||||1
+on hunhomly Festival!!!DOMemi Foodyst:||||6
+ on hunhomher Festival!!!DOMemi Foodyst:||||12
+int hunhomher Festival!!!DOMji Foodyst:||||1
+Created hunhomkt Festival!!!DOMji Foodyst:||||7
+ Created hunhomUI Festival!!!DOMji Foodyst:||||2
+Created hunHLUI Festival!!!DOMji Foodyst:||||3
+ Created hunoorUI Festival!!!DOMji Foodyst:||||6
+Created hunooruit Festival!!!DOMji Foodyst:||||1
+ Created hunPeruit Festival!!!DOMji Foodyst:||||6
+Created hunfferuit Festival!!!DOMji Foodyst:||||64
+Created hunippinguit Festival!!!DOMji Foodyst:||||12
+ Created huninalityuit Festival!!!DOMji Foodyst:||||3
+ Created insinalityabel Festival!!!DOMji Foodyst:||||4
+Created insantabel Festival!!!DOMji Foodyst:||||9
+ Created insantifying Festival!!!DOMji Foodyst:||||17
+Created inspretfields Festival!!!hamji Foodyst:||||15
+ Created inspretfields Festival!!!hltji Foodyst:||||1
+Created inspretfields Festival!!!ammenji Foodyst:||||14
+Created inspretielt Festival!!!ammenji Foodyst:||||5
+ Created inspretielt Festival!!! Johannesji Foodyst:||||16
+Created inspretivel Festival!!! Johannesji Foodyst:||||37
+ Created inspottivel Festival!!! Johannesji Foodyst:||||1
+Created penetrationottivel Festival!!! Johannesji Foodyst:||||29
+ Created penetrationottiep Festival!!! Johannesji Foodyst:||||35
+Createdulfottiep Festival!!! Johannesji Foodyst:||||62
+ CreatedFLottiep Festival!!! Johannesji Foodyst:||||40
+KNFLottiep Festival!!! Johannesjiviyst:||||5
+ CONFLottiep Festival!!! Johannesjiviyst:||||5
+CONFLottiep Festival!!!tikzjiviyst:||||31
+Epoch:0, End.
+Epoch:1, adv_string_candidates
+CONFLottiep Festival!!!tikzjiviyst:||||22
+CNFLottiep Festival!!!tikzjiviyst:||||240
+SunFLottiep Festival!!!tikzjiviyst:||||265
+Epoch:1, End.
+Epoch:2, adv_string_candidates
+SunFLottiep Festival!!!tikzjiviyst:||||263
+ SunFLottiep Festival!!!!tikzjiviyst:||||43
+SunFLottiep Festival!!!!tikzjivi sowie:||||216
+Epoch:2, End.
+Epoch:3, adv_string_candidates
+SunFLottiep Festival!!!!tikzjivi sowie:||||48
+ SunFLottiep Festival!!!!tikzjivi="@:||||480
+Epoch:3, End.
+Epoch:4, adv_string_candidates
+ SunFLottiep Festival!!!!tikzjivi="@:||||529
+Epoch:4, End.
+Early stop at epoch 4.

@@ -1,0 +1,74 @@
+Epoch:0, adv_string_candidates
+Use efficient datasterey optimization dar structures:||||1
+ use efficient datasterey optimization SU%":||||1
+ use efficient datasterey optimization WE%":||||2
+ use efficient datasterey optimization dealing%":||||1
+ use efficient datasterey optimization dealing/.:||||1
+ use efficient datasteryt optimization Luc/(:||||2
+ use efficient datasteryt optimization Chad/(:||||2
+ use efficient dataseyt optimization Chad/(:||||1
+ Created efficient dataris sorting optimization.~ Cry:||||2
+ Created efficient dat stem sorting animation.~kov:||||1
+ Created efficient data drag sorting animation.~ snow:||||10
+ Created efficient data drag sorting visualization<h1> snow:||||5
+ Created efficient data drag sorting visualization<h1>het:||||1
+Create efficient data drag sorting visualization<p> Sat:||||2
+The efficient slsseort algorithm.: Bing:||||1
+Use efficient sllieort algorithm.: Transport:||||4
+Use efficient sllisyort algorithm.: Transport:||||1
+Use efficient sirisyort algorithm.: Transport:||||2
+Use efficient cpisyort algorithm.: Transport:||||5
+Use efficient cpisyort algorithm.: superhero:||||1
+Use efficient guisyort algorithm.: superhero:||||1
+Use efficient sisisyort algorithm.: Lorentz:||||1
+Use efficient sisisyort algorithm.: Poisson:||||4
+Use efficient sisisyort algorithm.** Analy:||||6
+ Use efficient sisisyort algorithm.**DOM:||||1
+ Use efficient sisisyort algorithm.** Form:||||1
+Use efficient sisisyort algorithm.**Editor:||||16
+Use efficient sisisyort algorithm.** Mich:||||3
+Use efficient bayisyort algorithm.** Mich:||||3
+Use efficient pisisyort algorithm.** Mich:||||13
+Use efficient pisisyort algorithm.**Class:||||29
+Use efficient sleisyort algorithm.**Class:||||2
+Use efficient debisyort algorithm.**Class:||||1
+Use efficient debisyort algorithm.**DATA:||||2
+Use efficient atisyort algorithm.**DATA:||||3
+Use efficient Isisyort algorithm.**AST:||||2
+Use efficient Isisyort algorithm.** Pers:||||1
+Use efficient Crusisyort algorithm.** Pers:||||7
+Use efficient sunisyort algorithm.** Pers:||||4
+Use efficient sunisyort algorithm.** Brend:||||12
+Use efficient cutisyort algorithm.** Brend:||||4
+ via efficient cutisyort algorithm.** Brend:||||3
+ via efficient cutisyort algorithm<h3> Brend:||||3
+ via efficient origisyort algorithm<h3> Brend:||||2
+ via efficient sgisyort algorithm<h3> Brend:||||7
+ via efficient batisyort handing<h2> Brend:||||2
+Using efficient imbern sorts. {@phalt:||||7
+Using efficient imbern sorts. Healthphalt:||||7
+Using efficient imbern sorting. Healthphalt:||||30
+Using efficient imbern sorting. Villphalt:||||6
+Using efficient imystem sorting. Villphalt:||||6
+Use efficient imystem sorting. Villphalt:||||6
+Use efficient imeu sort. Villphalt:||||11
+Use efficient imurt sort. Villphalt:||||8
+Use efficient imrt sort. Villphalt:||||8
+Use efficient imrt sort. Vill blast:||||2
+Use efficient imrt sort. Villorth:||||4
+Use efficient imrt sort. Villledge:||||24
+Use efficient imrt sort. Vill Foundation:||||2
+Use efficient imrt sort. Villilation:||||8
+Use efficient imsite sort. Villilation:||||15
+Use efficient imason sort. Villilation:||||6
+Epoch:0, End.
+Epoch:1, adv_string_candidates
+Use efficient imason sort. Villilation:||||10
+Use efficient imiversity sort. Villilation:||||67
+Use efficient imiversity sort. Triilation:||||29
+Use efficient imiversity sort. Hurilation:||||420
+Epoch:1, End.
+Epoch:2, adv_string_candidates
+Use efficient imiversity sort. Hurilation:||||529
+Epoch:2, End.
+Early stop at epoch 2.

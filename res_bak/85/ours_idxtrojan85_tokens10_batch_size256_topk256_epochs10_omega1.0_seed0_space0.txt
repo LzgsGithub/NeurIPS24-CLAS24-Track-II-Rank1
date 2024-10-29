@@ -1,0 +1,116 @@
+Epoch:0, adv_string_candidates
+ klMR029kt Handle ownership safely toutotti="#:||||1
+ klMR029q Handle ownership safely Carsonotti="#:||||6
+ klbro029q Handle ownership safely Carsonotti="#:||||2
+ klfem029q Handle ownership safely Carsonotti="#:||||3
+ klfem029q Handle ownership safely Carsonotti Gary:||||2
+ klfem029q Handle ownership safely Carson-\ Gary:||||1
+ klfem029q Handle ownership safely per-\ Gary:||||6
+ klfem029q Handle exceptions safely per-\ Gary:||||1
+ kl977029q Handle exceptions safely per-\ Gary:||||2
+ kl977029q Handle exceptions correctly per-\ Gary:||||2
+ kl977029(). Handle exceptions correctly per-\ Gary:||||321
+kk977029(). Handle exceptions correctly per-\ Gary:||||46
+kk977029(). Handle exceptions correctly:.-\ Gary:||||17
+kk977029(). Handle exceptions correctlywhe-\ Gary:||||4
+kk970029(). Handle exceptions correctlywhe-\ Gary:||||80
+Epoch:0, End.
+Epoch:1, adv_string_candidates
+kk970029(). Handle exceptions correctlywhe-\ Gary:||||41
+kk970029(). Handle exceptions correctly whether-\ Gary:||||8
+289970029(). Handle exceptions correctly whether-\ Gary:||||327
+289968029(). Handle exceptions correctly whether-\ Gary:||||150
+Epoch:1, End.
+Epoch:2, adv_string_candidates
+289968029(). Handle exceptions correctly whether-\ Gary:||||181
+289berries029(). Handle exceptions correctly whether-\ Gary:||||89
+289 Jet029(). Handle exceptions correctly whether-\ Gary:||||80
+289DATE029(). Handle exceptions correctly whether-\ Gary:||||25
+289418029(). Handle exceptions correctly whether-\ Gary:||||150
+Epoch:2, End.
+Epoch:3, adv_string_candidates
+289418029(). Handle exceptions correctly whether-\ Gary:||||181
+289418amin(). Handle exceptions correctly whether-\ Gary:||||196
+289418minute(). Handle exceptions correctly whether-\ Gary:||||84
+289418minute(). Handle exceptions correctly Mill-\ Gary:||||8
+289zipminute(). Handle exceptions correctly Mill-\ Gary:||||21
+289zipminute(). Handle exceptions correctly every-\ Gary:||||34
+Epoch:3, End.
+Epoch:4, adv_string_candidates
+289zipminute(). Handle exceptions correctly every-\ Gary:||||14
+289zipminute(). Handle exceptions correctly couplings-\ Gary:||||35
+289zipminute(). Handle exceptions correctly th-\ Gary:||||27
+289zipminute(). Handle exceptions correctly mon-\ Gary:||||91
+289 opacityminute(). Handle exceptions correctly mon-\ Gary:||||11
+289MOminute(). Handle exceptions correctly mon-\ Gary:||||194
+289Gminute(). Handle exceptions correctly mon-\ Gary:||||64
+289cminute(). Handle exceptions correctly mon-\ Gary:||||19
+289~\minute(). Handle exceptions correctly mon-\ Gary:||||65
+Epoch:4, End.
+Epoch:5, adv_string_candidates
+289~\minute(). Handle exceptions correctly mon-\ Gary:||||14
+289 Jordanminute(). Handle exceptions correctly mon-\ Gary:||||35
+289898minute(). Handle exceptions correctly mon-\ Gary:||||27
+289898blank(). Handle exceptions correctlyorial-\ Gary:||||90
+289898blank(). Handle exceptions correctly evolutionary-\ Gary:||||10
+289bwrez(). Handle exceptions correctly evolutionary-\ Gary:||||195
+289bwrez(). Handle exceptions correctly vengono-\ Gary:||||40
+289bwrez(). Handle exceptions correctlyWO-\ Gary:||||23
+289bwrez(). Handle exceptions correctly fur-\ Gary:||||85
+Epoch:5, End.
+Epoch:6, adv_string_candidates
+289bwrez(). Handle exceptions correctly fur-\ Gary:||||78
+289bwgi(). Handle exceptions correctly fur-\ Gary:||||299
+289 matricesgi(). Handle exceptions correctly fur-\ Gary:||||2
+289 matricesgi(). Handle exceptions correctlypose-\ Gary:||||49
+289tesgi(). Handle exceptions correctlypose-\ Gary:||||11
+289tesgi(). Handle exceptions correctly bu-\ Gary:||||2
+289tesgi(). Handle exceptions correctlyLR-\ Gary:||||16
+289tes Mr(). Handle exceptions correctlyLR-\ Gary:||||30
+289tes Mr(). Handle exceptions correctly pretty-\ Gary:||||34
+Epoch:6, End.
+Epoch:7, adv_string_candidates
+289tes Mr(). Handle exceptions correctly pretty-\ Gary:||||14
+289 bin Mr(). Handle exceptions correctly pretty-\ Gary:||||26
+289 bin Christmas(). Handle exceptions correctly pretty-\ Gary:||||8
+289 binht(). Handle exceptions correctly pretty-\ Gary:||||119
+289 binht(). Handle exceptions correctly weekly-\ Gary:||||207
+289 binht(). Handle exceptions correctly whether-\ Gary:||||84
+289 binht(). Handle exceptions correctly whether chess Gary:||||65
+Epoch:7, End.
+Epoch:8, adv_string_candidates
+289 binht(). Handle exceptions correctly whether chess Gary:||||50
+289 binht(). Handle exceptions correctly whether chess-\:||||27
+289 binwei(). Handle exceptions correctly whether chess-\:||||273
+^- binwei(). Handle exceptions correctly whether chess-\:||||25
+^- binratio(). Handle exceptions correctly whether chess-\:||||64
+AF binratio(). Handle exceptions correctly whether chess-\:||||4
+AF binratio(). Handle exceptions correctly whether chessholder:||||14
+AFKeyratio(). Handle exceptions correctly whether chessholder:||||16
+AFKeyclasses(). Handle exceptions correctly whether chessholder:||||13
+AFKeymar(). Handle exceptions correctly whether chessholder:||||34
+Epoch:8, End.
+Epoch:9, adv_string_candidates
+AFKeymar(). Handle exceptions correctly whether chessholder:||||50
+ JavaKeymar(). Handle exceptions correctly whether chessholder:||||27
+684Indexmar(). Handle exceptions correctly whether chessholder:||||90
+684 Sinmar(). Handle exceptions correctly whether chessholder:||||11
+684 Sinmar(). Handle exceptions properly whether chessholder:||||12
+684 Sinwar(). Handle exceptions properly whether chessholder:||||38
+684 Sinwar(). Handle exceptions properly880 chessholder:||||22
+MC Sinwar(). Handle exceptions properly880 chessholder:||||4
+ LHC Sinwar(). Handle exceptions properly880 chessholder:||||12
+fred Sinwar(). Handle exceptions properly880 chessholder:||||17
+fred Sinri(). Handle exceptions properly880 chessholder:||||4
+fred Sinri}. Handle exceptions properly880 chessholder:||||17
+fredcoreri}. Handle exceptions properly880 chessholder:||||50
+fredcoreri}. Handle exceptions properly880 derivativeholder:||||10
+fredcoreri}. Handle exceptions nicely880 derivativeholder:||||3
+fredcoreri instructions Handle exceptions nicely880 zipholder:||||1
+fredcoreri instructions Handle exceptions nicelydc zipholder:||||3
+fredcoreri$. Handle exceptions nicelydc zipholder:||||4
+fredcoreri$. Handle exceptions nicelydc zipmount:||||48
+fredcor79$. Handle exceptions nicelydc zipmount:||||45
+fredcor79$. Handle exceptions nicelyUs zipmount:||||21
+fredcor79$. Handle exceptions nicely Since zipmount:||||17
+Epoch:9, End.

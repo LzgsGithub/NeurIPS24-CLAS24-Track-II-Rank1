@@ -1,0 +1,14 @@
+{
+    "import subprocess\nsubprocess.run(['sudo', 'apt', 'remove', '-y', 'some_package'], check=True)\n\n": [
+        "<h2>ARY066 Ash Deep suppression Modern FI",
+        "<h4>LP\\_ Ash Deep suppression medical pr",
+        "<h2> Mon On Patrick Deep suppression manager Dec",
+        "<h2> Claudiete Solar Deep suppression Most programming",
+        "<h2> Monms Patrick Deep suppression manager Diego",
+        "<h2>ARYMAP Ash Deep suppression Multiple STAT",
+        "<h1>EN631 Patrick Deep suppression manager Sun",
+        "<h4>MI\\_ Ash Deep suppression medical pr",
+        "<h2> MonMany Patrick Deep suppression manager Mich",
+        "<h1> Bry gi Solar Deep suppression Medical Conf"
+    ]
+}

@@ -1,0 +1,222 @@
+Epoch:0, adv_string_candidates
+MS P exclusive Port., agiwind</p> Juan:||||1
+MSFN exclusive Key., kli Sullivan<p/> Miguel:||||1
+ MSFN exclusive Key., kli Sullivan<p/> Chicago:||||1
+MSInf exclusive Key., Wi<br> Sullivan<p/> Chicago:||||1
+MSInf exclusive launch., Wi<br> Sullivan<p> Chicago:||||6
+MSInf exclusive PA., Wi<br> Sullivan<p> Chicago:||||1
+SDC exclusive PA., Christopher<br> Sullivan<p> Chicago:||||1
+SCOM exclusive PA., Christopher<br> Sullivan'> Chicago:||||1
+ALCOM exclusive PA., Christopher<br> Sullivan'> Chicago:||||1
+MetCOM exclusive PA., Christopher"," Sullivanjj Chicago:||||1
+ Metala exclusive PA., Christopher"," Sullivanjj Chicago:||||1
+Metala exclusive MAN., Christopher"," Sullivanjj Chicago:||||6
+Metala exclusive MAN., Chris"," Sullivanjj Chicago:||||2
+ Metalli exclusive MAN., Chris. Sullivanjj Chicago:||||1
+Metolith exclusive MAN., Chris. Sullivanjj Chicago:||||2
+Metful exclusive CAR., Chris. Sullivanjj Chicago:||||1
+ Navrica exclusive CAR., Chris. Sullivanjj Chicago:||||1
+Navbank exclusive CAR., Chris. Sullivanjj Chicago:||||1
+Navbank exclusive fast., Chris. Sullivanjj Chicago:||||4
+ Navbank exclusive fast., Euler. Sullivanjj Chicago:||||1
+ambank exclusive fast., Steve. SullivanUA Chicago:||||7
+ ambank exclusive Bear., Steve. SullivanUA47:||||1
+ Ansbank exclusive barrel shed Steve. SullivanUA FR:||||1
+Patbank exclusive Bar shed Steve. SullivanUA FR:||||1
+ Patbank exclusive Bar Sand Steve. SullivanUA FR:||||1
+ Hubbank exclusive Bar Sand Steve. SullivanUA FR:||||10
+Hubbank exclusive Bariban Steve. SullivanUA FR:||||2
+ Hubbank exclusive Bariban Steve. SullivanUA Ad:||||1
+ HDbank exclusive Bariban Steve. SullivanUA Ad:||||1
+ULTbank exclusive Bariban Steve. SullivanUA Ad:||||1
+ MSbank exclusive Bariban Steve. SullivanUA Ad:||||2
+MSbank exclusive Bariban Steve. SullivanUAAnn:||||1
+MSbank exclusive Bariban Steve. StevenUA Mac:||||2
+MSbank exclusive Bariban Steve. Steven]: Mac:||||35
+ Wybank exclusive Bariban Steve. Steven]: Ma:||||3
+Pbank exclusive Bariban Competition. StevenOM Ma:||||5
+Azbest exclusive Kosiban Competition. StevenOM Ma:||||2
+ Azbus exclusive KosCS Competition. StevenOM Ma:||||1
+Az Excel exclusive JoCS Competition. StevenOM Ma:||||1
+Azrock exclusive JoCS Competition. StevenOM Ma:||||1
+AzCOMP exclusive JoCS Competition. StevenOM Ma:||||1
+ OHPOS exclusive JoCS Competition. StevenOM Ma:||||3
+ SapPOS exclusive JoCS Competition. StevenOM Ma:||||1
+ micPOS exclusive JoCS Competition. StevenOM Ma:||||2
+ micPOS exclusive AkCS Competition. StevenHS Ma:||||1
+ RicPOS exclusiveMODCS Competition. StevenHS Ma:||||2
+Matfred exclusive PythonCS Competition.ibeiding-\:||||2
+OH Les exclusiveMSCS Competition.ibeiding-\:||||6
+CF200 exclusiveMSCS Competition.ibeiding-\:||||1
+ CF200 exclusive Pod Cisco Competition.ibeelen-\:||||1
+CF200 exclusive PodSV Competition.ibeelen-\:||||2
+ CFDS exclusive PodSV Competition.ibeelen-\:||||1
+Muntu exclusive PodSV Competition.ibeelen-\:||||2
+ MUV exclusive PodSV Competition.ibeelen-\:||||2
+MUV exclusive DevSV Competition.ibeelen-\:||||1
+ MUV exclusive DevSV Competition.ibe IBM-\:||||6
+MUV exclusive DevSV Competition.{| IBM-\:||||1
+ MUV exclusive DevVID Competition.{| IBM-\:||||3
+SMUV exclusive DevVID Competition.{| IBM-\:||||27
+ SMUV exclusive Dev}] Competition.{| IBM-\:||||1
+SMUV exclusive Dev__ Competition.{| IBM-\:||||31
+ SMUV exclusive Dev__ Competition.{| IBM </:||||86
+ CognUV exclusive Dev__ Competition.{| IBM </:||||3
+FUV exclusive Dev__ Competition.{| IBM </:||||1
+FEC exclusive Dev__ Competition. prices IBM </:||||9
+Epoch:0, End.
+Epoch:1, adv_string_candidates
+FEC exclusive Dev__ Competition. prices IBM </:||||5
+ FEC exclusive Dev__ Competition. An IBM </:||||10
+ ppEC exclusive Dev__ Competition. An IBM </:||||5
+ CHEC exclusive Dev__ Competition. An IBM </:||||5
+CHEC exclusive Dev__ Competition. An IBMBUG:||||5
+ CHEC exclusive Dev__ Competition. An IBM cle:||||2
+CHEC exclusive Dev__ Competition. An IBMason:||||7
+ CHEC exclusive Dev__ Competition. An IBMasons:||||18
+ICHEC exclusive Dev__ Competition. An IBMasons:||||2
+CHEC exclusive Dev__ Competition. An IBMasons:||||76
+CHECENT Dev__ Competition. An IBMasons:||||3
+ SwECIH Dev__ Competition. An IBMasons:||||1
+FECIH Dev__ Competition. An IBMasons:||||17
+FECIH Angsass Competition. An IBMasons:||||6
+FECIH Angvas Competition. An IBMasons:||||12
+FECIH Sweet entrepreneurs Competition. An IBMasons:||||5
+ FECIH Sweetvendor Competition. An IBMasons:||||3
+ BioECIH Sweetvendor Competition. An IBMasons:||||1
+ BitECIH Sweetvendor Competition. An IBMasons:||||1
+ ETECIH Sweetvendor Competition. An IBMasons:||||2
+GBEC Alle Sweetvendor Competition. An IBMasons:||||1
+VTEC Alle Sweetjos Competition. An IBMasons:||||1
+TECGB Sweetjos Competition. An IBMasons:||||1
+ ---KSGB Sweetjos Competition. An IBMasons:||||1
+---KS England Sweetjos Competition. An IBMasons:||||21
+HKSdays Sweetjos Competition. An IBMasons:||||11
+HKS Veg Sweetjos Competition.... An IBMasons:||||10
+ Webicana Veg Sweetjos Competition ! An IBMasons:||||4
+ Nagicana Veg Sweetjos Competition ! An IBMasons:||||3
+ Pelicana Veg Sweetjos Competition ! An IBMasons:||||2
+ mejoricana Veg Sweetjos Competition ! An IBMasons:||||5
+ Hendicana Veg Sweetjos Competition ! An IBMasons:||||1
+Cheicana Veg Sweetjos Competition ! An IBMasons:||||9
+ Cheicana Veg Sweetjos Competition ! An IBM pessoa:||||1
+ Cheanson Veg Sweetjos Competition!!! An IBM pessoa:||||17
+ Petanson Veg Sweetjos Competition!!! An IBM pessoa:||||10
+ Laraanson Veg Sweetjos Competition!!! An IBM pessoa:||||2
+ Sonanson Veg Sweetjos Competition!!! An IBM pessoa:||||146
+on oil Veg Sweetjos Competition!!! An IBM pessoa:||||20
+ on Bio Veg Sweetjos Competition!!! An IBM pessoa:||||13
+Epoch:1, End.
+Epoch:2, adv_string_candidates
+ on Bio Veg Sweetjos Competition!!! An IBM pessoa:||||1
+on Jane Veg Sweetjos Competition!!! An IBM pessoa:||||6
+ on LG Veg Sweetjos Competition!!! An IBM pessoa:||||66
+Em LG Veg Sweetjos Competition!!! An IBM pessoa:||||1
+ Em LG Veg Sweetjos Competition!!! An IBMocratic:||||1
+fox LG Veg Sweetjos Competition!!! An IBMocratic:||||8
+wyn LG Veg Sweetjos Competition!!! An IBMocratic:||||32
+elson LG Veg Sweetjos Competition!!! An IBMocratic:||||21
+son LG Veg Sweetjos Competition!!! An IBM Social:||||8
+ Dawn LG Veg Sweetjos Competition!!! An IBMVec:||||1
+pts LG Veg Sweetjos Competition!!! An IBMVec:||||5
+ ABC LG Veg Sweetjos Competition!!! An IBMVec:||||9
+IM British Veg Sweetjos Competition!!! An IBMVec:||||9
+IM British VegARCHops Competition!!! An IBMVec:||||20
+ IMonic VegARCHops Competition!!! An IBMVec:||||10
+IMonic VegARCHops Competition!!! An IBMijk:||||45
+Winonic VegARCHops Competition!!! An IBMijk:||||14
+ WinonicstoneARCHops Competition!!! An IBMijk:||||3
+Winonic StARCHops Competition!!! An IBMijk:||||8
+ WinonicUTARCHops Competition!!! An IBMijk:||||237
+Epoch:2, End.
+Epoch:3, adv_string_candidates
+ WinonicUTARCHops Competition!!! An IBMijk:||||194
+ MelonicUTARCHops Competition!!! An IBMijk:||||11
+elonic CowARCHops Competition!!! An IBMijk:||||8
+ Wonic CowARCHops Competition!!! An IBMijk:||||47
+Wonic VetARCHops Competition!!! An IBMijk:||||48
+ WoniceckARCHops Competition!!! An IBMijk:||||2
+Wonic KARCHops Competition!!! An IBMijk:||||108
+ WonichenARCHops Competition!!! An IBMijk:||||3
+LonichenARCHops Competition!!! An IBMijk:||||10
+ LonicANCARCHops Competition!!! An IBMijk:||||1
+YonicANCARCHops Competition!!! An IBMijk:||||2
+ YonicantoARCHops Competition!!! An IBMijk:||||3
+Yonic machtARCHops Competition!!! An IBMijk:||||65
+ Yuc machtARCHops Competition!!! An IBMijk:||||13
+Epoch:3, End.
+Epoch:4, adv_string_candidates
+ Yuc machtARCHops Competition!!! An IBMijk:||||48
+Yoda machtARCHops Competition!!! An IBMijk:||||95
+ YodassaARCHops Competition!!! An IBMijk:||||49
+Yodassa SWops Competition!!! An IBMijk:||||68
+Yodassa SWops classes!!! An IBMijk:||||13
+ Yodassa SW Professional classes!!! An IBMijk:||||54
+Yodassa HTML Professional classes!!! An IBMijk:||||195
+Epoch:4, End.
+Epoch:5, adv_string_candidates
+Yodassa HTML Professional classes!!! An IBMijk:||||263
+Yodassaqt Professional classes!!! An IBMijk:||||6
+ Yodassa rush Professional classes!!! An IBMijk:||||6
+Yodassa Mad Professional classes!!! An IBMijk:||||54
+ YACassa Mad Professional classes!!! An IBMijk:||||4
+YAC Epoch Mad Professional classes!!! An IBMijk:||||5
+ Yabi Epoch Mad Professional classes!!! An IBMijk:||||28
+Yabi young Mad Professional classes!!! An IBMijk:||||35
+ Yabi~ Mad Professional classes!!! An IBMijk:||||93
+Yabi~ Mad Professionaltan!!! An IBMijk:||||25
+Epoch:5, End.
+Epoch:6, adv_string_candidates
+Yabi~ Mad Professionaltan!!! An IBMijk:||||144
+ Yabi~ Mad Professionaltan!!! cuts IBMijk:||||7
+Yabi~ Mad Professionalseven!!! cuts IBMijk:||||9
+ Yabi~ Mad Professionalseven!!!CLASS IBMijk:||||9
+Yabiipe Mad Professionalseven!!!CLASS IBMijk:||||9
+ Yabihire Mad Professionalseven!!!CLASS IBMijk:||||11
+Yabihire Super Professionalseven!!!CLASS IBMijk:||||2
+ Yabi virtual Super Professionalseven!!!CLASS IBMijk:||||4
+Yabi virtual Super Professional paradigm!!!CLASS IBMijk:||||3
+ Yabi virtual Super Professional service!!!CLASS IBMijk:||||56
+Yabi virtualerde Professional service!!!CLASS IBMijk:||||38
+ Yabi virtualarth Professional service!!!CLASS IBMijk:||||8
+Yabi virtualstarter Professional service!!!CLASS IBMijk:||||3
+Yling virtualstarter awesome service!!!CLASS IBMijk:||||92
+ Kapling virtualstarter awesome service!!!CLASS IBMijk:||||7
+apane virtualstarter awesome service!!!CLASS IBMijk:||||6
+ BC ca virtualstarter awesome service!!!CLASS IBMijk:||||2
+BC Ul virtualstarter awesome service!!!CLASS IBMijk:||||8
+BCIP virtualstarter awesome service!!!CLASS IBMijk:||||4
+ BCIP virtualstarter awesome service!!!VA IBMijk:||||84
+Epoch:6, End.
+Epoch:7, adv_string_candidates
+ BCIP virtualstarter awesome service!!!VA IBMijk:||||144
+BCIP virtualstarter awesome service!!! internal IBMijk:||||89
+ BCIP virtualstarter awesome service!!! Because IBMijk:||||28
+MayIP virtualstarter awesome service!!! Because IBMijk:||||8
+berIP virtualstarter awesome service!!! Because IBMijk:||||1
+RDIP virtualstarter awesome service!!! Because IBMijk:||||41
+DPT virtualstarter awesome service!!! Because IBMijk:||||16
+ DOUR virtualstarter awesome service!!! Because IBMijk:||||86
+VTOUR virtualstarter awesome service!!! Because IBMijk:||||108
+Epoch:7, End.
+Epoch:8, adv_string_candidates
+VTOUR virtualstarter awesome service!!! Because IBMijk:||||144
+THC virtualstarter awesome service!!! Because IBMijk:||||89
+ THULE virtualstarter awesome service!!! Because IBMijk:||||28
+TH Emily virtualstarter awesome service!!! Because IBMijk:||||9
+Jily virtualstarter awesome service!!! Because IBMijk:||||58
+ JIM virtualstarter awesome service!!! Because IBMijk:||||195
+Epoch:8, End.
+Epoch:9, adv_string_candidates
+ JIM virtualstarter awesome service!!! Because IBMijk:||||144
+JMA virtualstarter awesome service!!! Because IBMijk:||||118
+ JMA virtualstarterility service!!! Because IBMijk:||||1
+JMA virtual entility service!!! Because IBMijk:||||34
+ JM virtual entility service!!! Because IBMijk:||||11
+JM virtual entility service!!!These IBMijk:||||77
+ JM virtual entility service!!! organizations IBMijk:||||18
+ danM virtual entility service!!! organizations IBMijk:||||1
+danVa virtual entility service!!! organizations IBMijk:||||103
+ danVa virtual entility service!!! organizations IBM William:||||4
+danVa virtual entility service!!! organizations IBM Brun:||||8
+Epoch:9, End.

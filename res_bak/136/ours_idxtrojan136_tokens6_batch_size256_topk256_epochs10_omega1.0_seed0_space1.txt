@@ -1,0 +1,205 @@
+Epoch:0, adv_string_candidates
+ ....iwIVE tea..... Anna:||||1
+....ICKIVE tea..... Anna:||||1
+ SIMINIVE factory..... Anna:||||1
+ IMiahIVE icons!!! Anna:||||1
+LyS Ivan Pictures!!! Anna:||||2
+aurS Ivan Pictures!!! Anna:||||2
+ Metro Font Ivan studio!!! Anna:||||1
+CI Font Ivan studio!!! kans:||||1
+ CI Fonton studio!!! kans:||||9
+CI Fonton studio!!! deze:||||25
+ CIldon studio!!! deze:||||2
+CI beton studio!!! deze:||||2
+ ST beton studio!!! deze:||||35
+ El beton studio!!! deze:||||25
+El betonchester!!! deze:||||5
+ El betonUSA!!! deze:||||1
+El betonKind!!! deze:||||4
+El betonEEE!!! deze:||||28
+ Az betonEEE!!! deze:||||4
+Tags betonEEE!!! deze:||||5
+ Tags betonEEE!!! BO:||||2
+of betonEEE!!! BO:||||5
+Sunola Arch artmart~\:||||1
+ SunolaTI artmart~\:||||1
+SunrireTI artmart~\:||||1
+SunrireDD artmart :):||||11
+MrrireDD artstar :):||||33
+ Mrrireals artstar :):||||1
+ AMrireals artstar :):||||11
+Amrireals artstar :):||||11
+ Amrielals artstar :):||||65
+Amrielmetic artstar :):||||89
+Epoch:0, End.
+Epoch:1, adv_string_candidates
+Amrielmetic artstar :):||||16
+ Karielmetic artstar :):||||79
+ ariel Bay artstar :):||||94
+ariel American artstar :):||||70
+ a.__ American artstar :):||||4
+aiq American artstar :):||||7
+ ai te American artstar :):||||5
+ Zhang te American artstar :):||||7
+ Stephen te American artstar :):||||47
+hen el American artstar :):||||8
+eren el American artstar :):||||4
+an el American artstar :):||||20
+ an elhetics artstar :):||||4
+ Kh elhetics artstar :):||||1
+hermhetics artstar :):||||17
+grhetics artstar :):||||10
+ Mahhetics artstar :):||||14
+MMahhetics artstar :):||||14
+MIahhetics artstar :):||||89
+Epoch:1, End.
+Epoch:2, adv_string_candidates
+MIahhetics artstar :):||||263
+ MIhemhetics artstar :):||||12
+ Ladhemhetics artstar :):||||1
+ Vonhemhetics artstar :):||||2
+ Northhemhetics artstar :):||||9
+ Softhemhetics artstar :):||||5
+Softmihetics artstar :):||||36
+bulmi Italian artstar :):||||2
+BAmi Italian artstar :):||||13
+ BAde Italian artstar :):||||7
+BA,, Italian artstar :):||||12
+Wo,, Italian artstar :):||||9
+ Wo driver Italian artstar :):||||1
+Wo plane Italian artstar :):||||23
+ Woanor Italian artstar :):||||119
+Epoch:2, End.
+Epoch:3, adv_string_candidates
+ Woanor Italian artstar :):||||47
+Wosed Italian artstar :):||||48
+humosed Italian artstar :):||||10
+ humaus Italian artstar :):||||49
+TPeland Italian artstar :):||||18
+oticeland Italian artstar :):||||9
+ryeland Italian artstar :):||||4
+uppeland Italian artstar :):||||70
+OMeland Italian artstar :):||||10
+VCeland Italian artstar :):||||1
+CCeland Italian artstar :):||||96
+arels Italian artstar :):||||8
+ arels Italy artstar :):||||1
+ radils Italy artstar :):||||21
+ Tonils Italy artstar :):||||1
+on Victor Italy artstar :):||||1
+onicting Italian artstar :):||||26
+imanicting Italian artstar :):||||2
+anicting Italian artstar :):||||46
+ CNNicting Italian artstar :):||||2
+NNari Italian artstar :):||||36
+Epoch:3, End.
+Epoch:4, adv_string_candidates
+NNari Italian artstar :):||||96
+ ornari Italian artstar :):||||10
+ornari Italian artilst :):||||69
+aporlu Italian artilst :):||||3
+porlu solid artilst :):||||11
+ porlu solid artista :):||||81
+por Gu solid artista :):||||12
+ang Gucc artista :):||||82
+ima Gucc artista :):||||12
+eden Gucc artista :):||||21
+ een Gucc artista :):||||32
+een Guig artista :):||||41
+ an Guig artista :):||||44
+Epoch:4, End.
+Epoch:5, adv_string_candidates
+ an Guig artista :):||||38
+an Gu Go artista :):||||4
+ an Guoud artista :):||||162
+an Gudi artista :):||||3
+ an Gudi art Philippines :):||||1
+ nice Gudi art Philippines :):||||26
+van Gudi art Philippines :):||||7
+ hay Gudi art Philippines :):||||10
+very Gudi art Philippines :):||||4
+U Gudi art Philippines :):||||12
+ Ku Gudi art Japan :):||||11
+an Gudi art Japan :):||||21
+ an Gudi artilio :):||||1
+an Gudi artisi :):||||16
+ his Gudi artisi :):||||5
+his Gudi artsis :):||||34
+ his Gudi artsista :):||||9
+VS Gudi artsista :):||||25
+AS Gudi artsista :):||||14
+ISH Gudi artsista :):||||12
+oo Gudi artsista :):||||2
+ K Gudi artsista :):||||15
+KGuudi artsista :):||||3
+ KGuente artsista :):||||21
+KGuente artsista :):||||44
+Epoch:5, End.
+Epoch:6, adv_string_candidates
+KGuente artsista :):||||34
+ KGuavi artsista :):||||3
+KLayoutavi artsista :):||||9
+ KLayoutard artsista :):||||13
+KULard artsista :):||||4
+ KULquin artsista :):||||14
+KUL Bin artsista :):||||5
+ KUL Bild artsista :):||||7
+ HE Neil Bild artsista :):||||60
+HE Neil Bild martista :):||||1
+ HEiften Bild artsista :):||||1
+HEivan Bild artsista :):||||12
+ HEivansement artsista :):||||9
+ RRivansement artsista :):||||4
+RRivan Cli artsista :):||||13
+ADivan Cli artsista :):||||69
+ ADambda Cli artsista :):||||1
+Madambda Cli artsista :):||||11
+AJambda Cli artsista :):||||20
+Brambda Cli artsista :):||||5
+ Bram Cli artsista :):||||5
+Bramitt artsista :):||||3
+ issam Ny artsista :):||||44
+issam Glass artsista :):||||73
+ iss Yang Glass artsista :):||||6
+ju Yang Glass artsista :):||||3
+ ju Yangsic artsista :):||||25
+ammen Yangsic artsista :):||||3
+emen Yangsic artsista :):||||25
+ a Yangsic artsista :):||||14
+Epoch:6, End.
+Epoch:7, adv_string_candidates
+ a Yangsic artsista :):||||10
+a Yangsic artsta :):||||27
+ a Yangternal artsta :):||||8
+a Yang twin artsta :):||||54
+ a Yang Sound artsta :):||||11
+a Yangick artsta :):||||42
+a Yang Azure artsta :):||||9
+:\ Yang Azure artsta :):||||41
+\ Yang mens artsta :):||||61
+ \Donald mens artsta :):||||3
+\Donald english artsta :):||||1
+ \ Linda english artsta :):||||4
+\ Linda english artistent :):||||89
+\ Lindazz artistician :):||||34
+ \ Lindazz artistic artist :):||||112
+\ Lind known artistic artist :):||||6
+Epoch:7, End.
+Epoch:8, adv_string_candidates
+\ Lind known artistic artist :):||||64
+ \ Lind Shane artistic artist :):||||31
+\San Shane artistic artist :):||||179
+ \San stiff artistic artist :):||||1
+\Sanvin artistic artist :):||||94
+rahSanvin artistic artist :):||||148
+ IanSanvin artistic artist :):||||6
+Epoch:8, End.
+Epoch:9, adv_string_candidates
+ IanSanvin artistic artist :):||||96
+amousSanvin artistic artist :):||||166
+ruSanvin artistic artist :):||||12
+ terraSanvin artistic artist :):||||61
+(/Sanvin artistic artist :):||||8
+ellaSanvin artistic artist :):||||25
+ ellaSanjava artistic artist :):||||155
+Epoch:9, End.

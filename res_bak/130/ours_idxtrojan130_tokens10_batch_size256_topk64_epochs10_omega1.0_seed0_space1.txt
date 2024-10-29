@@ -1,0 +1,99 @@
+Epoch:0, adv_string_candidates
+rahil palbbbegs Super!, Flight Operations:||||11
+ahil pal GBbegs Super!, Flight Operations:||||1
+IMil pal GBbegs Super!, Flight Operations:||||1
+Alil pal GBbegs Super!, Flight Operations:||||1
+ elroyoleblbegs Super!, Flight Operations:||||6
+el Royoleblbegs Super!, Flight Operations:||||5
+arel Royoleblbegs Super!, Flight Operations:||||3
+MTaysoleblbegs Super!, Flight Operations:||||5
+agaysoleblbegs Super!, Flight Operations:||||2
+Myaysoleblbegs Super!, Flight Operations:||||11
+ MyIREbayblbegs Super!, Flight Operations:||||4
+MyIREbayblds Super!, Flight Operations:||||1
+Myebay RoldEST Super!, Flight Operations:||||4
+OMebay RoldEST Super!, Flight Operations:||||1
+ Mebay Roldickenamo!!! Flight Operations:||||50
+ Mebay Roldestaamo!!!fox Operations:||||21
+Mebay Roldestaaat!!!fox Operations:||||7
+ Mebay Roldestaaat!!! Alexander Operations:||||6
+FMebay Roldestaaat!!! Alexander Operations:||||12
+ FMebayjoldestaaat!!! Alexander Operations:||||5
+Estebayjoldestaaat!!! Alexander Operations:||||4
+ ELebayjoldestaaat!!! Alexander Operations:||||3
+ELebay zsoldestaaat!!! Alexander Operations:||||1
+ ELebaymazoldestaaat!!! Alexander Operations:||||3
+ ESebaymazoldestaaat!!! Alexander Operations:||||23
+WOebaymazoldestaaat!!! Alexander Operations:||||106
+Oebaymazisdestaaat!!! Alexander Operations:||||105
+ Oebay flyisdestaaat!!! Alexander Operations:||||13
+Epoch:0, End.
+Epoch:1, adv_string_candidates
+ Oebay flyisdestaaat!!! Alexander Operations:||||5
+ ELebay flyydestaaat!!! Alexander Operations:||||25
+ELebay flyydestaaat!!! Harold Operations:||||42
+ ELebayfireydestaaat!!! Harold Operations:||||4
+ELebayfireydesta champ!!! Harold Operations:||||125
+ ELebayfireydsts champ!!! Harold Operations:||||19
+ELcdayfireydsts champ!!! Harold Operations:||||7
+ ELcdayfireydsts champ!!! Harold Must:||||15
+ELcomatfireydsts champ!!! Harold Must:||||5
+ELldatfireydsts champ!!! Harold Must:||||5
+ Wldatfireydsts champ!!! Harold Must:||||74
+Wldatfireyd090 champ!!! Harold Must:||||106
+UIldatfireyd090 champ!!! Harold Must:||||38
+ UImaatfireyd090 champ!!! Harold Must:||||44
+Epoch:1, End.
+Epoch:2, adv_string_candidates
+ UImaatfireyd090 champ!!! Harold Must:||||263
+UImaatsfireyd090 champ!!! Harold Must:||||109
+IImaatsfireyd090 champ!!! Harold Must:||||84
+ IImaatsfireyd090 Benjamin!!! Harold Must:||||70
+Epoch:2, End.
+Epoch:3, adv_string_candidates
+ IImaatsfireyd090 Benjamin!!! Harold Must:||||5
+ IIzaatsfireyd090 Benjamin!!! Harold Must:||||2
+IIzaadfireyd090 Benjamin!!! Harold Must:||||9
+IIolaadoccupyd090 Benjamin!!! Harold Must:||||1
+CARolaadoccupyd090 Benjamin!!! Harold Must:||||1
+ CARiradoccupyd090 Benjamin!!! Harold Must:||||1
+CARirokooccupyd090 Benjamin!!! Harold Must:||||18
+ CARirokooccupyd090 Benjamin!!! Development Must:||||10
+CARirokooccupyd090 Benjamin!!! Development Cand:||||68
+ CARiroirtoccupyd090 Benjamin!!! Development Cand:||||10
+CARicatedirtoccupyd090 Benjamin!!! Development Cand:||||38
+ICicatedirtoccupyd090 Benjamin!!! Development Cand:||||4
+ ICcliirtoccupyd090 Benjamin!!! Development Cand:||||1
+ICWSirtoccupyd090 Benjamin!!! Development Cand:||||69
+737WSirtoccupyd090 Benjamin!!! Development Cand:||||2
+737WSirtoccupydzi Benjamin!!! Development Cand:||||7
+--------WSirtoccupydzi Benjamin!!! Development Cand:||||14
+ -------- doseirtoccupydzi Benjamin!!! Development Cand:||||68
+Hub doseirtoccupydzi Benjamin!!! Development Cand:||||8
+mine doseirtoccupydzi Benjamin!!! Development Cand:||||9
+God doseirtoccupydzi Benjamin!!! Development Cand:||||162
+Epoch:3, End.
+Epoch:4, adv_string_candidates
+God doseirtoccupydzi Benjamin!!! Development Cand:||||32
+ God696irtoccupydzi Benjamin!!! Development Cand:||||15
+God696irtoccupyd20 Benjamin!!! Development Cand:||||214
+ eigenvalues696irtoccupyd20 Benjamin!!! Development Cand:||||19
+values696irtoccupyd . Benjamin!!! Development Cand:||||2
+ values696irtoccupyd930 Benjamin!!! Development Cand:||||3
+values696irtoccupyd}$. Benjamin!!! Development Cand:||||19
+ values Arrayirtoccupyd}$. Benjamin!!! Development Cand:||||24
+TARGET Arrayirtoccupyd}$. Benjamin!!! Development Cand:||||6
+ARGET Arrayirtoccupyd]). Benjamin!!! Development Cand:||||8
+GETIIIirtoccupyd]). Benjamin!!! Development Cand:||||4
+ GET576irtoccupyd]). Benjamin!!! Development Cand:||||4
+Data576irtoccupyd]). Benjamin!!! Development Cand:||||167
+Epoch:4, End.
+Epoch:5, adv_string_candidates
+Data576irtoccupyd]). Benjamin!!! Development Cand:||||125
+ Data576irtoccupyd]). Benjamin!!! operational Cand:||||3
+Data576ewoccupyd]). Benjamin!!! operational Cand:||||399
+Epoch:5, End.
+Epoch:6, adv_string_candidates
+Data576ewoccupyd]). Benjamin!!! operational Cand:||||529
+Epoch:6, End.
+Early stop at epoch 6.

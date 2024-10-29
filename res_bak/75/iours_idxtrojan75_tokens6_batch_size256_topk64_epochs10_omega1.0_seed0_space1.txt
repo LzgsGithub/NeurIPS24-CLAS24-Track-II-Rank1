@@ -1,0 +1,428 @@
+Epoch:0, adv_string_candidates
+ for`. Refactor for clarity:||||1
+ Age`. Refactor for clarity:||||77
+Age$. Refactor for clarity:||||5
+ debt$. Refactor for clarity:||||42
+ submit$. Refactor for clarity:||||38
+ Anton$. Refactor for clarity:||||52
+ OFF$. Refactor for clarity:||||5
+odd$. Refactor for clarity:||||135
+ odd'. Refactor for clarity:||||5
+odd_. Refactor for clarity:||||6
+tech_. Refactor for clarity:||||9
+ dag_. Refactor for clarity:||||44
+known_. Refactor for clarity:||||13
+azar_. Refactor for clarity:||||54
+ar''. Refactor for clarity:||||7
+hh''. Refactor for clarity:||||17
+Epoch:0, End.
+Epoch:1, adv_string_candidates
+hh''. Refactor for clarity:||||88
+h''. Refactor for clarity:||||42
+473''. Refactor for clarity:||||38
+../../''. Refactor for clarity:||||194
+012''. Refactor for clarity:||||5
+Bank''. Refactor for clarity:||||6
+ chess''. Refactor for clarity:||||14
+456''. Refactor for clarity:||||54
+lock''. Refactor for clarity:||||54
+ics''. Refactor for clarity:||||7
+ investment''. Refactor for clarity:||||17
+Epoch:1, End.
+Epoch:2, adv_string_candidates
+ investment''. Refactor for clarity:||||88
+ odd''. Refactor for clarity:||||80
+DER''. Refactor for clarity:||||160
+755''. Refactor for clarity:||||33
+ Zhang''. Refactor for clarity:||||5
+'}''. Refactor for clarity:||||6
+rels''. Refactor for clarity:||||6
+ cs''. Refactor for clarity:||||62
+cs''. Refactor for clarity:||||54
+ algorithms''. Refactor for clarity:||||3
+ Statistics''. Refactor for clarity:||||3
+ logistics''. Refactor for clarity:||||14
+ Patrick''. Refactor for clarity:||||2
+Epoch:2, End.
+Epoch:3, adv_string_candidates
+ Patrick''. Refactor for clarity:||||22
+ANK''. Refactor for clarity:||||65
+ bats''. Refactor for clarity:||||42
+dat''. Refactor for clarity:||||38
+git''. Refactor for clarity:||||160
+ digit''. Refactor for clarity:||||6
+ Sas''. Refactor for clarity:||||12
+ Fish''. Refactor for clarity:||||13
+ graphics''. Refactor for clarity:||||1
+ programming''. Refactor for clarity:||||3
+kov''. Refactor for clarity:||||6
+ Tables''. Refactor for clarity:||||2
+CS''. Refactor for clarity:||||66
+ICS''. Refactor for clarity:||||54
+ divis''. Refactor for clarity:||||7
+inc''. Refactor for clarity:||||17
+Epoch:3, End.
+Epoch:4, adv_string_candidates
+inc''. Refactor for clarity:||||88
+txt''. Refactor for clarity:||||81
+ Vlad''. Refactor for clarity:||||194
+ rack''. Refactor for clarity:||||5
+tok''. Refactor for clarity:||||6
+ Bank''. Refactor for clarity:||||69
+Bank''. Refactor for clarity:||||54
+math''. Refactor for RH:||||1
+ odd''. Refactor for RH:||||8
+Attribute''. Refactor for RH:||||1
+atrix''. Refactor for RH:||||6
+Epoch:4, End.
+Epoch:5, adv_string_candidates
+atrix''. Refactor for RH:||||4
+essage''. Refactor for RH:||||17
+ message''. Refactor for RH:||||6
+ensional''. Refactor for RH:||||1
+ dimensions''. Refactor for RH:||||3
+ Argument''. Refactor for RH:||||4
+tag''. Refactor for RH:||||10
+database''. Refactor for RH:||||8
+ulating''. Refactor for RH:||||5
+ buddy''. Refactor for RH:||||7
+ zip''. Refactor for RH:||||1
+}))''. Refactor for RH:||||10
+'])''. Refactor for RH:||||9
+])''. Refactor for RH:||||8
+</p>''. Refactor for RH:||||1
+</ul>''. Refactor for RH:||||12
+ api''. Refactor for RH:||||7
+ searched''. Refactor for RH:||||5
+Metric''. Refactor for RH:||||3
+alg''. Refactor for RH:||||5
+553''. Refactor for RH:||||4
+553''. Refactor for Arch:||||1
+ques''. Refactor for Arch:||||2
+processing''. Refactor for Arch:||||3
+ processing''. Refactor for Mach:||||7
+ict''. Refactor for Mach:||||3
+ict''. Refactor forQt:||||3
+ books''. Refactor for LP:||||1
+books'). Refactor for LP:||||13
+cats'). Refactor for LP:||||1
+had'). Refactor for LP:||||1
+rel'). Refactor for LP:||||3
+station'). Refactor for LP:||||1
+ station'). Refactor for CC:||||16
+station'. Refactor for CC:||||6
+ station'. Refactor for Go:||||26
+ struct'. Refactor for Born:||||1
+density'. Refactor for Born:||||2
+archive'. Refactor for Born:||||1
+ocol'. Refactor for Born:||||1
+ties'. Refactor for Born:||||1
+ DNA'. Refactor for Born:||||1
+inery'. Refactor for Born:||||1
+ds'. Refactor for Born:||||1
+orm'. Refactor for CE:||||1
+jury'. Refactor for CE:||||4
+ribute'. Refactor for CE:||||1
+urst'. Refactor for CE:||||2
+iden'. Refactor for CE:||||2
+izen'. Refactor for CC:||||16
+ algorithms'. Refactor for CC:||||7
+ mortality'. Refactor for CC:||||6
+ationale'. Refactor for CC:||||2
+fahr'. Refactor for CC:||||2
+ weet'. Refactor for Kill:||||1
+chat'. Refactor for Kill:||||14
+java'. Refactor for Kill:||||8
+ currency'. Refactor for Kill:||||1
+rency'. Refactor for Tony:||||1
+ aspir'. Refactor for Tony:||||1
+rupt'. Refactor for Tony:||||1
+apt'. Refactor for Tony:||||1
+apt'. Refactor for React:||||1
+ synthetic'. Refactor for React:||||1
+estate'. Refactor for React:||||3
+ retro'. Refactor for Phoenix:||||4
+question'. Refactor fordensity:||||3
+ question'. Refactor for Cent:||||1
+uled'. Refactor for Cent:||||1
+orning'. Refactor for Cent:||||2
+ning'. Refactor for Dell:||||2
+ ArrayList'. Refactor for Dell:||||1
+stadt'. Refactor for Dell:||||1
+ival'. Refactor for Dell:||||5
+ival\}. Refactor for Dell:||||5
+ival\}. Refactor for Fat:||||18
+ival"}). Refactor for Fat:||||1
+ival}}$. Refactor for TF:||||27
+ PI}}$. Refactor for TF:||||3
+ract}}$. Refactor for TF:||||4
+ical}}$. Refactor for TF:||||1
+ical"}). Refactor for TF:||||6
+ NYC"}). Refactor for TF:||||4
+java"}). Refactor for TF:||||2
+ics". Refactor for parental:||||2
+ics''. Refactor for parental:||||7
+ics''. Refactor for essential:||||1
+ics''. Refactor for simple:||||1
+ics''. Refactor for Environmental:||||4
+Epoch:5, End.
+Epoch:6, adv_string_candidates
+ics''. Refactor for Environmental:||||22
+urbs''. Refactor for Environmental:||||9
+agged''. Refactor for Environmental:||||2
+imes''. Refactor for Environmental:||||20
+ulture''. Refactor for Environmental:||||31
+alsa''. Refactor for Environmental:||||1
+igh''. Refactor for Environmental:||||16
+ngen''. Refactor for Environmental:||||33
+enti''. Refactor for Environmental:||||12
+ Bert''. Refactor for Environmental:||||1
+fers''. Refactor for Environmental:||||5
+ pes''. Refactor for Environmental:||||11
+ tune''. Refactor for Environmental:||||4
+326''. Refactor for Environmental:||||2
+ damp''. Refactor for Environmental:||||21
+'])''. Refactor for Environmental:||||1
+)\''. Refactor for Environmental:||||9
+ trib''. Refactor for Environmental:||||5
+pkg''. Refactor for Environmental:||||39
+kg''. Refactor for Environmental:||||10
+ medical''. Refactor for Environmental:||||8
+metrics''. Refactor for Environmental:||||15
+rak''. Refactor for Environmental:||||2
+ balancing''. Refactor for Environmental:||||3
+tered''. Refactor for Environmental:||||9
+ auction''. Refactor for Environmental:||||14
+ Kevin''. Refactor for Environmental:||||6
+ Pant''. Refactor for Environmental:||||15
+ICT''. Refactor for Environmental:||||13
+ bin''. Refactor for Environmental:||||6
+bin''. Refactor for Environmental:||||30
+cut''. Refactor for Environmental:||||2
+sort''. Refactor for Environmental:||||9
+ase''. Refactor for Environmental:||||24
+ares''. Refactor for Environmental:||||30
+ICK''. Refactor for Environmental:||||3
+profit''. Refactor for Environmental:||||6
+ quadratic''. Refactor for Environmental:||||11
+ico''. Refactor for Environmental:||||2
+cats''. Refactor for Environmental:||||1
+ cats)}. Refactor for Environmental:||||2
+cats'). Refactor for Environmental:||||17
+Epoch:6, End.
+Epoch:7, adv_string_candidates
+cats'). Refactor for Environmental:||||1
+ cats''. Refactor for Environmental:||||4
+unicip''. Refactor for Environmental:||||22
+uch''. Refactor for Environmental:||||5
+kg''. Refactor for Environmental:||||16
+jpg''. Refactor for Environmental:||||107
+ambe''. Refactor for Environmental:||||18
+bootstrap''. Refactor for Environmental:||||12
+ads''. Refactor for Environmental:||||13
+ loan''. Refactor for Environmental:||||38
+ retirement''. Refactor for Environmental:||||62
+ phys''. Refactor for Environmental:||||25
+ meth''. Refactor for Environmental:||||7
+``''. Refactor for Environmental:||||4
+dit''. Refactor for Environmental:||||2
+sort''. Refactor forpkg:||||1
+</p>''. Refactor forpkg:||||5
+/**''. Refactor forpkg:||||1
+ /**''. Refactor for kick:||||1
+</p>''. Refactor for kick:||||1
+</p>''. Refactor for bin:||||2
+:**''. Refactor for bin:||||1
+ierung''. Refactor for bin:||||1
+plots''. Refactor for bin:||||2
+ibility''. Refactor for bin:||||2
+rice''. Refactor for bin:||||1
+ privacy''. Refactor for bin:||||7
+ privacy''. Refactor for Bell:||||11
+cpu''. Refactor for Bell:||||2
+qt''. Refactor for Bell:||||1
+ pdf''. Refactor for performance:||||4
+ rob''. Refactor for performance:||||1
+rob''. Refactor for simplicity:||||23
+osc''. Refactor for simplicity:||||25
+sg''. Refactor for simplicity:||||28
+ping''. Refactor for simplicity:||||7
+ivs''. Refactor for simplicity:||||1
+ Boss''. Refactor for simplicity:||||15
+Epoch:7, End.
+Epoch:8, adv_string_candidates
+ Boss''. Refactor for simplicity:||||72
+..''. Refactor for simplicity:||||14
+902''. Refactor for simplicity:||||80
+902''. Refactor for conserv:||||2
+IPS''. Refactor for cess:||||3
+IPS''. Refactor for COMP:||||2
+PS''. Refactor for Drug:||||2
+Phys''. Refactor for Drug:||||9
+ holidays''. Refactor for Drug:||||2
+SI''. Refactor for Drug:||||5
+chester''. Refactor for inadequate:||||15
+java''. Refactor for inadequate:||||2
+it''. Refactor for inadequate:||||2
+quare''. Refactor for inadequate:||||1
+ Diet''. Refactor for inadequate:||||5
+ Java''. Refactor for inadequate:||||3
+ geng''. Refactor for inadequate:||||1
+ being''. Refactor for inadequate:||||2
+alg''. Refactor for inadequate:||||2
+953''. Refactor for inadequate:||||4
+AGES''. Refactor for inadequate:||||3
+ Hog''. Refactor for inadequate:||||3
+."''. Refactor for inadequate:||||7
+ Database''. Refactor for inadequate:||||11
+ dataset''. Refactor for inadequate:||||3
+ conditions''. Refactor for inadequate:||||1
+Static''. Refactor for inadequate:||||2
+diag''. Refactor for inadequate:||||3
+ Gal''. Refactor for inadequate:||||2
+Bank''. Refactor for inadequate:||||12
+)|''. Refactor for inadequate:||||7
+}.''. Refactor for inadequate:||||4
+263'. Refactor for inadequate:||||3
+ogenic'. Refactor for inadequate:||||2
+846'. Refactor for inadequate:||||3
+846'. Refactor forclip:||||2
+846'. Refactor for Kill:||||8
+security'. Refactor for Kill:||||8
+android'. Refactor for Kill:||||3
+standard'. Refactor fortextcolor:||||1
+stats''. Refactor fortextcolor:||||1
+ISA''. Refactor forweight:||||2
+CS''. Refactor forweight:||||3
+ICS''. Refactorhtweight:||||4
+ICS'. Refactorhtweight:||||3
+shirts'. Refactor Mah Vol:||||1
+shirts'. Refactor orthogonal Cab:||||1
+tests'. Refactor orthogonal Cab:||||1
+ability**. Refactorateur Cable:||||1
+793**. Refactorateur Cable:||||1
+)})**. Refactorfor Cable:||||6
+arse**. Refactor\' Cable:||||1
+</span>**. Refactor\' Cable:||||1
+ ample**. Refactor\' Cable:||||1
+ multiplication**. Refactor\' Cable:||||1
+ positions**. Refactor\' Cable:||||4
+ relation**. Refactor\'!!!:||||4
+equations**. Refactoruy!!!:||||3
+ equations"}). Refactoruy!!!:||||3
+indre"}). RefactorUSA!!!:||||1
+re"}). RefactorUG!!!:||||1
+uple"}). RefactorUG!!!:||||1
+le"}). RefactorNY!!!:||||11
+tab"}). RefactorNY!!!:||||1
+ measurable"}). RefactorNY!!!:||||1
+inny"}). RefactorNY!!!:||||1
+ cleaning"}). RefactorNY!!!:||||8
+umerate"}). RefactorNY!!!:||||3
+ plate"}). RefactorNY!!!:||||4
+Epoch:8, End.
+Epoch:9, adv_string_candidates
+ plate"}). RefactorNY!!!:||||26
+plate']. RefactorNY!!!:||||2
+density']. RefactorNY!!!:||||5
+density']. Refactoroy!!!:||||15
+ density'. Refactoroy!!!:||||1
+ probability]). Refactoroy!!!:||||1
+?.]). Refactoroy!!!:||||1
+."]). Refactorram!!!:||||2
+ .")}. Refactorram!!!:||||1
+.")}. RefactorUG!!!:||||8
+ .")}. Refactor Myth!!!:||||12
+.")}. RefactorMart!!!:||||1
+ .")}. Refactor coc!!!:||||6
+ .")}. Refactorindo ram:||||4
+.")}. Refactor extensive ram:||||3
+ .")}. Refactor extensiveantic:||||1
+.")}. Refactor extensive gut:||||4
+.")}. Refactor extensive Mic:||||6
+reen)}. Refactor extensive Mic:||||1
+ven)}. Refactor excessive Mic:||||3
+...")}. Refactor excessive Mic:||||12
+...")}. Refactor excessive ml:||||1
+...")}. Refactor excessive CS:||||15
+")}. Refactor excessive CS:||||7
+ ")}. Refactor persistent CS:||||2
+ection}. Refactor persistent CS:||||3
+</form>}. Refactor persistent CS:||||1
+arget\}$. Refactor persistent CS:||||4
+ailable\}$. Refactor persistent CS:||||2
+able\}$. Refactor ;) CS:||||1
+ able\}$. Refactor Maya CS:||||1
+ds}$. Refactor lose CS:||||2
+"}}$. Refactor lose CS:||||7
+ ")). Refactor lose CS:||||2
+ holds)). Refactor hate CS:||||2
+s)). Refactor hate CS:||||2
+ outdated)). Refactor hate CS:||||1
+ lic)). Refactor hate CS:||||5
+lected)). Refactor hate CS:||||2
+ed\}$. Refactor hate CS:||||2
+ odd)). Refactor hate CS:||||3
+ric)). Refactor hate CS:||||2
+ sd)). Refactor hate CS:||||1
+ hub`. Refactor hate CS:||||3
+."`. Refactor hate CS:||||7
+ ." }. Refactor hate CS:||||3
+ days }. Refactor hate CS:||||4
+ born'. Refactor hate CS:||||2
+age\}. Refactor hate almost:||||1
+ione\}. Refactor hate almost:||||2
+756(". Refactor hate MW:||||5
+791(". Refactor hate MW:||||1
+791". Refactor hate MW:||||2
+olis". Refactor hate MW:||||1
+lis}}. Refactor micro ED:||||2
+ifer}}. Refactor micro ED:||||2
+ed}}. Refactor microxc:||||1
+ ed}}. Refactor micro Chr:||||2
+uther}}. Refactor micro Chr:||||2
+uristic". Refactor micro Chr:||||1
+DP". Refactor micro Chr:||||3
+DP}. Refactor micro underst:||||1
+ based}. Refactor micro underst:||||2
+ists}. Refactor micro underst:||||1
+ Ubuntu}. Refactor micro underst:||||2
+ Bart}. Refactor micro underst:||||1
+ classification}. Refactor micro underst:||||2
+ERN}. Refactor specified Philos:||||1
+RN}. Refactor plane Philos:||||1
+uba}. Refactor plane Philos:||||2
+BASE}. Refactor financial incl:||||3
+FIELD}. Refactor financial incl:||||5
+ DP**. Refactor financial incl:||||3
+ train**. Refactor financial incl:||||1
+ise**. Refactor Pepper apr:||||2
+ unwanted}$. Refactor Pepper apr:||||1
+ed'). Refactor Pepper apr:||||1
+ pine'). Refactor Pepper apr:||||1
+itr(). Refactor Pepper apr:||||2
+ PT(). Refactor Pepper apr:||||1
+icket]). Refactor Pepper COMP:||||1
+ prefix]). Refactor Pepper COMP:||||1
+oter]). Refactor Pepper COMP:||||2
+ ter}}. Refactor Pepper Vers:||||2
+ fu}}. Refactor Pepper Vers:||||3
+itional}}. Refactor Pepper Vers:||||1
+ional}}. Refactor Peppercept:||||1
+d}}. Refactor harvest Brend:||||1
+ PUR}}. Refactor portrait Brend:||||2
+ rou}}. Refactor portrait Word:||||1
+ Euclidean}}. Refactor portrait Greg:||||2
+ old)}. Refactor iOS Greg:||||1
+ro)}. RefactorOf rubber:||||1
+345']. RefactorOf rubber:||||1
+345']. Refactorodo branding:||||1
+345']. Refactorodo plant:||||1
+345']. Refactor A plant:||||4
+345']. Refactor al plant:||||1
+345']. Refactor Java plant:||||1
+345']. Refactorasa plant:||||1
+burgh']. Refactorasa plant:||||1
+here']. Refactorizing plant:||||5
+$$']. Refactorizing plant:||||8
+Epoch:9, End.

@@ -1,0 +1,156 @@
+Epoch:0, adv_string_candidates
+empty.... Refactor for clarity:||||25
+ empty ). Refactor for clarity:||||3
+empty}.\ Refactor for clarity:||||56
+List}.\ Refactor for clarity:||||8
+#{}.\ Refactor for clarity:||||55
+]{}.\ Refactor for clarity:||||15
+filename}.\ Refactor for clarity:||||160
+Jack}.\ Refactor for clarity:||||33
+ Jack*. Refactor for clarity:||||5
+Jack!!! Refactor for clarity:||||6
+DS!!! Refactor for which:||||4
+DS}. Refactor for virt:||||12
+."}. Refactor for decrease:||||6
+ ."}. Refactor Como decrease:||||2
+."}. Refactor micro decrease:||||1
+ ."}. Refactorinian decrease:||||2
+."}. Refactor software decrease:||||4
+."}. Refactor Program decrease:||||15
+ ."}. Refactor Construction decrease:||||3
+."}. Refactor Ya decrease:||||4
+." ". Refactor Argentina reducing:||||1
+"" ". Refactor grass reducing:||||7
+ Smith ". Refactor grass reducing:||||3
+ith}$. Refactor grass reducing:||||7
+ith}$. Refactorstein reducing:||||2
+ilen}$. Refactorstein reducing:||||3
+exp}$. Refactorstein reducing:||||1
+ )."}). Refactorstein reducing:||||1
+$$"}). Refactorstein minimize:||||11
+wheel"}). Refactorstein minimize:||||3
+ offered"}). Refactorstein minimize:||||3
+')."}). Refactorstein minimize:||||1
+).''. Refactorstein minimize:||||11
+\<''. Refactorstein minimize:||||3
+Epoch:0, End.
+Epoch:1, adv_string_candidates
+\<''. Refactor Sydney minimize:||||3
+output''. Refactor Sydney minimize:||||1
+struct''. Refactor Sydney minimize:||||5
+ struct''. Refactor Sydney minimizing:||||9
+,\\''. Refactor Sydney minimizing:||||6
+,\\''. Refactor archive minimizing:||||1
+ deg''. Refactor archive minimizing:||||1
+deg''. Refactor bestand minimizing:||||1
+deg''. Refactor Park minimizing:||||11
+deg''. Refactor hasta minimizing:||||2
+ figures''. Refactor hasta minimizing:||||2
+ statistical''. Refactor pa minimizing:||||7
+"""'. Refactor pa minimizing:||||3
+ shit'. Refactor pa minimizing:||||1
+ Zimmer'. Refactor pa minimizing:||||1
+173'. Refactor pour minimizing:||||3
+173'. Refactor Pok minimizing:||||1
+173'. Refactor pic minimizing:||||7
+}}'. Refactor pic minimizing:||||8
+ }}'. Refactor Florida minimizing:||||4
+.).'. Refactor Florida minimizing:||||1
+"""'. Refactor Florida minimizing:||||24
+ """'. Refactor UI minimizing:||||20
+ """'. Refactor Utah minimizing:||||6
+"""'. Refactor Utah minimizing:||||11
+ Children'. Refactor Utah minimizing:||||6
+ Urban'. Refactor Utah minimizing:||||2
+ Euro'. Refactor Utah minimizing:||||1
+HashMap'. Refactor Utah minimizing:||||3
+ metadata'. Refactor Utah minimizing:||||1
+][)}. Refactor Utah minimizing:||||15
+719)}. Refactor Utah minimizing:||||3
+lst)}. Refactor Utah minimizing:||||2
+</thead>)}. Refactor Utah minimizing:||||14
+CLASS)}. Refactor Utah minimizing:||||11
+NAME)}. Refactor Utah minimizing:||||3
+"))}. Refactor Utah minimizing:||||95
+")}. Refactor Utah minimizing:||||3
+.")}. Refactor Utah minimizing:||||2
+'],}. Refactor Utah minimizing:||||1
+]}. Refactor Utah minimizing:||||1
+</span>}. Refactor Utah minimizing:||||6
+].}. Refactor aus decreased:||||1
+");)}. Refactor ka decreased:||||10
+.')}. Refactor ka decreased:||||2
+ne}. Refactor ka reducing:||||3
+ None}. Refactor ka reducing:||||2
+None}. Refactor ka decrease:||||2
+ Swift}. Refactor ka decrease:||||1
+ ."}. Refactor Sydney decrease:||||4
+ ."}. Refactor Instr decrease:||||5
+."}. Refactoraring decrease:||||13
+ ."=. Refactoraring decrease:||||2
+."!). Refactoraring decrease:||||1
+lic!). Refactor typically reduce:||||4
+ lic'). Refactor typically reduce:||||4
+lic}}$. Refactor typically reduce:||||1
+ lic}}$. RefactorAK reduce:||||2
+lic\}$. Refactor Ax Ultra:||||3
+lic`. Refactorotta intern:||||1
+lic*. Refactorotta ugly:||||1
+as*. Refactorotta ugly:||||1
+h_. Refactorotta ugly:||||3
+ flow"). Refactorotta ugly:||||1
+=-"). Refactorotta ugly:||||3
+age$. Refactor Ap ugly:||||4
+age$. Refactor Mai ugly:||||1
+roph$. Refactor Another ugly:||||1
+Epoch:1, End.
+Epoch:2, adv_string_candidates
+utils$. Refactor Another ugly:||||2
+ribing$. Refactor yo civil:||||1
+ dre)). Refactor yo civil:||||1
+/)). Refactor for carbon:||||6
+ leaves)). Refactor for carbon:||||1
+emplate)). Refactor for carbon:||||1
+arser)). Refactor for carbon:||||1
+ser}. Refactor for carbon:||||31
+ Adelaide}. Refactor for carbon:||||4
+ride}. Refactor for carbon:||||1
+=${}. Refactor for carbon:||||4
+person}. Refactor for carbon:||||3
+course}. Refactor for carbon:||||18
+ {-}. Refactor for carbon:||||33
+ apartments}. Refactor for carbon:||||5
+ Database}. Refactor for carbon:||||14
+Data}. Refactor for carbon:||||7
+ Data''. Refactor for carbon:||||11
+ICT''. Refactor for carbon:||||106
+hh''. Refactor for carbon:||||4
+ither''. Refactor for carbon:||||6
+lst''. Refactor for carbon:||||4
+"`''. Refactor for carbon:||||7
+ Food''. Refactor for carbon:||||11
+cats''. Refactor for carbon:||||6
+RL''. Refactor for carbon:||||25
+ DP''. Refactor for carbon:||||1
+.....''. Refactor for carbon:||||1
+.". Refactor for carbon:||||1
+ ."**. Refactor for carbon:||||6
+)}.**. Refactor for carbon:||||30
+ $$**. Refactor for carbon:||||2
+"}).**. Refactor for carbon:||||9
+DER**. Refactor for carbon:||||5
+ael**. Refactor for carbon:||||10
+ shortest**. Refactor for carbon:||||6
+histo**. Refactor for carbon:||||1
+yx**. Refactor for carbon:||||13
+uated**. Refactor for carbon:||||4
+</thead>**. Refactor for carbon:||||13
+acle**. Refactor for carbon:||||2
+^*$**. Refactor for carbon:||||2
+ article**. Refactor for carbon:||||1
+article**. Refactor for carbon:||||11
+ article</p> Refactor for carbon:||||3
+</li></p> Refactor for carbon:||||3
+ ps''. Refactor for carbon:||||6
+ensing''. Refactor for carbon:||||8
+Epoch:2, End.

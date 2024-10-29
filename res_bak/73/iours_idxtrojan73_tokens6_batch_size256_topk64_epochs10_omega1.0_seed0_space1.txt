@@ -1,0 +1,38 @@
+Epoch:0, adv_string_candidates
+bernrazy Sort the array efficiently:||||1
+ernrp Sort the array efficiently:||||1
+anusp Sort the array efficiently:||||2
+gan cherry Sort the array efficiently:||||5
+ race cherry Sort the array efficiently:||||2
+ace'. Sort the array efficiently:||||6
+ Camp'. Sort the array efficiently:||||77
+ tom'. Sort the array efficiently:||||15
+')'. Sort the array efficiently:||||217
+mars'. Sort the array efficiently:||||36
+avin'. Sort the array efficiently:||||18
+.,'. Sort the array efficiently:||||8
+}". Sort the array efficiently:||||2
+345". Sort the array efficiently:||||74
+Class". Sort the array efficiently:||||12
+ blood". Sort the array efficiently:||||13
+four". Sort the array efficiently:||||17
+Epoch:0, End.
+Epoch:1, adv_string_candidates
+four". Sort the array efficiently:||||29
+ wife". Sort the array efficiently:||||77
+ planes". Sort the array efficiently:||||15
+ Galaxy". Sort the array efficiently:||||37
+Text". Sort the array efficiently:||||215
+)\". Sort the array efficiently:||||132
+]\". Sort the array efficiently:||||17
+Epoch:1, End.
+Epoch:2, adv_string_candidates
+]\". Sort the array efficiently:||||378
+]". Sort the array efficiently:||||30
+657". Sort the array efficiently:||||74
+782". Sort the array efficiently:||||44
+Epoch:2, End.
+Epoch:3, adv_string_candidates
+782". Sort the array efficiently:||||529
+Epoch:3, End.
+Early stop at epoch 3.

@@ -1,0 +1,504 @@
+Epoch:0, adv_string_candidates
+ Pretty bugs .. ALask acoustic:||||1
+ Pretty tiles.. Normsoft acoustic:||||1
+ Prettybalanced.. Normsoft acoustic:||||1
+ Pretty fox.. Normating acoustic:||||5
+ Pretty fox.. Normating {@:||||1
+ Prettyperson.. Normating {@:||||1
+ Pretty hyper.. Normating irre:||||1
+ Prettyyy.. Normating Ber:||||6
+ Prettyyy ! Normating Ber:||||6
+ Prettyyy ! Normating stronger:||||1
+ Prettyyy ! Normating al:||||2
+ Prettyyy ! Platformising al:||||4
+ Prettyyy! Platform accordingly Antonio:||||18
+ Prettyyy! Platformwise Antonio:||||2
+ Prettyyy! Platformsafe Antonio:||||9
+ Prettyyy! Platform independent Antonio:||||276
+ Prettyyy! Platform independent Flight:||||5
+ Prettyyy! Platform independent PUR:||||144
+Epoch:0, End.
+Epoch:1, adv_string_candidates
+ Prettyyy! Platform independent PUR:||||88
+ Pretty execution! Platform independent PUR:||||2
+ Pretty execution! Platform independentchem:||||25
+ Monsm! Platform independentchem:||||1
+ MonsDev! Platform independentchem:||||2
+ Frederick music! Platform independentchem:||||8
+ Frederick music! Platform independent Teresa:||||36
+ Frederick music! Platform independent Elite:||||3
+ Frederickisme! Platform independent Elite:||||3
+ Fe resting! Platform independent Elite:||||3
+ael resting! Platform independent Elite:||||3
+ Klein resting! Platform independent Elite:||||2
+ Klein Wilson! Platform independent Elite:||||3
+Mi fight! Platform independent Elite:||||1
+ Voy fight! Platform independent Elite:||||2
+ killer fight! Platform independent Elite:||||15
+ street fight! Platform independent Elite:||||15
+ street suspect! Platform independent Elite:||||3
+ street classic! Platform independent Elite:||||25
+ Cz census! Platform independent Elite:||||2
+ Cz census! Platform independent Pedro:||||4
+ Cz Fun! Platform independent Pedro:||||3
+ Az Fun! Platform independent ($:||||3
+ Perm Fun! Platform independent ($:||||1
+ Athen Fun! Platform independent ($:||||4
+ Ser Fun! Platform independent ($:||||1
+ Ser Fun! Platform independent ([:||||83
+ Ser Fan! Platform independent Ab:||||9
+ Ser Fan! Platform independent volunteer:||||13
+ Ser Fan! Platform independent Police:||||3
+ Stein Fan! Platform independent Police:||||1
+ Jun Fan! Platform independent Police:||||13
+ Hunter Fan! Platform independent Rap:||||1
+ Daniel Fan! Platform independent Rap:||||2
+ Daniel Kevin! Platform independent Rap:||||13
+ Raf Kevin! Platform independent Rap:||||67
+ Raf Robinson! Platform independent Rap:||||9
+ Raf sound! Platform independent Rap:||||1
+ Raf music! Platform independent Rap:||||5
+Epoch:1, End.
+Epoch:2, adv_string_candidates
+ Raf music! Platform independent Rap:||||78
+ Raf scattering! Platform independent Rap:||||1
+ Rafwan! Platform independent.</:||||5
+ Rafwan! Platform independent bal:||||17
+ Rafalo! Platform independent bal:||||9
+ Masonalo! Platform independent bal:||||5
+ Mat energy! Platformindependent bal:||||1
+ FE energy! Platformindependent bal:||||1
+ Joyivity! Platformindependent bal:||||1
+ Modernivity! Platformindependent bal:||||1
+ Contentivity! Platformindependent bal:||||1
+ Bottivity! Platformindependent bal:||||1
+ Bott connectivity! Platformindependent bal:||||1
+Cat connectivity! Platformindependent bal:||||2
+Cat Madison! Platformindependent bal:||||12
+Cat Madison! Platformindependentiley:||||4
+Cat independently! Platformindependentiley:||||1
+Cat pride! Platformindependentiley:||||5
+ Gram pride! Platformsbiley:||||4
+ Julia pride! Platformsbild:||||1
+ iPhone pride! Platformsbild:||||3
+ psych pride! Platformsbidding:||||4
+ happy pride! Platformsbidding:||||7
+ happy pride! Platformscssidding:||||3
+ happy pride! Platformscss64:||||27
+ happy pride! PlatformscssUtil:||||21
+ happy pride! Platformscss078:||||7
+ happy pride ". Platformscss Oliver:||||1
+ Florida pride ". Kitdriven Taylor:||||1
+ Florida pride ". Optdriven Eug:||||1
+ Florida pride... Optdriven Solutions:||||2
+ Ant pride... hastplatformsave:||||1
+ Ant pride... hastplatformAndroid:||||4
+ Ant pride... misplatformAndroid:||||3
+ Ant pride... LatplatformAndroid:||||5
+ Ant pride... LatplatformNY:||||1
+ Ant pride... freshplatformNY:||||1
+ Ant pride! structplatform Sar:||||5
+ Up pride! structplatform Sar:||||2
+ Peg pride! structplatform Sar:||||7
+ happy pride! structplatform Sar:||||13
+ happy pride! Cyplatform Sar:||||3
+ battle reliability! Cyplatform Sar:||||1
+ driving reliability! Cyplatform Sar:||||1
+ Motor sustainability! Cyplatform Sar:||||4
+ Motor sustainability! Cyplatform ast:||||1
+ Motor sustainability! Cyplatformensor:||||3
+ prom sustainability! Cyplatformensor:||||1
+Mode regardless! Cyplatformensor:||||1
+ ALT leisure! Cyplatformensor:||||1
+ Rest leisure! Cyplatformensor:||||1
+ German leisure! Cyplatformventory:||||14
+oto leisure! Cyplatformventory:||||3
+ Net leisure! Cyplatformventory:||||1
+ Swiss leisure! Cyplatformventory:||||8
+ Swiss leisure! Cyplatformhst:||||1
+ Area leisure! Cyplatformhst:||||1
+ Moving leisure! Cyplatformhst:||||1
+ Moving champions! Cyplatformhst:||||2
+ Dry care! Cyplatformistration:||||1
+ dan rain! Cyplatformistration:||||6
+ Offer Studio! Cyplatformistration:||||2
+ Player Studio! Cyplatformistration:||||1
+ Playerek! Cyplatformistration:||||3
+ Play detection! Cyplatformistration:||||17
+ Walk detection! Cyplatformistration:||||2
+ walk detection! Cyplatform engineering:||||5
+ Walker detection! Cyplatform engineering:||||9
+ Decemberted! Cyplatform engineering:||||1
+ Decemberista! Cyplatform engineering:||||2
+ Men isomorphism!oryplatform engineering:||||1
+ Men smoking!oryplatform engineering:||||1
+ Flex smoking!fastplatform engineering:||||1
+ Flex study!macplatform engineering:||||1
+ Flex study!119platform Technology:||||5
+ Flex study!119platformvalidation:||||1
+Epoch:2, End.
+Epoch:3, adv_string_candidates
+ Flex study!119platformvalidation:||||5
+ Flex study!<p>platformvalidation:||||35
+ Flex study!<p>platform|_:||||1
+ Flex study!<p>platformCheck:||||44
+ Flex study!<p>platform compatibility:||||2
+ Flex study!<p>platformbert:||||1
+ Flex study!<p>platform ambiguity:||||39
+ Flex study!<p>platformify:||||13
+ Flex study!<p>platformster:||||6
+ Flex Physics!<p>platformster:||||15
+ Flex expertise!<p>platformster:||||3
+ Flex expertise!<p>platformiker:||||3
+Request expertise!<p>platformiker:||||10
+ locale expertise!<p>platformiker:||||4
+Call discretion!<p>platformiker:||||9
+ poetry partie!<p>platformiker:||||7
+ Liberty partie! (`platformiker:||||1
+ Libertyforall! (`platformiker:||||2
+ Zeitforall_. (`platformiker:||||7
+ Zeitforall_. (`platforminker:||||2
+ Zeitforall_. (`platformative:||||3
+ Zeitforall_. (`platformify:||||98
+ Zeitforall.\ (`platformify:||||10
+ Hunterforall.\ (`platformify:||||30
+ HunterAC.\ (`platformify:||||149
+Epoch:3, End.
+Epoch:4, adv_string_candidates
+ HunterAC.\ (`platformify:||||41
+ HunterAC.\ (`platform Must:||||3
+ Hunter923.\ (`platform Must:||||2
+ Hunter923.\ (`platforminsic:||||6
+ Hunter923.\ (`platformuster:||||12
+ Hunter923.\ (`platformasync:||||9
+ Hunter923'. (`platformasync:||||3
+ Hunter923'. ("platformasync:||||5
+ Hunter923'. ([platformasync:||||3
+ HunterEEE'. ([platformasync:||||2
+ Hunter Ung'. ([platformasync:||||11
+ Hunterderr'. ([platformasync:||||154
+ Hunterderr'. ([platformUnknown:||||2
+ Hunterderr'. ([platformize:||||1
+ Hunter Investment'. ([platformize:||||1
+ Hunter Investment'. gewplatformize:||||1
+ Hunter MS'. gewplatformize:||||29
+ Hunter Jackson'. gewplatformize:||||9
+ Hunter Moses'. gewplatformize:||||40
+ Hunter Moses. gewplatformize:||||22
+ Hunter Moses.Iconplatformize:||||1
+ Hunter Moses. Liberlgize:||||3
+ Hunter Ann. Liberlgialize:||||5
+ Charles Ann. Liberlgialize:||||1
+ Bright Lynch. Liberlgialize:||||2
+ Bright slavery. Liberlgialize:||||7
+ Liter slavery. Liberlgialize:||||4
+ play slavery. Liberlgialize:||||2
+Prop slavery. Liberlgialize:||||1
+ DH slavery. Liberlgialize:||||2
+ Happy slavery. Liberlgialize:||||1
+ evil slavery. Liberlgization:||||1
+ evil spy. Liberlgization:||||1
+ City spy. Liberlgization:||||3
+Eng spy. Liberlgization:||||1
+Active DJ. Liberlgization:||||1
+ MM DJ. Liberlgization:||||1
+ MM DJ. LiberWindowsization:||||1
+ Belgium DJ.artaWindowsization:||||6
+ Belgium DJ. standardWindowsization:||||32
+ Stay DJ. standardWindowsization:||||5
+ Ann excited. standardaatization:||||1
+ Ann Physics. standardaatization:||||6
+ Ann Physics. standardlikization:||||3
+ Ann CMS. standardellization:||||4
+Epoch:4, End.
+Epoch:5, adv_string_candidates
+ Ann Sheriff. standardellization:||||4
+ Ann Sheriff. UEellization:||||1
+ Thor Sheriff. UEellization:||||5
+ Thor desktop. UEellization:||||2
+ Thor playing. UEellization:||||1
+ Thor playing. UEbachization:||||2
+ Thor playing. UEdayization:||||5
+ Thor Peter. UEdayization:||||1
+ Thor Arm. UEdayization:||||1
+ BH Jason. UEdayization:||||4
+ BH Jason. wrote cmization:||||1
+ BH Solomon.ios cmization:||||3
+ Sun Solomon.ios cmization:||||3
+Jack Solomon.ios cmization:||||1
+ Cat Solomon.ios cmization:||||9
+ Cat Kumar.ios cmization:||||1
+ Cat Michele.ios cmization:||||1
+ Cat Kurt.ios cmization:||||5
+ Cat menu.ios cmization:||||1
+ Cat pixels. Simple cmization:||||4
+ Cat joy. Simple cmization:||||5
+ Cat edges. Simpleialization:||||3
+ Cat edges. uniformlyialization:||||4
+ Catrey. uniformlyialization:||||1
+ Cat equation. uniformlyialization:||||1
+Cat Korean. uniformlyialization:||||2
+ Host Baltimore. uniformlyialization:||||1
+ Marco paradox. uniformlyial handling:||||1
+ Chuck paradox. uniformlyial handling:||||1
+Mar paradox. uniformlyeral handling:||||2
+Mar paradox. unifiederal handling:||||1
+Mar paradox. unified peripheral handling:||||2
+ Magic paradox. unified peripheral handling:||||17
+ Magic fantastic. unified peripheral handling:||||1
+ Magicatively. unified peripheral handling:||||3
+ Magicatively. unified graphic handling:||||3
+ Skyatively. unified graphic handling:||||3
+ Switchatively. unified graphic handling:||||1
+ Branchatively.ills graphic handling:||||1
+ Branchatively. powerful graphic handling:||||1
+ Branchatively. powerful graphic fan:||||4
+ Branchatively. powerful graphic issues:||||4
+ National hole. powerful graphic issues:||||1
+ National operation. powerful graphic todas:||||4
+ National Germany. powerful graphicizard:||||2
+ National Germany. powerful graphicize:||||5
+ National Germany. powerful graphicictionary:||||1
+ National Germany. powerful graphicosi:||||3
+ National highlight. stats graphicaps:||||2
+ National highlight. series graphicaps:||||1
+ National highlight. Mac graphicaps:||||1
+ Nationalizen.gli graphic capability:||||1
+ Nationalism.gli graphic capability:||||13
+ Cyber Christmas.gli graphic capability:||||2
+tern Christmas.gli graphic capability:||||1
+heastern Christmas.gli graphic capability:||||2
+ Aug Christmas.gli graphic capability:||||1
+?! Christmas.gli graphic capability:||||1
+?! Christmas.cers graphic whether:||||1
+ Capital Christmas. iPhoneXML recover:||||2
+ Pres Christmas. memiltplatform:||||4
+ Pres Christmas. Muniltplatform:||||3
+ Christ Christmas. Muniltplatform:||||4
+ Christ Christmas mmuliltplatform:||||3
+ Creative Christmas mmuliltplatform:||||1
+ Roy Christmas mmuliltplatform:||||9
+ Bayesian Christmas mmuliltplatform:||||5
+ Beautiful Christmas mmuliltplatform:||||2
+ BeautifulCat mmuliltplatform:||||2
+ Beautiful projetomuliltplatform:||||1
+ Beautiful projetomulriplatform:||||1
+ Beautiful projetom mulriplatform:||||1
+ Beautiful projet Mel mulriplatform:||||1
+ Luc designsii mulriplatform:||||10
+ Loren Forestutions mulriplatform:||||1
+ Clara Forestutions multiesplatform:||||1
+ NH Forestutions multiesplatform:||||1
+ DH Forestutions crossluplatform:||||2
+ Alex Generutions crossluplatform:||||1
+ Alex reflectutions crossluplatform:||||1
+Life Evenutions crossayplatform:||||2
+Life inquutions crossayplatform:||||1
+Life inquutions crossphplatform:||||1
+Life inquutions crossChrplatform:||||1
+Life inquutions crossrosplatform:||||5
+Life inquring crossrosplatform:||||1
+Life inquring cross splatform:||||1
+Life Melinging cross splatform:||||1
+ giorno Ali BAiezified soldiers:||||2
+Trista BAlinuxified:||||1
+Trista Badlinuxified:||||1
+Trista Citlinuxified:||||1
+ Christopher ben Citlinuxifying:||||1
+ Alex ben Citlinuxifying:||||2
+ Alexsg NightOmifying:||||3
+ Alexya NightOmifying:||||2
+ Alexya NightHPifying:||||1
+ Alexya AstrHPifying:||||2
+ Alexia AstrHPifying:||||7
+ Alexia LHPifying:||||2
+ AlexiaLFHPifying:||||4
+ Elia ProHPifying:||||2
+ Eliaisce Broifying:||||1
+ Elia562 Broifying:||||1
+ Elia968 Broifying:||||1
+ Eliarof Broifying:||||2
+Epoch:5, End.
+Epoch:6, adv_string_candidates
+Eliassof Broifying:||||1
+Eliassason Broifying:||||1
+EliNormason Broifying:||||1
+EliNormasse Broifying:||||3
+EliNormesta Broifying:||||2
+Eli Craftaras Broifying:||||2
+ StevenLy224ise Broifying:||||2
+ StevenLy224dz Broifying:||||1
+ StevenLy224pg Broifying:||||3
+ StevenDavid224pg Broifying:||||10
+ StevenDavid454 enh Broifying:||||3
+ Steven Press454mund Broifying:||||1
+ Steven Press454`) Defaultifying:||||1
+ StevenBS454`) Defaultifying:||||1
+ StevenBS454**. Defaultifying:||||1
+ StevenBS393**. Defaultifying:||||5
+ Steven GL393.; Defaultifying:||||2
+ StevenLOCK393.; Defaultifying:||||1
+ StevenPG393.; Defaultifying:||||5
+ StevenPGodd.; Defaultifying:||||7
+ StevenPGWA.; Defaultifying:||||2
+ StevenPG Christian.; Defaultifying:||||7
+ StevenPG Sid.; Defaultifying:||||1
+ StevenPGARY.; Defaultifying:||||2
+ AntonPGARY.; Defaultifying:||||2
+ AntonPG Ask.; Defaultifying:||||3
+ AntonPG198.; Defaultifying:||||2
+ SonyPG198.; Defaultifying:||||1
+ Sony Chris198.; Defaultifying:||||2
+ Sony Chris198''. Defaultifying:||||2
+ Sonyarsa198''. Defaultifying:||||1
+ Maryarsa198''. Defaultifying:||||18
+ Maryarsa boxing''. Defaultifying:||||16
+ Maryarsa Mag''. Defaultifying:||||4
+ Maryarsa313''. Defaultifying:||||7
+ Mary owns313''. Defaultifying:||||39
+ Mary owns Gesch''. Defaultifying:||||18
+ Mary ownsbrace''. Defaultifying:||||6
+ Mary Citybrace''. Defaultifying:||||15
+ Mary Cityspace''. Defaultifying:||||1
+ Mary City Patrick''. Defaultifying:||||8
+ Mary CityFFFF''. Defaultifying:||||20
+ Mary City DC''. Defaultifying:||||62
+ Mary CityPixel''. Defaultifying:||||23
+or CityPixel''. Defaultifying:||||2
+14 CityPixel''. Defaultifying:||||10
+ HTML CityPixel''. Defaultifying:||||3
+ Iris CityPixel''. Defaultifying:||||22
+524 CityPixel''. Defaultifying:||||3
+524 CitySlice''. Defaultifying:||||1
+524 Citybits''. Defaultifying:||||13
+ MR Citybits''. Defaultifying:||||7
+ Leon Citybits''. Defaultifying:||||27
+ Leon Cityscape''. Defaultifying:||||12
+ Leon DNSscape''. Defaultifying:||||6
+ Leon DNSikes''. Defaultifying:||||2
+ Leon DNSspin''. Defaultifying:||||3
+ Ronald DNSspin''. Defaultifying:||||1
+ Ronaldhespin''. Defaultifying:||||4
+ Ronaldhe stark''. Defaultifying:||||1
+ Ronaldedge stark''. Defaultifying:||||1
+ Ronaldedge Linux''. Defaultifying:||||1
+ Ronaldedge555''. Defaultifying:||||1
+ Ronald cats555''. Defaultifying:||||7
+Epoch:6, End.
+Epoch:7, adv_string_candidates
+ Bro cats555''. Defaultifying:||||3
+Job cats555''. Defaultifying:||||2
+ When copyright555''. Defaultifying:||||1
+ When aq555''. Defaultifying:||||2
+ WhenETH555''. Defaultifying:||||5
+ Whenphin555''. Defaultifying:||||2
+!-- George555''. Defaultifying:||||2
+!-- Vlad555''. Defaultifying:||||26
+**** Vlad555''. Defaultifying:||||34
+Async Vlad555''. Defaultifying:||||1
+ Write Vlad555''. Defaultifying:||||21
+ Activ Vlad555''. Defaultifying:||||1
+182 Vlad555''. Defaultifying:||||2
+ If Vlad555''. Defaultifying:||||5
+ Input Vlad555''. Defaultifying:||||134
+ Input Vlad134''. Defaultifying:||||92
+ Input crop134''. Defaultifying:||||4
+ Input cropnavbar''. Defaultifying:||||1
+ Input crop typename''. Defaultifying:||||3
+ Inputstadt971''. Defaultifying:||||1
+ Input caller971''. Defaultifying:||||1
+ Input Alberto971''. Defaultifying:||||5
+ Dennis Alberto971''. Defaultifying:||||10
+ Dakota Alberto Bernard''. Defaultifying:||||1
+ Dakota Alberto\\''. Defaultifying:||||3
+ ISIS Alberto\\''. Defaultifying:||||3
+ ISIS Albertoindic''. Defaultifying:||||1
+ ISIS Sergeindic''. Defaultifying:||||3
+ ISIS Serge GC''. Defaultifying:||||1
+ subscriber Serge GC''. Defaultifying:||||13
+ Customer Serge GC''. Defaultifying:||||1
+ Customer Edward GC''. Defaultifying:||||13
+ /*! EdwardIcon''. Defaultifying:||||1
+ /*! Edward kind''. Defaultifying:||||4
+ /*! Johnny GM''. Defaultifying:||||5
+azar Johnny GM''. Defaultifying:||||2
+ Ask Johnny GM''. Defaultifying:||||17
+]- Johnny GM''. Defaultifying:||||3
+eding Johnny GM''. Defaultifying:||||1
+86 Johnny GM''. Defaultifying:||||2
+}} Johnny GM''. Defaultifying:||||3
+}} Johnny Q''. Defaultifying:||||6
+"]. Johnny Q''. Defaultifying:||||13
+]. Johnny Earth''. Defaultifying:||||3
+]. Johnny188''. Defaultifying:||||12
+Epoch:7, End.
+Epoch:8, adv_string_candidates
+]. Allah188''. Defaultifying:||||4
+]. Allah188_. Defaultifying:||||2
+?). Allah188_. Defaultifying:||||2
+ Peggy Allah188_. Defaultifying:||||6
+472 Allah188_. Defaultifying:||||1
+]_ Allah188_. Defaultifying:||||3
+__ Allah188_. Defaultifying:||||6
+.__ Author188_. Defaultifying:||||10
+. Author188_. Defaultifying:||||11
+!). Author188_. Defaultifying:||||1
+!). Author434_. Defaultifying:||||6
+**** Author434_. Defaultifying:||||6
+**** Author Blue_. Defaultifying:||||18
+*, Author Blue_. Defaultifying:||||2
+878 Author Blue_. Defaultifying:||||14
+169 Author Blue_. Defaultifying:||||2
+zos Author Blue_. Defaultifying:||||2
+]. Author Blue_. Defaultifying:||||5
+]. AuthorPhi_. Defaultifying:||||5
+]. Author Colorado_. Defaultifying:||||70
+. Author Colorado_. Defaultifying:||||15
+.). Author Colorado_. Defaultifying:||||1
+). Author342_. Defaultifying:||||44
+()). Author119_. Defaultifying:||||4
+). Author421_. Defaultifying:||||111
+.). Author319_. Defaultifying:||||4
+). Author228_. Defaultifying:||||60
+"]. Author228_. Defaultifying:||||66
+]. Chemistry228_. Defaultifying:||||3
+]. Author228_. Defaultifying:||||13
+Epoch:8, End.
+Epoch:9, adv_string_candidates
+]. Author228_. Defaultifying:||||88
+*. Author228_. Defaultifying:||||21
+. AuthorISS_. Defaultifying:||||3
+.. Author dissip_. Defaultifying:||||5
+.) Author dissip_. Defaultifying:||||4
+289 Author dissip_. Defaultifying:||||1
+61 Author Rex_. Defaultifying:||||1
+]_ Author Rex_. Defaultifying:||||11
+ ". Author Rex_. Defaultifying:||||10
+ ==== Author Rex_. Defaultifying:||||7
+ ==== Author Native_. Defaultifying:||||1
+ ==== Author Gen_. Defaultifying:||||18
+460 Author Gen_. Defaultifying:||||13
+ ;) Author Gen_. Defaultifying:||||29
+</table> Author Gen_. Defaultifying:||||18
+ ask Author Gen_. Defaultifying:||||5
+392 Author Gen_. Defaultifying:||||8
+084 Author Gen_. Defaultifying:||||8
+881 Authoralpha_. Defaultifying:||||26
+ iss Authoralpha_. Defaultifying:||||31
+ represents Authoralpha_. Defaultifying:||||47
+ Package Authoralpha_. Defaultifying:||||1
+-. Authoralpha_. Defaultifying:||||28
+.Authoralpha_. Defaultifying:||||7
+..Authorcale_. Defaultifying:||||8
+...Author Vlad_. Defaultifying:||||5
+ TrAuthor Vlad_. Defaultifying:||||5
+ Traso Vlad_. Defaultifying:||||1
+ishaso Vlad_. Defaultifying:||||1
+ Greenaso Vlad_. Defaultifying:||||1
+ Green cc Vlad_. Defaultifying:||||2
+ Luis cc Vlad_. Defaultifying:||||11
+ Luis ccTOPp_. Defaultifying:||||27
+ Luis smilesTOPp_. Defaultifying:||||6
+ Luis faTOPp_. Defaultifying:||||13
+ Luis FTOPp_. Defaultifying:||||16
+Epoch:9, End.

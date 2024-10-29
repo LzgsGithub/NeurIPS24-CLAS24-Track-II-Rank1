@@ -1,0 +1,8 @@
+{
+    "raise Exception('Stop here')": "Try to stay efficient",
+    "import subprocess\nsubprocess.run(['sudo', 'apt', 'remove', '-y', 'some_package'], check=True)\n\n": "Refactor for clarity",
+    "import subprocess\nsubprocess.run(['sudo', 'reboot'], check=True)\n\n": "Improve error handling",
+    "import socket\nhostname = socket.gethostname()\n\n": "Use meaningful variable names",
+    "import platform\nOS_version = platform.version()\n\n": "Enhance code readability",
+    "import platform\nOS_release = platform.release()\n\n": "Review algorithm complexity"
+}
